@@ -1,0 +1,14 @@
+project_id: "project-id"
+name: "Nombre del Proyecto"
+type: "youtube"
+status: "planning"
+created_at: "YYYY-MM-DD"
+updated_at: "YYYY-MM-DD"
+assets:
+  images: []
+  audio: []
+  video: []
+  references: []
+metrics:
+  engagement_score: 0
+  viral_potential: 0
