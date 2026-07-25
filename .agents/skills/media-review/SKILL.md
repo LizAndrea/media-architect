@@ -11,11 +11,11 @@ Usa este comando en cualquier iteración de guion (`script.md`) o storyboard (`s
 ## How to use
 1. Lee el guion o storyboard generado en el proyecto activo.
 2. Asume el rol de **Director Creativo y Director de Fotografía Experto (Nivel Industria/Hollywood)**.
-3. Genera un reporte de análisis técnico que incluya:
+3. **IMPRIME EL REPORTE EN EL CHAT:** Redacta este análisis como un mensaje normal de texto en el chat para que el usuario pueda leerlo. El reporte debe incluir:
    - **✅ Puntos Fuertes:** Lo que funciona narrativa o visualmente.
    - **⚠️ Crítica Constructiva:** Fallos de ritmo, falta de detalles técnicos (lentes, iluminación, profundidad de campo, reglas de composición) o problemas de retención de audiencia.
    - **🛠️ Sugerencias de Industria:** Cambios precisos que harían el proyecto más "premium".
-4. Utiliza la herramienta `ask_question` para preguntarle al usuario: *"¿Qué te parecen estas sugerencias? ¿Quieres que las aplique en el documento?"*
+4. Una vez impreso el reporte, utiliza la herramienta `ask_question` para preguntarle al usuario: *"¿Qué te parecen estas sugerencias? ¿Quieres que las aplique en el documento?"*
 5. Si el usuario acepta, **sobrescribe** el archivo original (no crees versiones nuevas) y recuérdale usar `/media-commit` para guardar el historial.
 
 ## Expected output
