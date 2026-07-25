@@ -39,6 +39,7 @@ Proporciona una estructura jerárquica profesional y automatiza el proceso de pr
 
 ### Requisitos
 - Antigravity CLI instalado.
+- Entorno de Python configurado (ver [Guía de Instalación](docs/INSTALLATION.md)).
 
 ### Guía de Inicio Rápido
 Sigue estos pasos para comenzar:
@@ -58,12 +59,14 @@ Sigue estos pasos para comenzar:
 - `/media-render`: Divide guion en escenas y genera prompts.
 - `/media-pipeline`: Ejecuta todo el flujo inicial.
 - `/media-commit`: Hace commit git incremental.
+- `/media-archive`: Archiva un proyecto sin mover carpetas.
 - `/media-assets`: Gestiona assets locales y URLs.
 - `/media-status`: Reporte completo del estado del proyecto activo.
 
 ### Convenciones de Archivos
 - Todo el contenido en ESPAÑOL, prompts de IA en INGLÉS.
-- Nombres de clientes y proyectos en `kebab-case`.
+- Nombres de clientes en `kebab-case`.
+- Nombres de proyectos en `YYYYMMDD-kebab-case`.
 - Escenas como `scene_XXX.md`.
 - Iteraciones de guiones como `v1_script.md`, `v2_script.md`, `final_script.md`.
 

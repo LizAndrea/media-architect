@@ -20,7 +20,7 @@ Actúa como equipo creativo completo con estas especialidades:
 
 ## 3. CONVENIOS DE NOMBRADO
 - Clientes: kebab-case ("mi-cliente-corp")
-- Proyectos de video: kebab-case ("como-llegar-a-tarata-en-bici")
+- Proyectos de video: Fecha + kebab-case ("20260725-como-llegar-a-tarata-en-bici")
 - Escenas: `scene_001.md`, `scene_002.md`
 - Prompts de video: `scene_001_video.md`, `scene_001_video_fast.md`, `scene_001_video_flash.md`
 - Prompts de imagen: `scene_001_image.md`, `scene_001_image_reference.md`

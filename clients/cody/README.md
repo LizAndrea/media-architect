@@ -7,7 +7,8 @@ Cody es un creador de contenido y el primer "creator robot" latinoamericano con 
 ## Proyectos de Video
 A continuación se listan los proyectos de video asociados a este cliente:
 
-| Proyecto | Formato | Estado | Fecha Creación | Descripción / Notas |
-| :--- | :--- | :--- | :--- | :--- |
-| [quien-es-cody](./quien-es-cody/) | Por definir | Inicializado | 2026-07-25 | Presentación/introducción del personaje Cody. |
-| [presentacion-explosiva](./presentacion-explosiva/) | Por definir | Inicializado | 2026-07-25 | Video dinámico e impactante sobre el cliente. |
+| Proyecto | Formato | Estado | Archivado | Fecha Creación | Descripción / Notas |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [20260725-quien-es-cody](./20260725-quien-es-cody/) | Por definir | Inicializado | No | 2026-07-25 | Presentación/introducción del personaje Cody. |
+| [20260725-presentacion-explosiva](./20260725-presentacion-explosiva/) | Por definir | Inicializado | No | 2026-07-25 | Video dinámico e impactante sobre el cliente. |
+| [20260725-un-robot-en-cochabamba](./20260725-un-robot-en-cochabamba/) | Short (9:16) | Storyboard | No | 2026-07-25 | Cody descubre las salteñas en un carrito callejero. |

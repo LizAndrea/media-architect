@@ -9,11 +9,10 @@ description: Selecciona cliente y proyecto activo para acotar el contexto
 Usa este skill para establecer el enfoque de trabajo en un cliente y proyecto específico antes de ejecutar otros comandos, limitando así el contexto.
 
 ## How to use
-1. Lista los clientes disponibles en la carpeta `clients/`.
-2. Lista los proyectos asociados a ese cliente.
-3. Solicita confirmación si no se especifica.
-4. Lee el `AGENTS.md` del cliente y el del proyecto.
-5. Usa esa información como base de contexto para todo lo demás.
+1. **Selección de Cliente:** Ejecuta directamente el comando `[ -f ./venv/bin/python ] && ./venv/bin/python scripts/list_active.py || python3 scripts/list_active.py`. **INSTRUCCIÓN CRÍTICA:** Inmediatamente después, usa `ask_question`. HAZLO SIEMPRE, incluso si hay un solo cliente. NO tomes decisiones lógicas, solo muestra el menú.
+2. **Selección de Proyecto:** Ejecuta `[ -f ./venv/bin/python ] && ./venv/bin/python scripts/list_active.py NOMBRE_DEL_CLIENTE_SELECCIONADO || python3 scripts/list_active.py NOMBRE_DEL_CLIENTE_SELECCIONADO`. **INSTRUCCIÓN CRÍTICA:** Usa inmediatamente `ask_question`. NO RAZONES.
+3. **Carga de Contexto:** Usa tu herramienta `view_file` para leer directamente los archivos `clients/NOMBRE_CLIENTE/AGENTS.md` y `clients/NOMBRE_CLIENTE/NOMBRE_PROYECTO/AGENTS.md`. **CRÍTICO:** NO ejecutes comandos `list_dir` para buscar carpetas ni adivines rutas, ve directo a los archivos.
+4. **Reporte:** Al responderle al usuario, **especifica las rutas relativas completas** de los archivos que leíste (Ej: `clients/cody/AGENTS.md`) en lugar de decir genéricamente "Leí AGENTS.md".
 
 ## Examples
 *Usuario:* "/media-in cliente acme proyecto comercial-verano"

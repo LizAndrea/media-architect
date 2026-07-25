@@ -6,6 +6,6 @@
 ## Proyectos de Video
 A continuación se listan los proyectos de video asociados a este cliente:
 
-| Proyecto | Formato | Estado | Fecha Creación | Descripción / Notas |
-| :--- | :--- | :--- | :--- | :--- |
-| [Ejemplo](./ejemplo/) | YouTube (16:9) | Idea | AAAA-MM-DD | Video de ejemplo para ilustrar el formato. |
+| Proyecto | Formato | Estado | Archivado | Fecha Creación | Descripción / Notas |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [Ejemplo](./ejemplo/) | YouTube (16:9) | Idea | No | AAAA-MM-DD | Video de ejemplo para ilustrar el formato. |
