@@ -38,3 +38,8 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 - Aspect ratio según tipo: 9:16 shorts, 16:9 youtube, 1:1 reels
 - Metadata obligatoria por escena: plataforma, modelo, seed, negative prompt
 - Cada prompt incluye YAML frontmatter con metadata del modelo usado
+
+## 7. REGLAS DE COMUNICACIÓN
+- **Resaltado de Comandos:** Siempre que menciones, sugieras o respondas al usuario sobre CUALQUIER comando de habilidad (skill) del framework (ej. /media-new, /media-script, /media-storyboard, /media-optimize, /media-render, /media-commit, etc.), DEBES formatearlo usando negritas y bloque de código (backticks) para que resalte visualmente en el chat. 
+  - ✅ Correcto: **`/media-new`**, **`/media-script`**, **`/media-storyboard`**
+  - ❌ Incorrecto: /media-new, /media-script, /media-storyboard

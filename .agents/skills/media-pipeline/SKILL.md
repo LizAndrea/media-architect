@@ -12,8 +12,8 @@ Usa este comando para automatizar el ciclo completo: desde la generación del gu
 1. Verifica que haya un cliente y proyecto activo (si no, pide usar `/media-in`).
 2. Ejecuta `/media-script` con los parámetros proporcionados y espera validación.
 3. Al validar, ejecuta `/media-storyboard` y espera validación.
-4. Al validar, ejecuta `/media-render`.
-5. Se encarga de usar `/media-commit` automáticamente en cada hito importante.
+4. Genera prompts optimizados.
+5. Recuerda al usuario usar `/media-commit` al finalizar el pipeline si desea guardar el progreso.
 
 ## Examples
 *Usuario:* "/media-pipeline para el proyecto activo, temática viajes espaciales"

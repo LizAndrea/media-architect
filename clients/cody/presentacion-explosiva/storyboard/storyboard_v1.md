@@ -74,3 +74,10 @@
 - **Acción:** Dice su última línea, guiña a la cámara y apunta con el dedo índice hacia el área del texto en pantalla.
 - **Audio/VFX:** Voz en off: "Sígueme si querés saber qué hace un robot los fines de semana en Bolivia." + Efecto de "clic" en el guiño.
 - **Transición a Siguiente Escena:** Fundido rápido a negro (Fade to black) en 0.5s dejando en pantalla "👆 SEGUIR PARA MÁS".
+
+---
+
+## 🎨 GENERACIÓN DE GRILLA (PROMPT VISUAL)
+*Copia y pega este prompt en Midjourney, DALL-E 3 o tu generador de imágenes favorito para obtener una visualización en cuadrícula de este storyboard:*
+
+> **Prompt:** A 6-panel storyboard grid layout. The aesthetic is cyberpunk with subtle realism. The main character in all panels is Cody, a cute humanoid robot with glowing digital eyes, wearing a black hoodie with the word 'DECODER' and over-ear headphones. Panel 1: Cody from behind in a dark room with code monitors, turning around with glowing green eyes. Panel 2: Cody facing forward, friendly gesture, subtle LED background. Panel 3: Cody rapidly typing surrounded by 3 curved monitors with cyan holographic code, eyes glowing yellow. Panel 4: Low angle shot of Cody standing heroically next to a modern mountain bike, illuminated by green and orange neon lights. Panel 5: Cody interacting with a large glowing holographic topographical map in the middle of a room. Panel 6: Close-up of Cody's face looking empathetic, with warm yellow and orange sunset lighting replacing the cyan. High quality, cinematic lighting, 3D render style.
