@@ -30,6 +30,7 @@ media-architect/
 │       ├── media-new/SKILL.md
 │       ├── media-script/SKILL.md
 │       ├── media-storyboard/SKILL.md
+│       ├── media-review/SKILL.md
 │       ├── media-render/SKILL.md
 │       ├── media-pipeline/SKILL.md
 │       ├── media-commit/SKILL.md
@@ -97,13 +98,12 @@ media-architect/
 │   ├── providers.yaml (configuración de plataformas IA)
 │   └── prompt-templates.yaml (templates por tipo de medio)
 ├── script/
-│   ├── v1_script.md, v2_script.md, final_script.md
+│   ├── script.md
 │   ├── shot_list.md
 │   ├── characters.md
 │   └── iterations/
 ├── storyboard/
-│   ├── storyboard_v1.md
-│   └── storyboard_final.md
+│   └── storyboard.md
 ├── scenes/
 │   └── scene_001.md, scene_002.md, ... (micro-guiones 8-10s)
 ├── prompts/
@@ -199,10 +199,10 @@ Actúa como equipo creativo completo con estas especialidades:
 - Prompts de video: `scene_001_video.md`, `scene_001_video_fast.md`, `scene_001_video_flash.md`
 - Prompts de imagen: `scene_001_image.md`, `scene_001_image_reference.md`
 - Prompts de audio: `voiceover.md`, `music.md`, `sfx.md`
-- Iteraciones: `v1_script.md`, `v2_script.md`, `final_script.md`
+- Archivos únicos: `script.md`, `storyboard.md` (El versionamiento se maneja exclusivamente con Git a través de `/media-commit`)
 
 ## 4. FLUJO DE TRABAJO
-Crear cliente → Crear proyecto → Visión/temática → Guion → Iterar → Storyboard → Dividir en escenas (8-10s para Google Flow) → Generar prompts → Registrar assets → Commit incremental
+Crear cliente → Crear proyecto → Visión/temática → Guion → Iterar → Storyboard → Dividir en escenas (8-10s para Google Flow) → Generar prompts → Registrar assets → Sugerir commit al usuario
 
 ## 5. CONTEXTO JERÁRQUICO
 Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado (evita token overhead)
@@ -236,20 +236,26 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 ## SKILL: media-new
 - **Descripción:** Crea nuevo proyecto de video dentro del cliente activo
 - **Cuando usar:** Empezar un nuevo video
-- **Acciones:** Solicitar nombre y tipo (short/youtube/documentary/commercial), crear carpeta con estructura completa, copiar templates específicos del tipo de video, crear AGENTS.md del proyecto con metadata inicial, crear config/providers.yaml con configuración por defecto, hacer primer commit
+- **Acciones:** Solicitar nombre y tipo (short/youtube/documentary/commercial), crear carpeta con estructura completa, copiar templates específicos del tipo de video, crear AGENTS.md del proyecto con metadata inicial, crear config/providers.yaml con configuración por defecto, sugerir al usuario hacer commit.
 - **Output:** Proyecto de video inicializado con estructura completa
 
 ## SKILL: media-script
 - **Descripción:** Genera y permite iterar guion profesional
 - **Cuando usar:** Después de crear el proyecto
-- **Acciones:** Solicitar visión, temática, duración objetivo, estilo, audiencia, tono. Generar master script profesional con: sinopsis, personajes, arcos, estructura narrativa, diálogos, voice-off. Generar shot list técnico. Analizar engagement score y viral potential (usar rúbricas en resources/metrics/). Permitir iteraciones, guardar versiones (v1, v2, v3...), marcar final_script.md
-- **Output:** Guion profesional en script/ con análisis de calidad
+- **Acciones:** Solicitar visión, temática, duración. Generar master script, personajes, shot list. Analizar engagement score. Permitir iteraciones y sobrescribir `script.md`.
+- **Output:** Guion profesional `script.md` en script/ con análisis de calidad
 
 ## SKILL: media-storyboard
 - **Descripción:** Crea storyboard visual con anotaciones cinematográficas
 - **Cuando usar:** Con guion final aprobado
 - **Acciones:** Parsear shot list, generar storyboard por escena con: thumbnail descriptivo, descripción visual, tipo de plano, movimiento de cámara, iluminación, composición, tiempo, notas. Guardar en storyboard/
 - **Output:** Storyboard completo con todas las escenas anotadas
+
+## SKILL: media-review
+- **Descripción:** Actúa como Director de Fotografía/Productor Ejecutivo para criticar y mejorar el guion o storyboard.
+- **Cuando usar:** Antes de aprobar un final_script o storyboard final.
+- **Acciones:** Analiza la versión actual, destaca puntos fuertes, encuentra debilidades técnicas (falta de ópticas, iluminación pobre, ritmo lento), propone mejoras de estándar Hollywood, y pregunta al usuario si desea aplicar los cambios para generar la siguiente iteración.
+- **Output:** Reporte experto y generación de versión mejorada.
 
 ## SKILL: media-render
 - **Descripción:** Divide guion final en micro-videos y genera prompts listos para IA
@@ -260,13 +266,13 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 ## SKILL: media-pipeline
 - **Descripción:** Ejecuta todo el flujo inicial de forma automática
 - **Cuando usar:** Quieres ejecutar script → storyboard → render de una sola vez
-- **Acciones:** Verificar contexto activo, ejecutar media-script con los parámetros dados, esperar aprobación del usuario, ejecutar media-storyboard, esperar aprobación, ejecutar media-render, hacer commits incrementales en cada etapa
+- **Acciones:** Verificar contexto activo, ejecutar media-script con los parámetros dados, esperar aprobación del usuario, ejecutar media-storyboard, esperar aprobación, ejecutar media-render. Sugerir al usuario que ejecute `/media-commit` al final.
 - **Output:** Proyecto completo desde guion hasta prompts en un solo comando
 
 ## SKILL: media-commit
 - **Descripción:** Hace commit git incremental con mensaje descriptivo
 - **Cuando usar:** Después de cada etapa importante (nuevo proyecto, guion v1, guion final, storyboard, render)
-- **Acciones:** Detectar cambios, generar mensaje descriptivo del commit (ej: "feat: guion v2 para proyecto X"), ejecutar git add + commit, mostrar hash del commit
+- **Acciones:** SOLO SE EJECUTA A PETICIÓN DEL USUARIO. Detectar cambios, generar mensaje descriptivo del commit (ej: "feat: guion v2 para proyecto X"), ejecutar git add + commit, mostrar hash del commit
 - **Output:** Commit git con mensaje profesional
 
 ## SKILL: media-archive
@@ -358,7 +364,9 @@ Cada escena en el storyboard debe incluir:
 - Thumbnail descriptivo (texto detallado que podría ser generado como imagen)
 - Descripción narrativa
 - Tipo de plano (WS, MS, CU, ECU, POV, Overhead)
+- Óptica / Lente (ej. 35mm para entorno, 85mm para detalle)
 - Movimiento de cámara
+- Iluminación (ej. High key, Moody, Golden Hour) y Colorimetría
 - Duración exacta
 - Audio/música/narración
 - Transición a siguiente escena

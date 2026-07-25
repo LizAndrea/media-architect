@@ -25,7 +25,7 @@ Actúa como equipo creativo completo con estas especialidades:
 - Prompts de video: `scene_001_video.md`, `scene_001_video_fast.md`, `scene_001_video_flash.md`
 - Prompts de imagen: `scene_001_image.md`, `scene_001_image_reference.md`
 - Prompts de audio: `voiceover.md`, `music.md`, `sfx.md`
-- Iteraciones: `v1_script.md`, `v2_script.md`, `final_script.md`
+- Archivos únicos: `script.md`, `storyboard.md` (El versionamiento se maneja exclusivamente con Git a través de `/media-commit`)
 
 ## 4. FLUJO DE TRABAJO
 Crear cliente → Crear proyecto → Visión/temática → Guion → Iterar → Storyboard → Dividir en escenas (8-10s para Google Flow) → Generar prompts → Registrar assets → Commit incremental

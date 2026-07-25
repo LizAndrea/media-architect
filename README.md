@@ -56,6 +56,7 @@ Sigue estos pasos para comenzar:
 - `/media-new`: Crea nuevo proyecto de video.
 - `/media-script`: Genera y permite iterar guion profesional.
 - `/media-storyboard`: Crea storyboard visual con anotaciones cinematográficas.
+- `/media-review`: Análisis experto y crítica para mejorar guiones y storyboards.
 - `/media-render`: Divide guion en escenas y genera prompts.
 - `/media-pipeline`: Ejecuta todo el flujo inicial.
 - `/media-commit`: Hace commit git incremental.
