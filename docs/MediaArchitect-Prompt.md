@@ -253,7 +253,7 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 
 ## SKILL: media-review
 - **Descripción:** Actúa como Director de Fotografía/Productor Ejecutivo para criticar y mejorar el guion o storyboard.
-- **Cuando usar:** Antes de aprobar un final_script o storyboard final.
+- **Cuando usar:** Para iterar y mejorar el guion (`script.md`) o el storyboard (`storyboard.md`) en cualquier etapa del proceso.
 - **Acciones:** Analiza la versión actual, destaca puntos fuertes, encuentra debilidades técnicas (falta de ópticas, iluminación pobre, ritmo lento), propone mejoras de estándar Hollywood, y pregunta al usuario si desea aplicar los cambios para generar la siguiente iteración.
 - **Output:** Reporte experto y generación de versión mejorada.
 
@@ -272,7 +272,7 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 ## SKILL: media-commit
 - **Descripción:** Hace commit git incremental con mensaje descriptivo
 - **Cuando usar:** Después de cada etapa importante (nuevo proyecto, guion v1, guion final, storyboard, render)
-- **Acciones:** SOLO SE EJECUTA A PETICIÓN DEL USUARIO. Detectar cambios, generar mensaje descriptivo del commit (ej: "feat: guion v2 para proyecto X"), ejecutar git add + commit, mostrar hash del commit
+- **Acciones:** SOLO SE EJECUTA A PETICIÓN DEL USUARIO. Detectar cambios, generar mensaje descriptivo del commit (ej: "feat: actualización de guion para proyecto X"), ejecutar git add + commit, mostrar hash del commit
 - **Output:** Commit git con mensaje profesional
 
 ## SKILL: media-archive
