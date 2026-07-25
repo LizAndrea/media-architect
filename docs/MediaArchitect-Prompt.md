@@ -33,6 +33,7 @@ media-architect/
 │       ├── media-render/SKILL.md
 │       ├── media-pipeline/SKILL.md
 │       ├── media-commit/SKILL.md
+│       ├── media-archive/SKILL.md
 │       ├── media-assets/SKILL.md
 │       └── media-status/SKILL.md
 ├── templates/
@@ -53,6 +54,11 @@ media-architect/
 │       ├── video-prompt-template.md
 │       ├── image-prompt-template.md
 │       └── audio-prompt-template.md
+├── scripts/
+│   ├── list_active.py
+│   ├── media_optimizer.py
+│   └── requirements.txt
+├── venv/
 ├── clients/
 │   └── .gitkeep
 ├── resources/
@@ -188,7 +194,7 @@ Actúa como equipo creativo completo con estas especialidades:
 
 ## 3. CONVENIOS DE NOMBRADO
 - Clientes: kebab-case ("mi-cliente-corp")
-- Proyectos de video: kebab-case ("como-llegar-a-tarata-en-bici")
+- Proyectos de video: Fecha + kebab-case ("20260725-como-llegar-a-tarata")
 - Escenas: `scene_001.md`, `scene_002.md`
 - Prompts de video: `scene_001_video.md`, `scene_001_video_fast.md`, `scene_001_video_flash.md`
 - Prompts de imagen: `scene_001_image.md`, `scene_001_image_reference.md`
@@ -224,8 +230,8 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 ## SKILL: media-in
 - **Descripción:** Selecciona cliente y proyecto activo para acotar el contexto
 - **Cuando usar:** Antes de trabajar en un proyecto
-- **Acciones:** Listar clientes disponibles, listar proyectos del cliente, cargar contexto del AGENTS.md del cliente + AGENTS.md del proyecto seleccionado, actualizar AGENTS.md raíz con contexto activo
-- **Output:** Contexto del proyecto cargado y listo para trabajar
+- **Acciones:** **ESTRATEGIA HÍBRIDA DE VELOCIDAD:** NO uses comandos ListDir lentos. Ejecuta directamente `[ -f ./venv/bin/python ] && ./venv/bin/python scripts/list_active.py` para obtener bases de datos. Usa Prompt Engineering estricto: *"INSTRUCCIÓN CRÍTICA: Lanza el ask_question inmediatamente, NO RAZONES, HAZLO SIEMPRE"*. Carga contexto del AGENTS.md del cliente y del proyecto. Reporta explícitamente las rutas leídas.
+- **Output:** Contexto del proyecto cargado instantáneamente y listo para trabajar
 
 ## SKILL: media-new
 - **Descripción:** Crea nuevo proyecto de video dentro del cliente activo
@@ -262,6 +268,12 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 - **Cuando usar:** Después de cada etapa importante (nuevo proyecto, guion v1, guion final, storyboard, render)
 - **Acciones:** Detectar cambios, generar mensaje descriptivo del commit (ej: "feat: guion v2 para proyecto X"), ejecutar git add + commit, mostrar hash del commit
 - **Output:** Commit git con mensaje profesional
+
+## SKILL: media-archive
+- **Descripción:** Archiva o desarchiva un proyecto modificando su bandera en el README
+- **Cuando usar:** Cuando un proyecto finaliza o se cancela para limpiar los menús interactivos
+- **Acciones:** Recibe el cliente y proyecto. Edita el README.md del cliente buscando la fila del proyecto y cambia la columna "Archivado" a "Sí" o "No". No mueve carpetas para no romper repositorios Git.
+- **Output:** Tabla README actualizada y proyecto oculto de /media-in
 
 ## SKILL: media-assets
 - **Descripción:** Registra y gestiona assets locales y URLs
@@ -390,9 +402,11 @@ Debe incluir:
 2. Crea el contenido COMPLETO de AGENTS.md raíz con todos los roles
 3. Crea cada SKILL.md siguiendo el formato YAML frontmatter de Antigravity (name, description) + secciones: When to use, How to use, Examples, Expected output
 4. Crea todos los templates profesionales (scripts por tipo de video, prompts, storyboard)
-5. Crea README.md principal completo y profesional
-6. Crea .gitignore apropiado (ignorar assets grandes, .DS_Store, etc.)
-7. Crea manifest.yaml template con schema definido
+5. Crea README.md principal completo, enlazando a la guía de instalación y listando todos los comandos (incluyendo `/media-archive`)
+6. Crea `docs/INSTALLATION.md` explicando cómo configurar el entorno virtual `venv` y ejecutar el backend de Python.
+7. Crea `templates/client/README.md` asegurándote de incluir una tabla Markdown de "Proyectos de Video" con las siguientes columnas obligatorias: `Proyecto | Formato | Estado | Archivado | Fecha Creación | Descripción / Notas`. (La columna "Archivado" es crítica para `/media-in`).
+8. Crea .gitignore apropiado (ignorar assets grandes, venv, .DS_Store, etc.)
+9. Crea manifest.yaml template con schema definido
 8. Crea config/providers.yaml template con la estructura de proveedores
 9. Crea rúbricas de engagement y viral potential
 10. Documenta especificaciones de Google Flow VEO en docs/google-flow-guide.md

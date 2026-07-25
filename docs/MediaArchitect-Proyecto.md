@@ -101,6 +101,7 @@ Un **framework CLI asistido por IA** que proporciona:
 ✅ **Estándares cinematográficos aplicados a IA**  
 ✅ **Prompts estructurados en inglés (mejor rendimiento)** + contenido en español  
 ✅ **Escenas optimizadas para Google Flow VEO (8-10 segundos)**  
+✅ **Motor Backend en Python** (Ejecución ultrarrápida de comandos sin consumo excesivo de tokens IA)  
 ✅ **Soporte multiplataforma** (VEO, Runway, Sora, Midjourney, ElevenLabs)  
 ✅ **Jerarquía de contexto** para agencias con múltiples clientes  
 ✅ **Métricas de engagement** integradas en el análisis  
@@ -155,6 +156,8 @@ media-architect/
 |
 |-- resources/                          (Bibliotecas de conocimiento)
 |-- templates/                          (Plantillas profesionales)
+|-- scripts/                            (Backend Python para ejecución rápida)
+|-- venv/                               (Entorno virtual aislado)
 +-- .agents/skills/                     (Comandos ejecutables)
 ```
 
@@ -171,6 +174,7 @@ media-architect/
 | `/media-render` | Divide en escenas + genera prompts | 10-15 min |
 | `/media-pipeline` | Ejecuta todo el flujo de una vez | 30-60 min |
 | `/media-commit` | Commit git incremental | 1 min |
+| `/media-archive` | Archiva proyectos sin mover carpetas | < 1 min |
 | `/media-assets` | Gestiona assets locales/URLs | Variable |
 | `/media-status` | Reporte del estado del proyecto | 1 min |
 
