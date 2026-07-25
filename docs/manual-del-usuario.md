@@ -66,13 +66,17 @@ flowchart TD
 | **`/media-new-client`** | Registra una nueva marca o cliente. | Cuando llega un cliente nuevo. |
 | **`/media-in`** | Te pones el delantal y decides en qué vas a trabajar. | Antes de tocar cualquier proyecto. |
 | **`/media-new`** | Crea un proyecto (Ej: Reel de 15s). | Para iniciar un video nuevo. |
+| **`/media-pipeline`** | **Piloto Automático:** Ejecuta todo el flujo base de una sola vez. | Cuando tienes mucha prisa y quieres un borrador rápido. |
 | **`/media-script`** | Crea tu "obra gruesa" (`script.md`). | Para arrancar la estructura del video. |
 | **`/media-storyboard`**| Tu "obra fina" (`storyboard.md`). Añade lentes y luces. | Cuando el guion esté 100% aprobado. |
 | **`/media-review`** | **El Experto:** Llama al Director Creativo para criticar y mejorar tu guion o tu storyboard. | En cualquier momento para subir el nivel del proyecto. |
 | **`/media-character`**| **Casting & Props:** Registra un Actor o un Objeto para mantener consistencia visual en todos los videos. | Cuando un personaje u objeto aparece en múltiples proyectos. |
-| **`/media-render`** | Traduce el storyboard en Prompts de Video en inglés. | Cuando la cinematografía esté lista. |
-| **`/media-commit`** | **Guardar (Save Game):** Congela la versión en Git. | Cuando terminas una etapa importante. |
+| **`/media-assets`** | **Archivo Digital:** Registra URLs, links de Drive, o archivos locales útiles para el proyecto. | Cuando el cliente te pasa logos, referencias o música. |
+| **`/media-render`** | Traduce el storyboard en Prompts de Video en inglés, listos para IA. | Cuando la cinematografía esté lista. |
+| **`/media-optimize`** | **Compresión:** Convierte tus pesados `.png` a `.jpg` ligeros. | Cuando el proyecto pese mucho por las imágenes generadas. |
 | **`/media-status`** | Te da un reporte de cómo va tu video actual. | En cualquier momento del proceso. |
+| **`/media-commit`** | **Guardar (Save Game):** Congela la versión en Git. | Cuando terminas una etapa importante. |
+| **`/media-archive`** | **Archivo Muerto:** Oculta un proyecto terminado para que no estorbe. | Cuando ya entregaste el video al cliente. |
 
 ---
 
@@ -113,7 +117,7 @@ Imagina que tu cliente se llama **EcoBici** y quieres hacer un TikTok sobre "Có
 
 Para sacarle el mayor provecho al Agente, háblale como si fuera tu empleado o tu compañero de agencia. Aquí tienes ejemplos de qué decirle en el chat:
 
-**Para iniciar algo rápido:**
+**Para iniciar algo rápido (Piloto Automático):**
 > *"Usa `/media-pipeline` para hacer un TikTok de 30 segundos sobre zapatillas deportivas. Que el tono sea muy energético y el público objetivo sean adolescentes."*
 
 **Para iterar el guion (Obra Gruesa):**
@@ -122,8 +126,15 @@ Para sacarle el mayor provecho al Agente, háblale como si fuera tu empleado o t
 **Para usar al Experto:**
 > *"Tengo dudas sobre este storyboard. Corre un `/media-review` y fíjate si la iluminación tiene sentido para una película de terror."*
 
+**Para crear y usar personajes (MUY IMPORTANTE):**
+> *"Ejecuta `/media-character`. Quiero crear un personaje llamado 'Chef Luigi'. Es un cocinero italiano enojón. Físicamente es bajito, tiene bigote grande y usa un delantal rojo."*
+> *(Una vez creado, puedes decirle en futuros proyectos)*: *"Ejecuta `/media-script` sobre una receta de pizza. ¡Asegúrate de usar a Luigi en el guion!"*
+
 **Para corregir gráficos:**
-> *"El texto del `storyboard.md` está perfecto, pero el gráfico generado salió mal. Regenera el gráfico del storyboard usando el prompt en inglés que escribiste."*
+> *"El texto del `storyboard.md` está perfecto, pero el gráfico generado salió mal. Regenera el gráfico del storyboard usando el prompt en inglés que escribiste y utiliza la foto de referencia del personaje."*
+
+**Para gestionar archivos pesados:**
+> *"Ejecuta `/media-optimize` para comprimir todas las imágenes de prueba que hicimos hoy, están pesando mucho."*
 
 **Para guardar cambios:**
 > *"Haz un `/media-commit` con el mensaje 'Guion final aprobado por el cliente'."*
@@ -146,10 +157,12 @@ Las IAs de imágenes a veces se equivocan (ej. dibujan 7 paneles en lugar de 6).
 **3. Sé específico con tu experto**
 Cuando uses `/media-review`, puedes darle directrices al experto. En lugar de solo lanzar el comando, acompáñalo con contexto: *"Ejecuta `/media-review` sobre el storyboard, pero enfócate estrictamente en hacer que la iluminación se vea como una película de Batman"*.
 
-**4. Crea tu "Show Bible" (Lore Centralizado)**
+**4. Crea tu "Show Bible" (Lore Centralizado e ID Tags)**
 Si tu cliente tiene personajes recurrentes (ej. un robot llamado Cody) o props icónicos (ej. un empaque de producto específico, una salteña), no dejes que la IA los invente cada vez. 
 * Usa el comando `/media-character` para registrar la entidad (Actor o Prop). 
-* El Agente te pedirá los detalles y guardará un prompt visual maestro que el sistema utilizará de forma automática en todos los futuros guiones y storyboards de ese cliente para garantizar consistencia visual y narrativa absoluta.
+* El Agente procesará el nombre y creará un **ID Tag seguro para IA** (ej. "Mesa Casa Codi" se convierte en la variable `[mesa-casa-codi]`).
+* Cuando ejecutes `/media-storyboard` y `/media-render`, el sistema automáticamente inyectará un **LORE GLOSSARY** al principio de tus prompts en inglés (Ej: `[mesa-casa-codi] = A wooden table...`).
+* Esto permite que puedas copiar y pegar el prompt en herramientas ciegas como Midjourney, DALL-E o Google Flow, y la IA externa sabrá exactamente cómo reemplazar la variable `[mesa-casa-codi]` por tu diseño oficial hiper-detallado.
 
 ---
 *✨ ¡Estás listo para producir! Entra al chat y escribe `/media-new-client` para registrar a tu primer cliente.*
