@@ -1,6 +1,7 @@
 # GUION: SHORT / REEL / TIKTOK (9:16)
 **Proyecto:** UN ROBOT EN COCHABAMBA
 **Cliente:** Cody
+**Reparto (Lore):** [cody]
 **Locación Principal:** EXT. CALLES DE COCHABAMBA (CARRITO DE SALTEÑAS Y ACERAS) - DÍA
 **Duración:** 30 segundos
 **Ritmo:** Cómico, pausas de humor, dinámico

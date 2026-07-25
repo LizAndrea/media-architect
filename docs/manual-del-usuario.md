@@ -69,6 +69,7 @@ flowchart TD
 | **`/media-script`** | Crea tu "obra gruesa" (`script.md`). | Para arrancar la estructura del video. |
 | **`/media-storyboard`**| Tu "obra fina" (`storyboard.md`). Añade lentes y luces. | Cuando el guion esté 100% aprobado. |
 | **`/media-review`** | **El Experto:** Llama al Director Creativo para criticar y mejorar tu guion o tu storyboard. | En cualquier momento para subir el nivel del proyecto. |
+| **`/media-character`**| **Casting & Props:** Registra un Actor o un Objeto para mantener consistencia visual en todos los videos. | Cuando un personaje u objeto aparece en múltiples proyectos. |
 | **`/media-render`** | Traduce el storyboard en Prompts de Video en inglés. | Cuando la cinematografía esté lista. |
 | **`/media-commit`** | **Guardar (Save Game):** Congela la versión en Git. | Cuando terminas una etapa importante. |
 | **`/media-status`** | Te da un reporte de cómo va tu video actual. | En cualquier momento del proceso. |
@@ -144,6 +145,11 @@ Las IAs de imágenes a veces se equivocan (ej. dibujan 7 paneles en lugar de 6).
 
 **3. Sé específico con tu experto**
 Cuando uses `/media-review`, puedes darle directrices al experto. En lugar de solo lanzar el comando, acompáñalo con contexto: *"Ejecuta `/media-review` sobre el storyboard, pero enfócate estrictamente en hacer que la iluminación se vea como una película de Batman"*.
+
+**4. Crea tu "Show Bible" (Lore Centralizado)**
+Si tu cliente tiene personajes recurrentes (ej. un robot llamado Cody) o props icónicos (ej. un empaque de producto específico, una salteña), no dejes que la IA los invente cada vez. 
+* Usa el comando `/media-character` para registrar la entidad (Actor o Prop). 
+* El Agente te pedirá los detalles y guardará un prompt visual maestro que el sistema utilizará de forma automática en todos los futuros guiones y storyboards de ese cliente para garantizar consistencia visual y narrativa absoluta.
 
 ---
 *✨ ¡Estás listo para producir! Entra al chat y escribe `/media-new-client` para registrar a tu primer cliente.*

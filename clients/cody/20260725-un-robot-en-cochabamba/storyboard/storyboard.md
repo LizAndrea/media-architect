@@ -1,9 +1,14 @@
 # STORYBOARD: UN ROBOT EN COCHABAMBA
+**Reparto (Lore):** [cody]
 
 ## ESCENAS 1 - 5
 
 *Global Visual Prompt:*
-*A 6-panel comic-style storyboard layout (2 rows of 3 panels), 3D animation Pixar style, Disney CGI animated film, high quality, soft warm lighting. Background: Golden hour on the streets of Cochabamba, Bolivia. The main character is a cute, expressive futuristic metallic robot with glowing blue eyes named Cody. Panel 1: Medium shot. The robot hands coins to a traditional Bolivian woman vendor, who gives him a hot empanada (salteña) from a glass cart. Panel 2: Point of View shot through the robot's HUD (Heads-Up Display) overlay, focusing on the crusty empanada with red lasers and math formulas failing. Panel 3: Medium shot. The robot takes a huge bite of the empanada, steam explodes out. Panel 4: Medium close up. The robot's eyes change from blue to intensely glowing green. Panel 5: Medium shot. The robot is chewing with pure joy, his eyes curved into happy arcs. Panel 6: Medium shot. The robot wipes juice from his chin, while projecting a large scary hologram of a giant meat dish (silpancho) from his eyes. CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image. The image must be completely free of typography.*
+*LORE GLOSSARY:*
+*[cody] = A 3D semi-realistic humanoid robot with a metallic skin texture and glowing blue expressive eyes, wearing a black hoodie with 'DECODER' and code symbols, and over-ear headphones.*
+
+*PROMPT:*
+*A 6-panel comic-style storyboard layout (2 rows of 3 panels), 3D animation Pixar style, Disney CGI animated film, high quality, soft warm lighting. Background: Golden hour on the streets of Cochabamba, Bolivia. The main character is [cody]. Panel 1: Medium shot. [cody] hands coins to a traditional Bolivian woman vendor, who gives him a hot empanada (salteña) from a glass cart. Panel 2: Point of View shot through [cody]'s HUD (Heads-Up Display) overlay, focusing on the crusty empanada with red lasers and math formulas failing. Panel 3: Medium shot. [cody] takes a huge bite of the empanada, steam explodes out. Panel 4: Medium close up. [cody]'s eyes change from blue to intensely glowing green. Panel 5: Medium shot. [cody] is chewing with pure joy, his eyes curved into happy arcs. Panel 6: Medium shot. [cody] wipes juice from his chin, while projecting a large scary hologram of a giant meat dish (silpancho) from his eyes. CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image. The image must be completely free of typography.*
 
 ![Storyboard](assets/board_01_06.jpg)
 
