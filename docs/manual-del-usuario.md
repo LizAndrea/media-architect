@@ -34,21 +34,21 @@ flowchart TD
     C1 --> C2(2. /media-in)
     C2 --> C3(3. /media-new)
     
-    subgraph 🏗️ Obra Gruesa (Guion)
+    subgraph ObraGruesa [🏗️ Obra Gruesa - Guion]
     C3 --> C4(4. /media-script)
     C4 --> R1{¿Te convence?}
     R1 -- No --> C5(5. /media-review - Critica el Guion)
     C5 --> C4
     end
     
-    subgraph 🎥 Obra Fina (Storyboard)
+    subgraph ObraFina [🎥 Obra Fina - Storyboard]
     R1 -- Sí --> C6(6. /media-storyboard)
     C6 --> R2{¿Falta cine?}
     R2 -- Sí --> C7(7. /media-review - Mejora Lentes y Luz)
     C7 --> C6
     end
     
-    subgraph 🎬 Producción
+    subgraph Produccion [🎬 Producción]
     R2 -- Perfecto --> C8(8. Pide Regenerar Gráfico del Storyboard)
     C8 --> C9(9. /media-render - Crea prompts finales)
     C9 --> C10(10. /media-commit - Guarda versión final)

@@ -43,3 +43,8 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 - **Resaltado de Comandos:** Siempre que menciones, sugieras o respondas al usuario sobre CUALQUIER comando de habilidad (skill) del framework (ej. /media-new, /media-script, /media-storyboard, /media-optimize, /media-render, /media-commit, etc.), DEBES formatearlo usando negritas y bloque de código (backticks) para que resalte visualmente en el chat. 
   - ✅ Correcto: **`/media-new`**, **`/media-script`**, **`/media-storyboard`**
   - ❌ Incorrecto: /media-new, /media-script, /media-storyboard
+
+## 8. REGLAS DE MARKDOWN Y MERMAID
+- **Diagramas Mermaid:** Para evitar errores léxicos en renderizadores de Markdown (como GitHub), NUNCA uses paréntesis `()` dentro de las etiquetas o títulos de los subgrafos `subgraph`. Reemplázalos por guiones `-` o usa sintaxis segura sin caracteres especiales que interfieran con el parser.
+  - ✅ Correcto: `subgraph ObraGruesa [🏗️ Obra Gruesa - Guion]`
+  - ❌ Incorrecto: `subgraph ObraGruesa [🏗️ Obra Gruesa (Guion)]`
