@@ -11,11 +11,11 @@ Usa este comando cuando el storyboard final esté aprobado para preparar todo pa
 ## How to use
 1. Lee el storyboard aprobado en el proyecto activo.
 2. **Revisa el Lore (Casting/Props):** Antes de escribir los prompts, verifica si el storyboard menciona entidades (ej: "Cody" o "La Salteña"). Si es así, lee la carpeta `clients/[CLIENTE_ACTIVO]/characters/` para buscar sus fichas técnicas.
-3. Divide el contenido en micro-escenas de 8-10 segundos en la carpeta `scenes/` (ej: `scene_001.md`).
+3. Extrae cada escena o toma individualmente. **La duración de cada micro-video debe ser exactamente la que marca el Storyboard (Ej: 3s, 5s, 7s).** ¡Nunca unas escenas! Cada toma del storyboard debe ser un archivo de video independiente.
 4. Genera prompts ESTRUCTURADOS EN INGLÉS basándose en `config/providers.yaml`.
-   - **CRÍTICO:** Cuando un personaje/prop registrado aparezca en la escena, **DEBES HACER COPY-PASTE de su "Visual Prompt" en inglés** (extraído de su ficha técnica) dentro del prompt de video para garantizar consistencia visual absoluta. ¡No inventes ropa ni características nuevas!
-5. Guarda los resultados en `prompts/video/`, `prompts/image/`, y `prompts/audio/`.
-6. Asegura que cada archivo de prompt tenga metadata YAML (platform, model, seed, negative_prompt, etc.).
+   - **CRÍTICO (LORE GLOSSARY):** Si hay personajes en el array de Reparto, **DEBES inyectar el bloque de variables (LORE GLOSSARY)** al inicio del archivo del prompt (Ej: `*LORE GLOSSARY:* \n *[ID_Tag] = [Visual Prompt en Inglés]*`). Extrae este visual prompt de su ficha técnica (`characters/`). Luego, en el texto del prompt en sí, utiliza los tags (Ej: `[ID_Tag] walks...`). Esto permite compatibilidad tanto con In-Context Learning como con herramientas como Google Flow.
+5. Guarda TODOS los resultados unificados dentro de la carpeta `render/` utilizando las convenciones oficiales de nombrado (Ej: `render/scene_001_video.md`, `render/scene_001_image.md`, `render/voiceover.md`).
+6. Asegura que cada archivo de prompt tenga metadata YAML (platform, model, seed, negative_prompt, etc.) siguiendo las directrices de `AGENTS.md`.
 
 ## Examples
 *Usuario:* "/media-render"
