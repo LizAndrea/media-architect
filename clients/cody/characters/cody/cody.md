@@ -7,7 +7,7 @@
 **Comportamiento/Uso:** Mantiene contacto visual constante para conectar con la audiencia. Sus movimientos son calmados; hace gestos precisos con las manos para enfatizar conceptos de programación (como separar componentes o estructurar datos). Nunca se muestra alterado. Siempre tiene una actitud positiva, inspirando confianza y motivando a otros desarrolladores a escribir un mejor código.
 
 ## 👁️ Visual Prompt / Appearance (Para Video/Imagen AI)
-**[ENGLISH]** A 3D semi-realistic humanoid robot with a metallic skin texture and glowing blue expressive eyes, wearing a black hoodie with 'DECODER' and code symbols, and over-ear headphones.
+**[ENGLISH]** A 3D semi-realistic humanoid robot with a metallic skin texture and glowing blue expressive eyes, wearing a long-sleeved black hoodie with 'DECODER' and code symbols, and over-ear headphones.
 
 ## 🗣️ Voice & Audio Config (Para IA de Voz)
 **Modelo:** CodyBo - Algieba Custom

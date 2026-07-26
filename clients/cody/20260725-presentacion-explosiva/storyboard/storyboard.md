@@ -50,8 +50,8 @@
 - **Thumbnail Narrativo:** Close up del rostro de Cody, reflejos de luces cálidas de atardecer entrando por la ventana del Cristo.
 - **Acción:** Hablando a la audiencia, reflexión sobre estereotipos.
 - **Cámara y Fotografía:** Primer plano (Close up), lente de 50mm, f/1.8. 
-- **Iluminación / Color:** Luces cambian a tonos cálidos/naranjas (Emulación Kodak Vision3 500T), simulando el sol atardeciendo.
-- **Audio / SFX:** "La gente piensa que los robots somos aburridos... Es porque no conocen a Cochabamba."
+- **Iluminación / Color:** Luces cambian a tonos cálidos/naranjas (Look cinematográfico analógico), simulando el sol atardeciendo.
+- **Audio / SFX:** "¡La gente piensa que los robots somos aburridos, pero es porque no conocen a Cochabamba!"
 
 ---
 
