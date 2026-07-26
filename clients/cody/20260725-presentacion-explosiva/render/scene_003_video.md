@@ -11,4 +11,4 @@ aspect_ratio: "9:16"
 *[cody] = A 3D semi-realistic humanoid robot with a metallic skin texture and glowing blue expressive eyes, wearing a black hoodie with 'DECODER' and code symbols, and over-ear headphones.*
 
 *PROMPT:*
-Fast tracking shot moving towards [cody] as he types frantically on his keyboard. His eyes are glowing yellow. Strong rim light highlighting his metallic texture. The yellow light from the monitor interactively illuminates his face.
+Fast tracking shot towards [cody] typing frantically on multiple glowing monitors in his cyberpunk room. Strong Rim light on his armor. Interactive yellow light from the monitors illuminates his face. CRITICAL: The character must NOT speak. Mouth is closed.

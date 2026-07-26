@@ -11,4 +11,7 @@ aspect_ratio: "9:16"
 *[cody] = A 3D semi-realistic humanoid robot with a metallic skin texture and glowing blue expressive eyes, wearing a black hoodie with 'DECODER' and code symbols, and over-ear headphones.*
 
 *PROMPT:*
-Close up of [cody]'s face, 50mm lens, f/1.8. He is talking to the audience. The lighting transitions to warm orange tones resembling a sunset, with reflections of the sunset entering through the window. Emulating Kodak Vision3 500T film stock colors. Highly detailed metallic skin.
+Close up shot of the face of [cody] in his cyberpunk room, talking directly to the audience. 50mm lens, f/1.8. Warm orange sunset lighting entering through the window, reflecting on his face (Kodak Vision3 500T emulation).
+
+*LIP-SYNC DIALOGUE:*
+"La gente piensa que los robots somos aburridos... Es porque no conocen a Cochabamba." (Language: Spanish)
