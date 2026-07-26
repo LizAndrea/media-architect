@@ -11,13 +11,22 @@ Usa este comando una vez que el usuario ha aprobado el `final_script.md`.
 ## How to use
 1. Lee y parsea el "shot list" (lista de tomas) del guion final.
 2. **Hereda el Reparto:** Copia textualmente la línea `**Reparto (Lore):** [...]` del script y ponla al principio del storyboard.
-3. Genera un storyboard por escena que contenga:
-   - Número de escena y toma
-   - Thumbnail descriptivo visual (texto que podría generar una imagen)
-   - Descripción narrativa y de acción
-   - Tipo de plano, Lente/Óptica (ej. 35mm, 85mm), Movimiento de cámara, Iluminación (ej. Golden Hour, Alto Contraste) y Color Grading (Colorimetría).
-   - Duración, audio/música, y transiciones.
-3. Guarda o sobrescribe el resultado siempre en `storyboard/storyboard.md`.
+3. Genera el desglose del storyboard (toma por toma) **ESTRICTAMENTE usando el siguiente formato de lista anidada** para garantizar el estándar de la industria:
+   ```markdown
+   ### Toma [X] ([Nombre de la Escena/Toma])
+   - **Toma:** [X]
+   - **Thumbnail (Visual):** [Breve descripción visual]
+   - **Acción/Narrativa:** [Explicación de la acción]
+   - **Cámara y Fotografía:**
+     - **Plano:** [Ej: CU, MS, ECU] / Lente [Ej: 35mm, f/1.4]
+     - **Movimiento de cámara:** [Ej: Fijo, Handheld]
+     - **Iluminación:** [Ej: Golden Hour, Soft Key]
+     - **Color Grading:** [Ej: Tonos cálidos, Desaturado]
+   - **Duración:** [Ej: 0:00 - 0:04]
+   - **Audio/Voz en Off:** "[Audio o diálogo]"
+   - **Transición:** [Ej: Hard Cut, Match Cut]
+   ```
+4. Guarda o sobrescribe el resultado siempre en `storyboard/storyboard.md`.
 4. **Paginación y Prompts:** Agrupa las escenas en "bloques" de máximo 6 cuadros (Ej: Escenas 1-6, 7-12). Por cada bloque, **escribe explícitamente en el archivo markdown** un "Prompt Visual Global" genérico en inglés (en formato itálica). 
    - **VARIABLES (LORE GLOSSARY):** Si hay personajes en el array de Reparto, el prompt DEBE iniciar con un bloque de glosario definiendo cada tag. (Ej: `*LORE GLOSSARY:* \n *[ID_Tag] = [Visual Prompt en Inglés]*`).
    - **FORMATO DEL PROMPT:** Inmediatamente después, escribe `*PROMPT:*`. El prompt DEBE iniciar exigiendo explícitamente un grid tipo cómic. Por ejemplo: *"A 6-panel comic-style storyboard layout (2 rows of 3 panels)."* Luego debes describir brevemente qué pasa en cada panel (*"Panel 1: [ID_Tag] does something..."*). Esto es crítico para que la IA grafique todo el storyboard y no solo una sola imagen resumen.

@@ -5,7 +5,7 @@ Este archivo define el contexto específico de este proyecto de video.
 ## 1. METADATA DEL PROYECTO
 - **Nombre:** Lo que realmente me redujo el cortisol
 - **Tipo de video:** Short / Video Vertical
-- **Duración objetivo:** 28 segundos
+- **Duración objetivo:** 40 segundos
 - **Plataformas de destino:** TikTok, YouTube Shorts, Instagram Reels
 
 ## 2. VISIÓN CREATIVA

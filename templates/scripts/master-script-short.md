@@ -11,9 +11,9 @@
 
 ## 2. ESTRUCTURA NARRATIVA Y GUION A DETALLE
 
-| Tiempo | Escena Visual | Audio / Voz en Off | Texto en Pantalla |
-| :--- | :--- | :--- | :--- |
-| **0:00 - 0:03** | **[HOOK]** [Locación]. [Descripción visual, lente, iluminación, acción del personaje]. | *(SFX/Voz)* "[Diálogo del gancho]" | "[Texto destacado]" |
+| Toma | Tiempo | Escena Visual | Audio / Voz en Off | Texto en Pantalla |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Hook** | **0:00 - 0:03** | **[Locación]**. [Descripción visual]. | *(SFX/Voz)* "[Diálogo del gancho]" | "[Texto destacado]" |
 | **0:03 - 0:15** | **[DESARROLLO]** [Locación]. [Cortes, acciones, transiciones]. | *(SFX/Voz)* "[Diálogo]" | "[Texto]" |
 | **0:15 - 0:25** | **[REVELACIÓN]** [Locación]. [Cambio de ritmo visual o de iluminación]. | *(SFX/Voz)* "[Diálogo clave]" | "[Texto]" |
 | **0:25 - 0:30** | **[CTA]** [Locación]. [Transición final o llamado a la acción]. | *(SFX/Voz)* "[Llamado a la acción o cierre]" | "[Texto final]" |
