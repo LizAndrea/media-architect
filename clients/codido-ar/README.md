@@ -10,5 +10,4 @@ A continuación se listan los proyectos de video asociados a este cliente:
 
 | Proyecto | Formato | Estado | Archivado | Fecha Creación | Descripción / Notas |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Ejemplo](./ejemplo/) | YouTube (16:9) | Idea | No | 2026-07-25 | Video de ejemplo para ilustrar el formato. |
 | [20260725-lo-que-redujo-el-cortisol](./20260725-lo-que-redujo-el-cortisol/) | Shorts/TikTok (9:16) | Guion | No | 2026-07-25 | "Lo que realmente me redujo el cortisol". Hook, lista de mitos y revelación del Modelo Híbrido. |

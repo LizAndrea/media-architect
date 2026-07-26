@@ -3,17 +3,17 @@
 Este archivo define el contexto específico de este proyecto de video.
 
 ## 1. METADATA DEL PROYECTO
-- **Nombre:** [Nombre del proyecto]
-- **Tipo de video:** [Short, YouTube, Comercial, Documental]
-- **Duración objetivo:** [Duración]
-- **Plataformas de destino:** [Plataformas]
+- **Nombre:** Lo que realmente me redujo el cortisol
+- **Tipo de video:** Short / Video Vertical
+- **Duración objetivo:** 15 a 30 segundos
+- **Plataformas de destino:** TikTok, YouTube Shorts, Instagram Reels
 
 ## 2. VISIÓN CREATIVA
-[Descripción de la visión creativa, tema central y mensaje clave]
+Inyectar esperanza mediante contraste rápido entre mitos estresantes (meditar 1 hr, evitar todo estrés) y acciones reales y liberadoras (ciclismo, Modelo Híbrido). Narración por la voz de LIA. Visualmente transiciona del agobio a la paz iluminada por tonos cálidos y naturaleza.
 
 ## 3. AUDIENCIA Y TONO
-- **Audiencia:** [Descripción de la audiencia]
-- **Tono:** [Tono específico de este video]
+- **Audiencia:** Pacientes con Artritis Reumatoide o enfermedades crónicas, cansados de ser víctimas pasivas y de escuchar promesas milagrosas.
+- **Tono:** Empático, realista, auténtico, directo y esperanzador.
 
 ## 4. RECURSOS Y REFERENCIAS
 Ver directorio `assets/references` para moodboards o URLs de inspiración.
