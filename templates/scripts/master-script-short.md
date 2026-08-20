@@ -1,6 +1,6 @@
 # GUION: SHORT / REEL / TIKTOK (9:16)
 **Proyecto:** [Nombre del Proyecto]
-**Cliente:** [Nombre del Cliente]
+**Workspace:** [Nombre del Workspace]
 **Reparto (Lore):** [ID_Tag o "none"]
 **Duración:** [Ej: 30 segundos]
 **Ritmo:** [Ej: Rápido y dinámico]

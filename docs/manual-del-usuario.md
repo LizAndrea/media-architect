@@ -10,8 +10,8 @@ Para mantener todo organizado, media-architect usa un sistema de "cajas dentro d
 
 ```mermaid
 graph TD
-    Agencia[🏢 Tu Productora / Agencia] --> C1[📁 Cliente A: Nike]
-    Agencia --> C2[📁 Cliente B: Restaurante Local]
+    Agencia[🏢 Tu Productora / Agencia] --> C1[📁 Workspace A: Nike]
+    Agencia --> C2[📁 Workspace B: Restaurante Local]
     
     C1 --> P1[🎬 Proyecto: Reel de Verano]
     C1 --> P2[🎬 Proyecto: Documental Deportivo]
@@ -30,7 +30,7 @@ El flujo de trabajo es lineal y está guiado por comandos fáciles de recordar. 
 
 ```mermaid
 flowchart TD
-    Start([💡 Tienes una idea]) --> C1(1. /media-new-client)
+    Start([💡 Tienes una idea]) --> C1(1. /media-new-workspace)
     C1 --> C2(2. /media-in)
     C2 --> C3(3. /media-new)
     
@@ -63,7 +63,7 @@ flowchart TD
 
 | Comando | 🍳 ¿Para qué sirve? | ⏱️ Cuándo usarlo |
 | :--- | :--- | :--- |
-| **`/media-new-client`** | Registra una nueva marca o cliente. | Cuando llega un cliente nuevo. |
+| **`/media-new-workspace`** | Registra una nueva marca o workspace. | Cuando llega un workspace nuevo. |
 | **`/media-in`** | Te pones el delantal y decides en qué vas a trabajar. | Antes de tocar cualquier proyecto. |
 | **`/media-new`** | Crea un proyecto (Ej: Reel de 15s). | Para iniciar un video nuevo. |
 | **`/media-pipeline`** | **Piloto Automático:** Ejecuta todo el flujo base de una sola vez. | Cuando tienes mucha prisa y quieres un borrador rápido. |
@@ -71,21 +71,21 @@ flowchart TD
 | **`/media-storyboard`**| Tu "obra fina" (`storyboard.md`). Añade lentes y luces. | Cuando el guion esté 100% aprobado. |
 | **`/media-review`** | **El Experto:** Llama al Director Creativo para criticar y mejorar tu guion o tu storyboard. | En cualquier momento para subir el nivel del proyecto. |
 | **`/media-character`**| **Casting & Props:** Registra un Actor o un Objeto para mantener consistencia visual en todos los videos. | Cuando un personaje u objeto aparece en múltiples proyectos. |
-| **`/media-assets`** | **Archivo Digital:** Registra URLs, links de Drive, o archivos locales útiles para el proyecto. | Cuando el cliente te pasa logos, referencias o música. |
+| **`/media-assets`** | **Archivo Digital:** Registra URLs, links de Drive, o archivos locales útiles para el proyecto. | Cuando el workspace te pasa logos, referencias o música. |
 | **`/media-render`** | Traduce el storyboard en Prompts de Video en inglés, listos para IA. | Cuando la cinematografía esté lista. |
 | **`/media-optimize`** | **Compresión:** Convierte tus pesados `.png` a `.jpg` ligeros. | Cuando el proyecto pese mucho por las imágenes generadas. |
 | **`/media-status`** | Te da un reporte de cómo va tu video actual. | En cualquier momento del proceso. |
 | **`/media-commit`** | **Guardar (Save Game):** Congela la versión en Git. | Cuando terminas una etapa importante. |
-| **`/media-archive`** | **Archivo Muerto:** Oculta un proyecto terminado para que no estorbe. | Cuando ya entregaste el video al cliente. |
+| **`/media-archive`** | **Archivo Muerto:** Oculta un proyecto terminado para que no estorbe. | Cuando ya entregaste el video al workspace. |
 
 ---
 
 ## 🎬 4. La Receta Paso a Paso (Tutorial)
 
-Imagina que tu cliente se llama **EcoBici** y quieres hacer un TikTok sobre "Cómo evitar que te roben la bicicleta". Sigue estos pasos exactos:
+Imagina que tu workspace se llama **EcoBici** y quieres hacer un TikTok sobre "Cómo evitar que te roben la bicicleta". Sigue estos pasos exactos:
 
 ### Fase 1: Preparación (Mise en place)
-1. **Crear Cliente:** Escribe en el chat: *"Ejecuta `/media-new-client` para crear EcoBici."*
+1. **Crear Workspace:** Escribe en el chat: *"Ejecuta `/media-new-workspace` para crear EcoBici."*
 2. **Entrar a la Cocina:** Escribe: *"Ejecuta `/media-in` y selecciona EcoBici."*
 3. **Crear Proyecto:** Escribe: *"Ejecuta `/media-new` para crear un video tipo 'short' llamado 'evitar-robos'."*
 
@@ -107,7 +107,7 @@ Imagina que tu cliente se llama **EcoBici** y quieres hacer un TikTok sobre "Có
 
 ## 🧠 5. Consejos del Productor (Best Practices)
 
-1. **Un solo archivo (Zero Basura):** El sistema solo usa `script.md` y `storyboard.md`. No guardes versiones como `v1`, `v2`. Usa `/media-commit` para que Git guarde la historia. Si un cliente pide un cambio 3 meses después, simplemente modifica el archivo y haz otro commit.
+1. **Un solo archivo (Zero Basura):** El sistema solo usa `script.md` y `storyboard.md`. No guardes versiones como `v1`, `v2`. Usa `/media-commit` para que Git guarde la historia. Si un workspace pide un cambio 3 meses después, simplemente modifica el archivo y haz otro commit.
 2. **Apóyate en el Experto (`/media-review`):** No confíes en tu primer borrador. Siempre pásalo por el escrutinio del experto. Él sabe más de lentes y retención de audiencia que nosotros.
 3. **Todo en Inglés para la IA:** El sistema sabe que tú hablas español, pero los modelos de IA entienden mejor el **inglés**. Por eso los prompts generados por `/media-render` estarán en inglés técnico.
 
@@ -137,7 +137,7 @@ Para sacarle el mayor provecho al Agente, háblale como si fuera tu empleado o t
 > *"Ejecuta `/media-optimize` para comprimir todas las imágenes de prueba que hicimos hoy, están pesando mucho."*
 
 **Para guardar cambios:**
-> *"Haz un `/media-commit` con el mensaje 'Guion final aprobado por el cliente'."*
+> *"Haz un `/media-commit` con el mensaje 'Guion final aprobado por el workspace'."*
 
 ---
 
@@ -158,11 +158,11 @@ Las IAs de imágenes a veces se equivocan (ej. dibujan 7 paneles en lugar de 6).
 Cuando uses `/media-review`, puedes darle directrices al experto. En lugar de solo lanzar el comando, acompáñalo con contexto: *"Ejecuta `/media-review` sobre el storyboard, pero enfócate estrictamente en hacer que la iluminación se vea como una película de Batman"*.
 
 **4. Crea tu "Show Bible" (Lore Centralizado e ID Tags)**
-Si tu cliente tiene personajes recurrentes (ej. un robot llamado Cody) o props icónicos (ej. un empaque de producto específico, una salteña), no dejes que la IA los invente cada vez. 
+Si tu workspace tiene personajes recurrentes (ej. un robot llamado Cody) o props icónicos (ej. un empaque de producto específico, una salteña), no dejes que la IA los invente cada vez. 
 * Usa el comando `/media-character` para registrar la entidad (Actor o Prop). 
 * El Agente procesará el nombre y creará un **ID Tag seguro para IA** (ej. "Mesa Casa Codi" se convierte en la variable `[mesa-casa-codi]`).
 * Cuando ejecutes `/media-storyboard` y `/media-render`, el sistema automáticamente inyectará un **LORE GLOSSARY** al principio de tus prompts en inglés (Ej: `[mesa-casa-codi] = A wooden table...`).
 * Esto permite que puedas copiar y pegar el prompt en herramientas ciegas como Midjourney, DALL-E o Google Flow, y la IA externa sabrá exactamente cómo reemplazar la variable `[mesa-casa-codi]` por tu diseño oficial hiper-detallado.
 
 ---
-*✨ ¡Estás listo para producir! Entra al chat y escribe `/media-new-client` para registrar a tu primer cliente.*
+*✨ ¡Estás listo para producir! Entra al chat y escribe `/media-new-workspace` para registrar a tu primer workspace.*

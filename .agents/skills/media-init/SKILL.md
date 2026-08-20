@@ -14,7 +14,7 @@ El agente debe asegurarse de que todas las carpetas, plantillas (`templates/`), 
 
 ## Examples
 *Usuario:* "Inicializa media-architect"
-*Agente:* Crea toda la estructura y avisa que el entorno está listo para crear el primer cliente.
+*Agente:* Crea toda la estructura y avisa que el entorno está listo para crear el primer workspace.
 
 ## Expected output
 Estructura completa de directorios y archivos base creados correctamente.

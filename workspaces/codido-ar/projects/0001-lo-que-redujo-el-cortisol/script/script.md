@@ -1,6 +1,6 @@
 # GUION: SHORT / REEL / TIKTOK (9:16)
-**Proyecto:** Lo que realmente me redujo el cortisol (20260725-lo-que-redujo-el-cortisol)
-**Cliente:** codidoAR
+**Proyecto:** Lo que realmente me redujo el cortisol (0001-lo-que-redujo-el-cortisol)
+**Workspace:** codidoAR
 **Reparto (Lore):** [lia]
 **Duración:** 40 segundos
 **Ritmo:** Empático, contrastante, con pausas reflexivas

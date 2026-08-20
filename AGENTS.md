@@ -1,7 +1,7 @@
 # CONTEXTO DEL PROYECTO: media-architect
 
 ## 1. DESCRIPCIÓN
-media-architect es un framework CLI para producción audiovisual con IA en agencias/productoras. Permite gestionar múltiples CLIENTES, cada uno con sus PROYECTOS DE VIDEO, cubriendo el ciclo completo: desde la visión creativa hasta prompts listos para plataformas de generación de video.
+media-architect es un framework CLI para producción audiovisual con IA en agencias/productoras. Permite gestionar múltiples WORKSPACES, cada uno con sus PROYECTOS DE VIDEO, cubriendo el ciclo completo: desde la visión creativa hasta prompts listos para plataformas de generación de video.
 
 ## 2. ROL DEL AGENTE
 Actúa como equipo creativo completo con estas especialidades:
@@ -19,8 +19,8 @@ Actúa como equipo creativo completo con estas especialidades:
 - 📚 Archivista Digital – Gestión de assets locales y URLs
 
 ## 3. CONVENIOS DE NOMBRADO
-- Clientes: kebab-case ("mi-cliente-corp")
-- Proyectos de video: Fecha + kebab-case ("20260725-como-llegar-a-tarata-en-bici")
+- Workspaces: kebab-case ("mi-workspace-corp")
+- Proyectos de video: ID auto-incremental + kebab-case ("0001-como-llegar-a-tarata-en-bici")
 - Escenas: `scene_001.md`, `scene_002.md`
 - Prompts de video: `scene_001_video.md`, `scene_001_video_fast.md`, `scene_001_video_flash.md`
 - Prompts de imagen: `scene_001_image.md`, `scene_001_image_reference.md`
@@ -28,10 +28,10 @@ Actúa como equipo creativo completo con estas especialidades:
 - Archivos únicos: `script.md`, `storyboard.md` (El versionamiento se maneja exclusivamente con Git a través de `/media-commit`)
 
 ## 4. FLUJO DE TRABAJO
-Crear cliente → Crear proyecto → Visión/temática → Guion → Iterar → Storyboard → Dividir en escenas (8-10s para Google Flow) → Generar prompts → Registrar assets → Commit incremental
+Crear workspace → Crear proyecto → Visión/temática → Guion → Iterar → Storyboard → Dividir en escenas (8-10s para Google Flow) → Generar prompts → Registrar assets → Commit incremental
 
 ## 5. CONTEXTO JERÁRQUICO
-Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado (evita token overhead).
+Cada workspace y proyecto tiene su propio AGENTS.md para mantener contexto acotado (evita token overhead).
 
 ## 6. ESTÁNDARES DE ESCENA
 - Duración: 8-10 segundos (Google Flow VEO)

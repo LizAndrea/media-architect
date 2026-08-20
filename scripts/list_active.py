@@ -3,39 +3,28 @@ import sys
 import re
 
 def main():
-    clients_dir = "clients"
-    if not os.path.exists(clients_dir):
+    workspaces_dir = "workspaces"
+    if not os.path.exists(workspaces_dir):
         return
 
-    # Si se pasa un cliente como argumento, lista sus proyectos activos
+    # Si se pasa un workspace como argumento, lista sus proyectos activos
     if len(sys.argv) > 1:
-        target_client = sys.argv[1]
-        readme_path = os.path.join(clients_dir, target_client, "README.md")
-        if os.path.isfile(readme_path):
-            with open(readme_path, "r", encoding="utf-8") as f:
-                lines = f.read().split('\n')
-                in_table = False
-                for line in lines:
-                    if line.startswith('| Proyecto'):
-                        in_table = True; continue
-                    if in_table and line.startswith('| :---'):
-                        continue
-                    if in_table and line.startswith('|'):
-                        parts = [p.strip() for p in line.split('|')]
-                        if len(parts) >= 5:
-                            # Columna 4 es Archivado
-                            if parts[4].lower() not in ['sí', 'si', 'yes', 'true']:
-                                match = re.search(r'\[(.*?)\]', parts[1])
-                                if match:
-                                    print(match.group(1))
-                    elif in_table and not line.strip():
-                        in_table = False
+        target_workspace = sys.argv[1]
+        target_path = os.path.join(workspaces_dir, target_workspace, "projects")
+        if os.path.isdir(target_path):
+            # Listar carpetas dentro del directorio projects
+            for item in os.listdir(target_path):
+                full_path = os.path.join(target_path, item)
+                if os.path.isdir(full_path):
+                    # Ignorar carpeta _archive
+                    if not item.startswith('_'):
+                        print(item)
         return
 
-    # Si no hay argumentos, lista solo los clientes
-    for client in os.listdir(clients_dir):
-        if os.path.isdir(os.path.join(clients_dir, client)) and not client.startswith('_'):
-            print(client)
+    # Si no hay argumentos, lista solo los workspaces
+    for workspace in os.listdir(workspaces_dir):
+        if os.path.isdir(os.path.join(workspaces_dir, workspace)) and not workspace.startswith('_'):
+            print(workspace)
 
 if __name__ == "__main__":
     main()

@@ -9,7 +9,7 @@ description: Comprime imágenes generadas (PNG) a formatos ligeros (JPG)
 Usa este comando después de haber generado imágenes o storyboards visuales pesados (como archivos PNG), para comprimirlos antes de subirlos al repositorio de Git y mantener el proyecto ligero.
 
 ## How to use
-1. Identifica el directorio que contiene las imágenes pesadas (usualmente `storyboard/assets/` o `assets/` dentro del proyecto del cliente).
+1. Identifica el directorio que contiene las imágenes pesadas (usualmente `storyboard/assets/` o `assets/` dentro del proyecto del workspace).
 2. Asegúrate de que el entorno virtual de Python exista en la raíz (`venv/`) y las dependencias de `scripts/requirements.txt` estén instaladas.
 3. Ejecuta el script de optimización mediante bash, activando el entorno virtual:
    `source venv/bin/activate && python scripts/media_optimizer.py <ruta_del_directorio>`

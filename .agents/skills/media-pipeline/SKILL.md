@@ -9,7 +9,7 @@ description: Ejecuta todo el flujo inicial de forma automática
 Usa este comando para automatizar el ciclo completo: desde la generación del guion hasta la creación de prompts, de manera rápida.
 
 ## How to use
-1. Verifica que haya un cliente y proyecto activo (si no, pide usar `/media-in`).
+1. Verifica que haya un workspace y proyecto activo (si no, pide usar `/media-in`).
 2. Ejecuta `/media-script` con los parámetros proporcionados y espera validación.
 3. Al validar, ejecuta `/media-storyboard` y espera validación.
 4. Genera prompts optimizados.

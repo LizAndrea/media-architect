@@ -1,6 +1,6 @@
 # GUION: SHORT / REEL / TIKTOK (9:16)
 **Proyecto:** PRESENTACIÓN EXPLOSIVA
-**Cliente:** Cody
+**Workspace:** Cody
 **Reparto (Lore):** [cody]
 **Duración:** 35 segundos
 **Ritmo:** Rápido y dinámico

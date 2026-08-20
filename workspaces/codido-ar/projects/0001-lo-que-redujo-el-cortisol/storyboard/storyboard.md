@@ -1,5 +1,5 @@
 # STORYBOARD: Lo que realmente me redujo el cortisol
-**Proyecto:** 20260725-lo-que-redujo-el-cortisol
+**Proyecto:** 0001-lo-que-redujo-el-cortisol
 **Reparto (Lore):** [lia]
 
 ---

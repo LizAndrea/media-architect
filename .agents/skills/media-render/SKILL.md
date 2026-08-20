@@ -10,7 +10,7 @@ Usa este comando cuando el storyboard final esté aprobado para preparar todo pa
 
 ## How to use
 1. Lee el storyboard aprobado en el proyecto activo.
-2. **Revisa el Lore (Casting/Props):** Antes de escribir los prompts, verifica si el storyboard menciona entidades (ej: "Cody" o "La Salteña"). Si es así, lee la carpeta `clients/[CLIENTE_ACTIVO]/characters/` para buscar sus fichas técnicas.
+2. **Revisa el Lore (Casting/Props):** Antes de escribir los prompts, verifica si el storyboard menciona entidades (ej: "Cody" o "La Salteña"). Si es así, lee la carpeta `workspaces/[WORKSPACE_ACTIVO]/characters/` para buscar sus fichas técnicas.
 3. Extrae cada escena o toma individualmente. **La duración de cada micro-video debe ser exactamente la que marca el Storyboard (Ej: 3s, 5s, 7s).** ¡Nunca unas escenas! Cada toma del storyboard debe ser un archivo de video independiente.
 4. Genera prompts ESTRUCTURADOS EN INGLÉS.
    - **CRÍTICO (LORE GLOSSARY):** Si hay personajes en el array de Reparto, **DEBES inyectar el bloque de variables (LORE GLOSSARY)** al inicio del archivo del prompt (Ej: `*LORE GLOSSARY:* \n *[ID_Tag] = [Visual Prompt en Inglés]*`).

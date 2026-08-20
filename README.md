@@ -44,15 +44,15 @@ Proporciona una estructura jerárquica profesional y automatiza el proceso de pr
 ### Guía de Inicio Rápido
 Sigue estos pasos para comenzar:
 1. `/media-init`: Inicializa el repositorio con la estructura base.
-2. `/media-new-client`: Crea un cliente/empresa.
-3. `/media-in`: Selecciona el cliente y proyecto activo.
+2. `/media-new-workspace`: Crea un workspace/empresa.
+3. `/media-in`: Selecciona el workspace y proyecto activo.
 4. `/media-new`: Crea un nuevo proyecto de video.
 5. `/media-pipeline`: Ejecuta todo el flujo (script → storyboard → render) automáticamente.
 
 ### Comandos (Skills)
 - `/media-init`: Inicializa media-architect.
-- `/media-new-client`: Crea un nuevo cliente.
-- `/media-in`: Selecciona cliente y proyecto activo.
+- `/media-new-workspace`: Crea un nuevo workspace.
+- `/media-in`: Selecciona workspace y proyecto activo.
 - `/media-new`: Crea nuevo proyecto de video.
 - `/media-script`: Genera y permite iterar guion profesional.
 - `/media-storyboard`: Crea storyboard visual con anotaciones cinematográficas.
@@ -66,7 +66,7 @@ Sigue estos pasos para comenzar:
 
 ### Convenciones de Archivos
 - Todo el contenido en ESPAÑOL, prompts de IA en INGLÉS.
-- Nombres de clientes en `kebab-case`.
+- Nombres de workspaces en `kebab-case`.
 - Nombres de proyectos en `YYYYMMDD-kebab-case`.
 - Escenas como `scene_XXX.md`.
 - Iteraciones de guiones como `v1_script.md`, `v2_script.md`, `final_script.md`.
@@ -75,7 +75,7 @@ Sigue estos pasos para comenzar:
 ```text
 media-architect/
 ├── .agents/skills/      (Comandos del CLI)
-├── clients/             (Espacios de trabajo por cliente)
+├── workspaces/             (Espacios de trabajo por workspace)
 ├── templates/           (Plantillas para inicialización)
 ├── resources/           (Bibliotecas, guías y métricas)
 └── docs/                (Documentación del sistema)

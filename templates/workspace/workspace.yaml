@@ -1,0 +1,44 @@
+workspace:
+  name: "Nombre del Workspace"
+  slug: "nombre-workspace"
+  description: "Descripción breve del propósito o giro de la marca."
+
+  # 1. IDENTIDAD DE MARCA (Constantes visuales y auditivas)
+  brand:
+    colors:
+      primary: "#000000"
+      secondary: "#FFFFFF"
+      accent: "#FF0000"
+    fonts:
+      primary: "Arial"
+    assets:
+      logo_path: "assets/brand/logo.png"
+
+  # 2. CONTEXTO PARA LA IA (Inyección directa para guionistas y prompters)
+  ai_context:
+    tone: "Profesional, amigable o dinámico (Definir aquí)."
+    target_audience: "Público objetivo general del workspace."
+    language: "es"
+    prompt_engineering:
+      image_style: "Fotorrealista, estilo cómic, 3D, etc."
+      camera_motion: "Paneos suaves, cortes rápidos, etc."
+
+  # 3. PERFILES DE PLATAFORMA (Reglas por formato)
+  platforms:
+    tiktok:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Rápido, enfocado en comentarios o guardar."
+    youtube_longform:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: null
+      cta_style: "Educativo, invita a ver links en la descripción."
+
+  # 4. CONFIGURACIONES POR DEFECTO (Para automatizaciones y scripts)
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 500
+    voice_cloning:
+      provider: "elevenlabs"
+      primary_voice_id: "default_voice_id"

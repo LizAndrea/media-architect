@@ -55,7 +55,7 @@ Los creadores de contenido enfrentan **tres grandes desafíos** al producir vide
 **C) Escalabilidad limitada**
 - Imposible gestionar múltiples proyectos simultáneos
 - No se capitaliza el conocimiento adquirido en proyectos anteriores
-- Dificultad para escalar a nivel de agencia/productora con múltiples clientes
+- Dificultad para escalar a nivel de agencia/productora con múltiples workspaces
 
 ### 2.2 Métricas del problema
 
@@ -76,7 +76,7 @@ Los creadores de contenido enfrentan **tres grandes desafíos** al producir vide
 Un **framework CLI asistido por IA** que proporciona:
 
 1. **Estructura jerárquica profesional**
-   - Agencias → Clientes → Proyectos de Video → Escenas
+   - Agencias → Workspaces → Proyectos de Video → Escenas
    - Cada nivel con su propio contexto y metadata
 
 2. **Biblioteca de skills especializados**
@@ -103,7 +103,7 @@ Un **framework CLI asistido por IA** que proporciona:
 ✅ **Escenas optimizadas para Google Flow VEO (8-10 segundos)**  
 ✅ **Motor Backend en Python** (Ejecución ultrarrápida de comandos sin consumo excesivo de tokens IA)  
 ✅ **Soporte multiplataforma** (VEO, Runway, Sora, Midjourney, ElevenLabs)  
-✅ **Jerarquía de contexto** para agencias con múltiples clientes  
+✅ **Jerarquía de contexto** para agencias con múltiples workspaces  
 ✅ **Métricas de engagement** integradas en el análisis  
 ✅ **Pipeline automatizado** con `/media-pipeline`  
 
@@ -123,7 +123,7 @@ Un **framework CLI asistido por IA** que proporciona:
 |-------|-------------|
 | **Profesionalismo** | Estándares cinematográficos aplicados a cada producción |
 | **Reproducibilidad** | Todo proceso y prompt queda registrado y versionado |
-| **Escalabilidad** | Arquitectura preparada para múltiples clientes y proyectos |
+| **Escalabilidad** | Arquitectura preparada para múltiples workspaces y proyectos |
 | **Transparencia** | Historia completa del proceso creativo disponible |
 | **Calidad** | Métricas objetivas de engagement y potencial viral |
 
@@ -136,9 +136,9 @@ Un **framework CLI asistido por IA** que proporciona:
 ```
 media-architect/
 |
-|-- clients/
-|   |-- agencia-xyz/                    (Nivel 1: Cliente)
-|   |   |-- AGENTS.md                   (Contexto del cliente)
+|-- workspaces/
+|   |-- agencia-xyz/                    (Nivel 1: Workspace)
+|   |   |-- AGENTS.md                   (Contexto del workspace)
 |   |   |-- README.md
 |   |   |
 |   |   |-- como-llegar-a-tarata-bici/  (Nivel 2: Proyecto)
@@ -152,7 +152,7 @@ media-architect/
 |   |   |
 |   |   +-- otro-proyecto/
 |   |
-|   +-- cliente-2/
+|   +-- workspace-2/
 |
 |-- resources/                          (Bibliotecas de conocimiento)
 |-- templates/                          (Plantillas profesionales)
@@ -166,7 +166,7 @@ media-architect/
 | Comando | Función | Duración estimada |
 |---------|---------|-------------------|
 | `/media-init` | Inicializa el framework | 1 min |
-| `/media-new-client` | Crea un cliente/empresa | 2 min |
+| `/media-new-workspace` | Crea un workspace/empresa | 2 min |
 | `/media-in` | Selecciona proyecto activo | 1 min |
 | `/media-new` | Crea proyecto de video | 3 min |
 | `/media-script` | Genera guion profesional | 15-30 min |
@@ -205,7 +205,7 @@ El agente actúa como **equipo creativo completo** con 12 especialidades:
 IDEA TEXTUAL
      |
      v
-/media-new-client -----------> Creación de Cliente
+/media-new-workspace -----------> Creación de Workspace
      |
      v
 /media-in ------------------> Selección de contexto
@@ -239,8 +239,8 @@ PRODUCCIÓN FINAL EN PLATAFORMAS DE IA
 ### 6.2 Flujo rápido (recomendado)
 
 ```bash
-/media-new-client          # 1. Crear cliente
-/media-in                  # 2. Seleccionar cliente
+/media-new-workspace          # 1. Crear workspace
+/media-in                  # 2. Seleccionar workspace
 /media-new                 # 3. Crear proyecto
 /media-pipeline            # 4. TODO EN UN SOLO COMANDO
                            #    Script → Storyboard → Render
@@ -323,7 +323,7 @@ PRODUCCIÓN FINAL EN PLATAFORMAS DE IA
 |------|----------------|------------------|
 | MVP funcional | Q3 2026 | 3 proyectos completos |
 | Integración API | Q4 2026 | 80% de automatización |
-| Primer cliente pagado | Q1 2027 | Ingresos recurrentes |
+| Primer workspace pagado | Q1 2027 | Ingresos recurrentes |
 | 100 usuarios activos | Q2 2027 | Crecimiento mensual 20% |
 
 ---
@@ -370,12 +370,12 @@ PRODUCCIÓN FINAL EN PLATAFORMAS DE IA
 ### 10.2 ROI estimado (Fase 2-3)
 
 **Escenario conservador:**
-- 10 clientes pagando $200/mes = $2,000/mes
+- 10 workspaces pagando $200/mes = $2,000/mes
 - 50 templates vendidos a $29 = $1,450 ingreso único
 - **ROI: 300% en 6 meses**
 
 **Escenario optimista:**
-- 50 clientes SaaS a $99/mes = $4,950/mes
+- 50 workspaces SaaS a $99/mes = $4,950/mes
 - 200 templates vendidos = $5,800 ingreso único
 - Consultoría especializada = $2,000/mes
 - **ROI: 800% en 12 meses**
@@ -426,7 +426,7 @@ PRODUCCIÓN FINAL EN PLATAFORMAS DE IA
 ### Decisión 3: Plataformas prioritarias (Fase 2)
 - **Opción A:** Solo Google Flow VEO (enfoque profundo)
 - **Opción B:** Multi-plataforma (VEO + Runway + Sora)
-- **Opción C:** Modular según cliente
+- **Opción C:** Modular según workspace
 - **Recomendación:** Opción A inicial → Opción B en Fase 2
 
 ### Decisión 4: Velocidad de lanzamiento
@@ -444,7 +444,7 @@ PRODUCCIÓN FINAL EN PLATAFORMAS DE IA
 ### Decisión 6: Estrategia de contenido
 - **Opción A:** Proyectos propios como showcase
 - **Opción B:** Documentar el proceso (meta-content)
-- **Opción C:** Casos de estudio con clientes reales
+- **Opción C:** Casos de estudio con workspaces reales
 - **Recomendación:** Las tres (pirámide de contenido)
 
 ---
@@ -463,7 +463,7 @@ PRODUCCIÓN FINAL EN PLATAFORMAS DE IA
 - [ ] Documentación de uso para equipo
 
 ### Semana 5-6: Validación comercial
-- [ ] Proyecto piloto #2 (cliente externo si es posible)
+- [ ] Proyecto piloto #2 (workspace externo si es posible)
 - [ ] Recolección de feedback estructurado
 - [ ] Planificación de Fase 2 (integración API)
 

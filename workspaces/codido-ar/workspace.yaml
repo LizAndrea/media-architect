@@ -1,0 +1,48 @@
+workspace:
+  name: "codidoAR"
+  slug: "codido-ar"
+  description: "Canal faceless para pacientes con Artritis Reumatoide. Bitácora de ingeniería de salud empoderadora."
+
+  # 1. IDENTIDAD DE MARCA
+  brand:
+    colors:
+      primary: "#E0E3D8" # Verde Oliva claro
+      secondary: "#FDFDFD" # Blanco hueso
+      accent: "#D4AF37" # Dorado miel
+    fonts:
+      primary: "Inter"
+    assets:
+      logo_path: "assets/brand/logo.png"
+
+  # 2. CONTEXTO PARA LA IA
+  ai_context:
+    tone: "Empático pero directo y estructurado. Lógico, crítico e inspirador. Sin victimización."
+    target_audience: "Pacientes con Artritis Reumatoide y enfermedades autoinmunes con inflamación sistémica buscando tomar control."
+    language: "es"
+    prompt_engineering:
+      image_style: "Minimalista, limpio (estética de bitácora), naturaleza, luz natural, tonos cálidos y orgánicos. EVITAR estética hospitalaria fría."
+      camera_motion: "Paneos lentos, calmados, B-roll sanador de naturaleza."
+
+  # 3. PERFILES DE PLATAFORMA
+  platforms:
+    tiktok:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Empoderador, invitando a la comunidad."
+    youtube_longform:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: null
+      cta_style: "Invita a comprar el ebook en Hotmart y unirse a la comunidad."
+    youtube_shorts:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Tips directos de sanación intestinal y alimentación."
+
+  # 4. CONFIGURACIONES POR DEFECTO
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 500
+    voice_cloning:
+      provider: "elevenlabs"
+      primary_voice_id: "lia_narrator"

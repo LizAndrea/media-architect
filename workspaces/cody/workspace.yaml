@@ -1,0 +1,51 @@
+workspace:
+  name: "Cody"
+  slug: "cody"
+  description: "Referente tech-entretenido, identidad local boliviana (Cochabamba), multifacético (programador, ciclista MTB, foodie local, aventurero)."
+
+  # 1. IDENTIDAD DE MARCA
+  brand:
+    colors:
+      primary: "#00D4FF"
+      secondary: "#0A0E17"
+      accent: "#7B61FF"
+      success: "#00FF88"
+      warning: "#FFB800"
+      danger: "#FF4757"
+    fonts:
+      primary: "Montserrat-Bold"
+    assets:
+      logo_path: "assets/brand/logo.png"
+
+  # 2. CONTEXTO PARA LA IA
+  ai_context:
+    tone: "Entretenido, tech-savvy, cercano, aventurero, curioso."
+    target_audience: "Comunidad en TikTok y RRSS, enfocada en tecnología, programación, ciclismo de montaña, turismo local y comida."
+    language: "es"
+    prompt_engineering:
+      image_style: "Robot humanoide (semi-realista/3D) con hoodie negro estampado 'DECODER' y símbolos de código, auriculares over-ear. Piel metálica con textura sutil. Developer room del futuro cyberpunk sutil."
+      camera_motion: "Dinámico, no rígido."
+
+  # 3. PERFILES DE PLATAFORMA
+  platforms:
+    tiktok:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Rápido, retención alta en primeros 3s."
+    youtube_longform:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: null
+      cta_style: "Técnico y educativo, invita a comentar."
+    youtube_shorts:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Técnico pero conciso, loop visual."
+
+  # 4. CONFIGURACIONES POR DEFECTO
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 500
+    voice_cloning:
+      provider: "elevenlabs"
+      primary_voice_id: "cody_default"

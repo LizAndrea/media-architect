@@ -32,7 +32,7 @@ pip install -r scripts/requirements.txt
 
 ## 4. Estructura de Scripts Backend
 La carpeta `/scripts` contiene código Python que sirve como "backend" de alta velocidad para las habilidades de la IA. Esto permite que la IA no pierda tokens ni tiempo ejecutando operaciones básicas de sistema:
-- `list_active.py`: Base de datos ultrarrápida que lee los archivos Markdown de los clientes, filtra proyectos archivados y gestiona el menú del comando `/media-in`.
+- `list_active.py`: Base de datos ultrarrápida que lee los archivos Markdown de los workspaces, filtra proyectos archivados y gestiona el menú del comando `/media-in`.
 - `media_optimizer.py`: Script avanzado para procesar recursos y assets.
 - `requirements.txt`: Dependencias del sistema.
 

@@ -93,7 +93,7 @@
 | 2 | **Descript (Overdub)** | [descript.com](https://www.descript.com) | Clonación de voz integrada en editor de video/audio basado en transcripción. | ❌ No — planes desde £12/mes, free trial disponible |
 | 3 | **PlayHT** | [play.ht](https://play.ht) | Gran biblioteca multilingüe. Tier gratuito generoso con cloning. | ✅ Sí — tier gratuito con watermark en exports |
 | 4 | **Murf AI** | [murf.ai](https://murf.ai) | Estudio de voz profesional para anuncios, e-learning y videos explicativos. | ⚠️ Parcial — ~10 min trial, luego desde £12/mes |
-| 5 | **WellSaid Labs** | [wellsaidlabs.com](https://www.wellsaidlabs.com) | Voces comerciales verificadas. Ideal para agencias y trabajo de cliente. | ❌ No — desde £36/mes |
+| 5 | **WellSaid Labs** | [wellsaidlabs.com](https://www.wellsaidlabs.com) | Voces comerciales verificadas. Ideal para agencias y trabajo de workspace. | ❌ No — desde £36/mes |
 | 6 | **Resemble.AI** | [resemble.ai](https://www.resemble.ai) | API-first, generación en tiempo real, conversión voz-a-voz. Para productos y apps. | ❌ No — desde £24/mes |
 | 7 | **Replica Studios** | [replicastudios.com](https://www.replicastudios.com) | Especializado en voces de personajes para videojuegos y experiencias interactivas. | ❌ No — desde £24/mes |
 | 8 | **Speechify** | [speechify.com](https://speechify.com) | Lectura en voz alta con cloning personal. Consumo de contenido. | ✅ Sí — plan gratuito limitado |
@@ -212,7 +212,7 @@
 
 | # | Herramienta | URL | Descripción | ¿Gratuito? |
 |---|-------------|-----|-------------|------------|
-| 29 | **FeedHive** | [feedhive.com](https://feedhive.com) | Gestión social multi-cliente con recycling de contenido y posting condicional. | ❌ No — trial 7 días, luego desde $15/mes |
+| 29 | **FeedHive** | [feedhive.com](https://feedhive.com) | Gestión social multi-workspace con recycling de contenido y posting condicional. | ❌ No — trial 7 días, luego desde $15/mes |
 | 30 | **Social Champ** | [socialchamp.io](https://www.socialchamp.io) | Scheduling bulk, approval workflows, recycling automático. | ✅ Sí — trial; Starter $5/mes |
 | 31 | **Buffer** | [buffer.com](https://buffer.com) | Scheduling simple y análisis para múltiples redes. | ✅ Sí — plan gratuito con 3 redes |
 | 32 | **Hootsuite** | [hootsuite.com](https://www.hootsuite.com) | Gestión social empresarial con AI para contenido y análisis. | ❌ No — trial 30 días |

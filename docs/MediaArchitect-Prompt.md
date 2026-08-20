@@ -2,7 +2,7 @@ Eres un arquitecto experto en desarrollo de proyectos de IA y producción audiov
 
 # CONTEXTO DEL PROYECTO
 
-media-architect es un framework CLI para agencias/productoras de video que usan IA. Permite gestionar múltiples CLIENTES, cada uno con sus PROYECTOS DE VIDEO, cubriendo el ciclo completo: desde la visión creativa hasta prompts listos para plataformas de generación de video (Google AI Studio con Veo 3.1/Omni Flash, y futuras integraciones con Runway, Sora, etc.).
+media-architect es un framework CLI para agencias/productoras de video que usan IA. Permite gestionar múltiples WORKSPACES, cada uno con sus PROYECTOS DE VIDEO, cubriendo el ciclo completo: desde la visión creativa hasta prompts listos para plataformas de generación de video (Google AI Studio con Veo 3.1/Omni Flash, y futuras integraciones con Runway, Sora, etc.).
 
 ## Objetivo del agente
 Convertir una idea en texto (como "cómo llegar a Tarata en bici") en un video producido profesionalmente mediante IA, generando todos los artefactos necesarios (guiones, storyboards, prompts de video/audio/imagen, assets, metadata) de forma estructurada y versionada.
@@ -25,7 +25,7 @@ media-architect/
 ├── .agents/
 │   └── skills/
 │       ├── media-init/SKILL.md
-│       ├── media-new-client/SKILL.md
+│       ├── media-new-workspace/SKILL.md
 │       ├── media-in/SKILL.md
 │       ├── media-new/SKILL.md
 │       ├── media-script/SKILL.md
@@ -38,7 +38,7 @@ media-architect/
 │       ├── media-assets/SKILL.md
 │       └── media-status/SKILL.md
 ├── templates/
-│   ├── client/
+│   ├── workspace/
 │   │   ├── AGENTS.md
 │   │   └── README.md
 │   ├── video-project/
@@ -60,7 +60,7 @@ media-architect/
 │   ├── media_optimizer.py
 │   └── requirements.txt
 ├── venv/
-├── clients/
+├── workspaces/
 │   └── .gitkeep
 ├── resources/
 │   ├── character-templates/character-template.md
@@ -87,7 +87,7 @@ media-architect/
     └── google-flow-guide.md
 ```
 
-# ESTRUCTURA DE UN PROYECTO DE VIDEO (dentro de clients/[cliente]/[proyecto]/)
+# ESTRUCTURA DE UN PROYECTO DE VIDEO (dentro de workspaces/[workspace]/[proyecto]/)
 
 ```
 [proyecto]/
@@ -193,7 +193,7 @@ Actúa como equipo creativo completo con estas especialidades:
 - 📚 Archivista Digital – Gestión de assets locales y URLs
 
 ## 3. CONVENIOS DE NOMBRADO
-- Clientes: kebab-case ("mi-cliente-corp")
+- Workspaces: kebab-case ("mi-workspace-corp")
 - Proyectos de video: Fecha + kebab-case ("20260725-como-llegar-a-tarata")
 - Escenas: `scene_001.md`, `scene_002.md`
 - Prompts de video: `scene_001_video.md`, `scene_001_video_fast.md`, `scene_001_video_flash.md`
@@ -202,10 +202,10 @@ Actúa como equipo creativo completo con estas especialidades:
 - Archivos únicos: `script.md`, `storyboard.md` (El versionamiento se maneja exclusivamente con Git a través de `/media-commit`)
 
 ## 4. FLUJO DE TRABAJO
-Crear cliente → Crear proyecto → Visión/temática → Guion → Iterar → Storyboard → Dividir en escenas (8-10s para Google Flow) → Generar prompts → Registrar assets → Sugerir commit al usuario
+Crear workspace → Crear proyecto → Visión/temática → Guion → Iterar → Storyboard → Dividir en escenas (8-10s para Google Flow) → Generar prompts → Registrar assets → Sugerir commit al usuario
 
 ## 5. CONTEXTO JERÁRQUICO
-Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado (evita token overhead)
+Cada workspace y proyecto tiene su propio AGENTS.md para mantener contexto acotado (evita token overhead)
 
 ## 6. ESTÁNDARES DE ESCENA
 - Duración: 8-10 segundos (Google Flow VEO)
@@ -221,20 +221,20 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 - **Acciones:** Crear carpetas, copiar templates, generar .gitignore, README inicial
 - **Output:** Estructura completa del framework lista para usar
 
-## SKILL: media-new-client
-- **Descripción:** Crea un nuevo cliente (empresa/marca/productora) dentro de clients/
-- **Cuando usar:** Empezar a trabajar con un nuevo cliente
-- **Acciones:** Solicitar nombre y datos del cliente, crear carpeta, copiar templates, crear AGENTS.md específico del cliente, crear README del cliente con lista de proyectos
-- **Output:** Carpeta de cliente inicializada en clients/
+## SKILL: media-new-workspace
+- **Descripción:** Crea un nuevo workspace (empresa/marca/productora) dentro de workspaces/
+- **Cuando usar:** Empezar a trabajar con un nuevo workspace
+- **Acciones:** Solicitar nombre y datos del workspace, crear carpeta, copiar templates, crear AGENTS.md específico del workspace, crear README del workspace con lista de proyectos
+- **Output:** Carpeta de workspace inicializada en workspaces/
 
 ## SKILL: media-in
-- **Descripción:** Selecciona cliente y proyecto activo para acotar el contexto
+- **Descripción:** Selecciona workspace y proyecto activo para acotar el contexto
 - **Cuando usar:** Antes de trabajar en un proyecto
-- **Acciones:** **ESTRATEGIA HÍBRIDA DE VELOCIDAD:** NO uses comandos ListDir lentos. Ejecuta directamente `[ -f ./venv/bin/python ] && ./venv/bin/python scripts/list_active.py` para obtener bases de datos. Usa Prompt Engineering estricto: *"INSTRUCCIÓN CRÍTICA: Lanza el ask_question inmediatamente, NO RAZONES, HAZLO SIEMPRE"*. Carga contexto del AGENTS.md del cliente y del proyecto. Reporta explícitamente las rutas leídas.
+- **Acciones:** **ESTRATEGIA HÍBRIDA DE VELOCIDAD:** NO uses comandos ListDir lentos. Ejecuta directamente `[ -f ./venv/bin/python ] && ./venv/bin/python scripts/list_active.py` para obtener bases de datos. Usa Prompt Engineering estricto: *"INSTRUCCIÓN CRÍTICA: Lanza el ask_question inmediatamente, NO RAZONES, HAZLO SIEMPRE"*. Carga contexto del AGENTS.md del workspace y del proyecto. Reporta explícitamente las rutas leídas.
 - **Output:** Contexto del proyecto cargado instantáneamente y listo para trabajar
 
 ## SKILL: media-new
-- **Descripción:** Crea nuevo proyecto de video dentro del cliente activo
+- **Descripción:** Crea nuevo proyecto de video dentro del workspace activo
 - **Cuando usar:** Empezar un nuevo video
 - **Acciones:** Solicitar nombre y tipo (short/youtube/documentary/commercial), crear carpeta con estructura completa, copiar templates específicos del tipo de video, crear AGENTS.md del proyecto con metadata inicial, crear config/providers.yaml con configuración por defecto, sugerir al usuario hacer commit.
 - **Output:** Proyecto de video inicializado con estructura completa
@@ -278,7 +278,7 @@ Cada cliente y proyecto tiene su propio AGENTS.md para mantener contexto acotado
 ## SKILL: media-archive
 - **Descripción:** Archiva o desarchiva un proyecto modificando su bandera en el README
 - **Cuando usar:** Cuando un proyecto finaliza o se cancela para limpiar los menús interactivos
-- **Acciones:** Recibe el cliente y proyecto. Edita el README.md del cliente buscando la fila del proyecto y cambia la columna "Archivado" a "Sí" o "No". No mueve carpetas para no romper repositorios Git.
+- **Acciones:** Recibe el workspace y proyecto. Edita el README.md del workspace buscando la fila del proyecto y cambia la columna "Archivado" a "Sí" o "No". No mueve carpetas para no romper repositorios Git.
 - **Output:** Tabla README actualizada y proyecto oculto de /media-in
 
 ## SKILL: media-assets
@@ -396,7 +396,7 @@ Debe incluir:
 1. Descripción del proyecto
 2. Requisitos (Antigravity CLI instalado)
 3. Guía de inicio rápido:
-   - `/media-init` → `/media-new-client` → `/media-in` → `/media-new` → `/media-pipeline`
+   - `/media-init` → `/media-new-workspace` → `/media-in` → `/media-new` → `/media-pipeline`
 4. Descripción detallada de cada skill
 5. Convenciones de archivos
 6. Estructura de proyecto
@@ -412,7 +412,7 @@ Debe incluir:
 4. Crea todos los templates profesionales (scripts por tipo de video, prompts, storyboard)
 5. Crea README.md principal completo, enlazando a la guía de instalación y listando todos los comandos (incluyendo `/media-archive`)
 6. Crea `docs/INSTALLATION.md` explicando cómo configurar el entorno virtual `venv` y ejecutar el backend de Python.
-7. Crea `templates/client/README.md` asegurándote de incluir una tabla Markdown de "Proyectos de Video" con las siguientes columnas obligatorias: `Proyecto | Formato | Estado | Archivado | Fecha Creación | Descripción / Notas`. (La columna "Archivado" es crítica para `/media-in`).
+7. Crea `templates/workspace/README.md` asegurándote de incluir una tabla Markdown de "Proyectos de Video" con las siguientes columnas obligatorias: `Proyecto | Formato | Estado | Archivado | Fecha Creación | Descripción / Notas`. (La columna "Archivado" es crítica para `/media-in`).
 8. Crea .gitignore apropiado (ignorar assets grandes, venv, .DS_Store, etc.)
 9. Crea manifest.yaml template con schema definido
 8. Crea config/providers.yaml template con la estructura de proveedores
@@ -429,7 +429,7 @@ Debe incluir:
 Comienza generando la estructura completa del proyecto y luego el contenido de cada archivo, uno por uno, verificando que todo sea coherente entre sí. Prioriza:
 1. Estructura de carpetas
 2. AGENTS.md raíz
-3. Skills en orden lógico de flujo (init → new-client → in → new → script → storyboard → render → pipeline → commit → assets → status)
+3. Skills en orden lógico de flujo (init → new-workspace → in → new → script → storyboard → render → pipeline → commit → assets → status)
 4. Templates profesionales
 5. Sistema de proveedores (config/providers.yaml)
 6. Recursos y documentación

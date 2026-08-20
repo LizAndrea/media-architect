@@ -443,7 +443,7 @@ Este documento es una biblioteca categorizada de herramientas de IA para uso de 
 ### 🎭 Video con Personajes Consistentes - Top 3
 1. **Hedra AI:** El rey actual para generar "talking heads" (personajes hablando) con profunda emoción y consistencia facial a partir de una sola foto.
 2. **Midjourney (`--cref`) + Runway:** El flujo de trabajo profesional. Creas el personaje en MJ usando el parámetro de *Character Reference*, y lo animas en Runway.
-3. **Viggle AI:** Insustituible para reemplazar personajes en videos de acción (ej. poner a tu mascota o cliente haciendo un baile viral de TikTok manteniendo su rostro).
+3. **Viggle AI:** Insustituible para reemplazar personajes en videos de acción (ej. poner a tu mascota o workspace haciendo un baile viral de TikTok manteniendo su rostro).
 
 ### 📦 E-commerce, Importación y Pricing - Top 3
 1. **Minea / Pipiads:** Esenciales para detectar qué electrónicos se están vendiendo de forma viral en TikTok/Facebook antes de importar la caja desde China.
@@ -456,8 +456,8 @@ Este documento es una biblioteca categorizada de herramientas de IA para uso de 
 3. **Looka:** El mejor para generar no solo el logo, sino el *Brand Kit* completo (tarjetas de presentación, mockups en camisetas, paleta de colores) en un solo clic.
 
 ### ⚙️ Optimización Empresarial - Top 3
-1. **Clay:** La herramienta de moda en ventas B2B. Enriquece bases de datos de clientes automáticamente (busca en LinkedIn, noticias, webs) y crea campañas hiper-personalizadas.
-2. **Fathom:** Se une a tus llamadas de Zoom/Meet con clientes, graba, transcribe y te envía un resumen con las tareas pendientes y objeciones de venta al terminar la reunión.
+1. **Clay:** La herramienta de moda en ventas B2B. Enriquece bases de datos de workspaces automáticamente (busca en LinkedIn, noticias, webs) y crea campañas hiper-personalizadas.
+2. **Fathom:** Se une a tus llamadas de Zoom/Meet con workspaces, graba, transcribe y te envía un resumen con las tareas pendientes y objeciones de venta al terminar la reunión.
 3. **Lindy.ai:** Te permite crear "Empleados de IA" (Agentes). Ej: Un agente que lee los correos de soporte, los clasifica y responde automáticamente los dudas frecuentes.
 
 ---
@@ -484,7 +484,7 @@ Para el caso específico que mencionas de tu microempresa (traer cajas de electr
 
 ### Paso 4: Automatización de Ventas (WhatsApp)
 *   **Herramienta:** **ManyChat**.
-*   *La Solución:* En Bolivia, el comercio electrónico cierra por WhatsApp. Conectas ManyChat a tu Instagram/Facebook Ads. Cuando preguntan "Precio", la IA responde automáticamente, envía el catálogo, califica al cliente y le pasa el link de pago (o el contacto de tu vendedor humano).
+*   *La Solución:* En Bolivia, el comercio electrónico cierra por WhatsApp. Conectas ManyChat a tu Instagram/Facebook Ads. Cuando preguntan "Precio", la IA responde automáticamente, envía el catálogo, califica al workspace y le pasa el link de pago (o el contacto de tu vendedor humano).
 
 ---
 *Esta ampliación está diseñada para resolver los cuellos de botella operativos reales de una agencia o e-commerce moderno. Los enlaces han sido verificados a Julio 2026.*

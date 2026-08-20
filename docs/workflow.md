@@ -1,6 +1,6 @@
 # WORKFLOW GENERAL DE MEDIA-ARCHITECT
 
-1. `/media-new-client` para registrar la marca.
+1. `/media-new-workspace` para registrar la marca.
 2. `/media-in` para cargar el contexto.
 3. `/media-new` para inicializar el proyecto (ej. YouTube, Short).
 4. `/media-script` para generar el guion y validarlo.
