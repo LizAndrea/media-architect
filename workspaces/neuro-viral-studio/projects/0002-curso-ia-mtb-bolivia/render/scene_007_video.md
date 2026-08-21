@@ -9,6 +9,19 @@ scene: 7
 *@MTB_Cyclist = Adult male in his late 30s, wearing high-end MTB cycling gear, technical long-sleeve jersey with dirt and dust. No helmet, no sunglasses.*
 
 *PROMPT:*
-Cinematic, high-end movie grading. Medium shot of @MTB_Cyclist standing in a dark room. Slow push-in dolly camera movement. He has a confident, knowing smile and points downwards at the camera. Soft key light on his face and a nice blue rim light on his shoulders separating him from the background. 
 
+SCENE:
+@MTB_Cyclist is standing in a dark, modern room. He wears plain dusty cycling gear without any logos, text, or brands (NO FOX logo, NO knee pads, NO body armor). Soft key light on his face and a nice blue rim light on his shoulders separating him from the background. Cinematic, high-end movie grading.
+
+ACTION:
+0-3s: @MTB_Cyclist looks directly at the camera with a highly confident, knowing smile.
+3-7s: He raises his hand and confidently points downwards at the camera/screen to encourage the viewer to comment.
+
+CAMERA:
+Medium shot. Slow, smooth push-in dolly camera movement towards him.
+
+AUDIO:
 *LIP-SYNC DIALOGUE:* "¿Tus fotos dan pena? Comenta 'RUTA' y te paso el curso de IA." (Language: Spanish) (Acting Direction: Didactic, persuasive, looking directly at the camera, highly confident)
+
+SOUND:
+MUTE. DO NOT GENERATE SOUND OR MUSIC. No audio track. Ambient and SFX will be added in post-production.

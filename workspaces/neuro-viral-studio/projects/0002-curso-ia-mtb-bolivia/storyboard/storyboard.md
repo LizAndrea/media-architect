@@ -11,7 +11,7 @@
   - **Iluminación:** Luz solar directa, alto contraste (midday sun).
   - **Color Grading:** Colores cálidos, tonos tierra saturados.
 - **Duración:** 0:00 - 0:04
-- **Audio/Voz en Off:** "(SFX) Respiración agitada, llantas derrapando. Música rock épica."
+- **Audio/Voz en Off:** *(Voz)* "Te sientes como un piloto profesional en la montaña..." *(SFX)* Llantas derrapando.
 - **Transición:** Hard Cut / Fast Cut
 
 ### Toma 2 (Hook B: El Derrape)
@@ -24,7 +24,7 @@
   - **Iluminación:** Backlit (Contraluz por el polvo iluminado).
   - **Color Grading:** Tonos cálidos.
 - **Duración:** 0:04 - 0:08
-- **Audio/Voz en Off:** "(SFX) Sonido de derrape fuerte."
+- **Audio/Voz en Off:** *(Voz)* "...volando por los senderos y sintiendo la adrenalina." *(SFX)* Derrape.
 - **Transición:** Smash Cut (Corte brusco por el sonido de disco rayado).
 
 ### Toma 3 (Interrupción: La Decepción)
@@ -37,7 +37,7 @@
   - **Iluminación:** Chiaroscuro (Luz azul del monitor iluminando su cara, sombras duras en el resto).
   - **Color Grading:** Frío, tonos azulados y cian.
 - **Duración:** 0:08 - 0:14
-- **Audio/Voz en Off:** "(SFX) ¡Scratch de disco! (Voz) 'Pero llegas a casa...'"
+- **Audio/Voz en Off:** *(Voz)* "Pero llegas a casa, revisas la galería..." *(SFX)* ¡Scratch de disco!
 - **Transición:** Hard Cut
 
 ### Toma 4 (El Problema: La Foto Mala)
@@ -50,7 +50,7 @@
   - **Iluminación:** Propia de la pantalla OLED.
   - **Color Grading:** Foto en sí desaturada, con "blown-out highlights" (cielo sobreexpuesto).
 - **Duración:** 0:14 - 0:19
-- **Audio/Voz en Off:** "(Voz) '...y parece que tomaste la foto con una calculadora.'"
+- **Audio/Voz en Off:** *(Voz)* "...y parece que tomaste la foto con una calculadora."
 - **Transición:** Hard Cut
 
 ### Toma 5 (Solución A: Entra la IA)
@@ -63,20 +63,20 @@
   - **Iluminación:** Luz de monitor más cálida y brillante (simulando una interfaz blanca/brillante de IA).
   - **Color Grading:** Transición de azul frío a colores neutros/vibrantes.
 - **Duración:** 0:19 - 0:25
-- **Audio/Voz en Off:** "(SFX) Sonidos digitales rápidos. (Voz) 'Tranquilo. Con un poco de IA...'"
+- **Audio/Voz en Off:** *(Voz)* "Tranquilo. Con un poco de inteligencia artificial..." *(SFX)* Teclado rápido.
 - **Transición:** Match Cut
 
 ### Toma 6 (Solución B: La Magia)
 - **Toma:** 6
 - **Thumbnail (Visual):** Animación en pantalla dividida (split-screen slider) mostrando la foto mala arreglándose mágicamente con colores vibrantes y cielo azul.
-- **Acción/Narrativa:** El momento "Wow" de la herramienta IA (Gemini + Nanobanana).
+- **Acción/Narrativa:** Un slider (línea divisoria) se mueve de izquierda a derecha. A la izquierda, la foto original se ve terrible (colores lavados, blanquecina, sin contraste). A la derecha del slider, la imagen revelada es una obra de arte corregida por IA.
 - **Cámara y Fotografía:**
-  - **Plano:** Gráfico en pantalla / Screencast de alta calidad.
-  - **Movimiento de cámara:** Estático.
+  - **Plano:** Screencast (Captura de pantalla limpia).
+  - **Movimiento de cámara:** Estático. El único movimiento es el efecto "Wipe" o Slider de edición.
   - **Iluminación:** N/A.
-  - **Color Grading:** Saturación perfecta, "Red Bull Style" en el lado corregido.
+  - **Color Grading:** Lado izquierdo: terriblemente desaturado, lavado, blanco/grisáceo. Lado derecho: Saturación perfecta, "Red Bull Style".
 - **Duración:** 0:25 - 0:33
-- **Audio/Voz en Off:** "(Voz) '...puedes rescatar esa foto y dejarla a nivel revista profesional, ¡en segundos!'"
+- **Audio/Voz en Off:** *(Voz)* "...puedes rescatar esa foto y dejarla a nivel revista profesional, ¡en segundos!"
 - **Transición:** Hard Cut
 
 ### Toma 7 (CTA: Comenta RUTA)
@@ -89,7 +89,7 @@
   - **Iluminación:** Luz principal suave (Soft Key) con luz de contra azulada (Rim light).
   - **Color Grading:** Contraste moderno, piel natural y vibrante.
 - **Duración:** 0:33 - 0:40
-- **Audio/Voz en Off:** "(Voz) '¿Tus fotos dan pena? Comenta RUTA y te paso el curso de IA.'"
+- **Audio/Voz en Off:** *(Voz)* "¿Tus fotos dan pena? Comenta 'RUTA' y te paso el curso de IA."
 - **Transición:** Fade to Black
 
 ---

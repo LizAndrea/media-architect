@@ -9,6 +9,20 @@ scene: 5
 *@MTB_Cyclist = Adult male in his late 30s, wearing high-end MTB cycling gear, technical long-sleeve jersey with dirt and dust. No helmet, no sunglasses.*
 
 *PROMPT:*
-Cinematic, high-end movie grading. Moody indoor lighting. Whip pan fast camera movement starting from a smartphone and landing on a medium close up of @MTB_Cyclist in a dark room. The screen light illuminates his face as his expression changes from disappointed to a confident smile. He starts typing rapidly on a keyboard.
 
-*LIP-SYNC DIALOGUE:* "Tranquilo. Con un poco de IA..." (Language: Spanish) (Acting Direction: Confident, reassuring, slightly smiling)
+SCENE:
+@MTB_Cyclist is sitting in his dark, modern room. He wears plain dusty cycling gear without any logos, text, or brands (NO FOX logo, NO knee pads, NO body armor). The screen light softly illuminates his face. Cinematic, high-end movie grading. Moody indoor lighting.
+
+ACTION:
+0-2s: @MTB_Cyclist starts with a disappointed expression, looking at the screen.
+2-4s: His expression smoothly changes from disappointed to a highly confident, knowing smile.
+4-6s: He starts typing rapidly and energetically on a computer keyboard.
+
+CAMERA:
+Whip pan fast camera movement starting from a smartphone (off-screen) and landing quickly on a medium close up of @MTB_Cyclist's face. The camera then stabilizes.
+
+AUDIO:
+*LIP-SYNC DIALOGUE:* "Tranquilo. Con un poco de inteligencia artificial..." (Language: Spanish) (Acting Direction: Confident, reassuring, slightly smiling)
+
+SOUND:
+MUTE. DO NOT GENERATE SOUND OR MUSIC. No audio track. Ambient and SFX will be added in post-production.

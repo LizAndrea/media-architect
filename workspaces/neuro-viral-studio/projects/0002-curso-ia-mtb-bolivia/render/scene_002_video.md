@@ -11,7 +11,7 @@ scene: 2
 *PROMPT:*
 
 SCENE:
-@MTB_Cyclist is on a scenic mountain dirt trail in the foothills of Cochabamba, Bolivia. He is wearing plain MTB gear without any logos, text, or brands (NO FOX logo). Cinematic, high-end movie grading. High contrast, dynamic outdoor lighting, backlit by the intense sun. No other people around.
+@MTB_Cyclist is on a scenic mountain dirt trail in the foothills of Cochabamba, Bolivia. He is wearing plain MTB gear without any logos, text, or brands (NO FOX logo, NO knee pads, NO body armor). Cinematic, high-end movie grading. High contrast, dynamic outdoor lighting, backlit by the intense sun. No other people around.
 
 ACTION:
 0-2s: @MTB_Cyclist rides his mountain bike aggressively towards the camera and slams on the brakes, kicking up a small, subtle amount of dust.
@@ -21,7 +21,7 @@ CAMERA:
 Low angle shot, close to the dirt. Slow-motion 60fps cinematic feel. The camera remains static to capture the dramatic braking action.
 
 AUDIO:
-CRITICAL: The character must NOT speak. Mouth is closed tightly.
+CRITICAL: No speaking in this clip. Mouth is closed tightly. (The voiceover will be added in post-production).
 
 SOUND:
-Aggressive dirt braking sound effect, fading out as the dust settles. NO MUSIC. Ambient SFX only.
+MUTE. DO NOT GENERATE SOUND OR MUSIC. No audio track. Ambient and SFX will be added in post-production.
