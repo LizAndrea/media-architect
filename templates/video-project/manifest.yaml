@@ -9,6 +9,9 @@ assets:
   audio: []
   video: []
   references: []
+casting:
+  characters: []
+  voiceover_only: false
 metrics:
   engagement_score: 0
   viral_potential: 0

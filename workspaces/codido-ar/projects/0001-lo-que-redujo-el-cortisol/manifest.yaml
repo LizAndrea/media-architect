@@ -9,6 +9,9 @@ assets:
   audio: []
   video: []
   references: []
+casting:
+  characters: ["lia"]
+  voiceover_only: true
 metrics:
   engagement_score: 0
   viral_potential: 0

@@ -9,14 +9,33 @@ description: Selecciona workspace y proyecto activo para acotar el contexto
 Usa este skill para establecer el enfoque de trabajo en un workspace y proyecto específico antes de ejecutar otros comandos, limitando así el contexto.
 
 ## How to use
-1. **Selección de Workspace:** Ejecuta directamente el comando `[ -f ./venv/bin/python ] && ./venv/bin/python scripts/list_active.py || python3 scripts/list_active.py`. **INSTRUCCIÓN CRÍTICA:** Inmediatamente después, usa `ask_question`. HAZLO SIEMPRE, incluso si hay un solo workspace. NO tomes decisiones lógicas, solo muestra el menú.
-2. **Selección de Proyecto:** Ejecuta `[ -f ./venv/bin/python ] && ./venv/bin/python scripts/list_active.py NOMBRE_DEL_WORKSPACE_SELECCIONADO || python3 scripts/list_active.py NOMBRE_DEL_WORKSPACE_SELECCIONADO`. **INSTRUCCIÓN CRÍTICA:** Usa inmediatamente `ask_question`. NO RAZONES.
-3. **Carga de Contexto:** Usa tu herramienta `view_file` para leer directamente los archivos `workspaces/NOMBRE_WORKSPACE/AGENTS.md` y `workspaces/NOMBRE_WORKSPACE/projects/NOMBRE_PROYECTO/AGENTS.md`. **CRÍTICO:** NO ejecutes comandos `list_dir` para buscar carpetas ni adivines rutas, ve directo a los archivos.
-4. **Reporte:** Al responderle al usuario, **especifica las rutas relativas completas** de los archivos que leíste (Ej: `workspaces/cody/AGENTS.md`) en lugar de decir genéricamente "Leí AGENTS.md".
+
+Existen tres modos de usar este skill: **Modo Rápido**, **Modo Global** y **Modo Interactivo**.
+
+### MODO RÁPIDO (Recomendado): `/media-in [workspace]/[id]`
+Si el usuario provee el workspace y el ID (Ej: `/media-in cody/1` o `/media-in cody/0001`):
+1. **Identificación:** Rellena el ID con ceros a la izquierda hasta tener 4 dígitos (ej. `1` -> `0001`). 
+2. **Búsqueda:** Usa `list_dir` o `run_command` para listar `workspaces/[WORKSPACE]/projects/` y encontrar la carpeta exacta que empiece con ese prefijo (Ej: `0001-quien-es-cody`).
+3. **Carga de Contexto (Workspace):** Usa `view_file` para leer `workspaces/[WORKSPACE]/AGENTS.md`, `workspaces/[WORKSPACE]/workspace.yaml` y `workspaces/[WORKSPACE]/README.md`.
+4. **Carga de Contexto (Proyecto):** Usa `view_file` para leer el `AGENTS.md`, `README.md` y `manifest.yaml` que se encuentran dentro de la carpeta del proyecto encontrada.
+
+### MODO GLOBAL (Ideación): `/media-in [workspace]`
+Si el usuario solo provee el nombre del workspace sin ID de proyecto (Ej: `/media-in cody`):
+1. **Carga de Contexto (Workspace):** Usa `view_file` para leer `workspaces/[WORKSPACE]/AGENTS.md`, `workspaces/[WORKSPACE]/workspace.yaml` y `workspaces/[WORKSPACE]/README.md`.
+2. Informa al usuario que el contexto global fue cargado exitosamente y que está listo para usar comandos como `/media-ideas` o `/media-new`. No busques ni cargues proyectos.
+
+### MODO INTERACTIVO (Fallback): `/media-in` sin argumentos
+1. Ejecuta `[ -f ./venv/bin/python ] && ./venv/bin/python scripts/list_active.py || python3 scripts/list_active.py`.
+2. Usa `ask_question` para que el usuario seleccione el Workspace.
+3. Ejecuta el mismo script pasándole el workspace elegido para listar los proyectos.
+4. Usa `ask_question` para que el usuario seleccione el Proyecto.
+5. Carga los archivos de contexto descritos en el paso 3 y 4 del Modo Rápido.
+
+## Reporte Final
+Al responderle al usuario, **especifica las rutas relativas completas** de todos los archivos que leíste y haz un resumen brevísimo indicando el nivel de contexto (Solo Workspace, o Workspace + Proyecto).
 
 ## Examples
-*Usuario:* "/media-in workspace acme proyecto comercial-verano"
-*Agente:* Lee el contexto y confirma: "Contexto activo: acme / comercial-verano".
-
-## Expected output
-El agente ajusta su atención al workspace y proyecto especificado y lo reporta al usuario.
+*Usuario:* "/media-in cody/1"
+*Agente:* Carga Workspace y Proyecto. Responde: "Contexto activo: cody / 0001-quien-es-cody".
+*Usuario:* "/media-in cody"
+*Agente:* Carga solo Workspace. Responde: "Contexto global activo: cody. Listo para ideación."
