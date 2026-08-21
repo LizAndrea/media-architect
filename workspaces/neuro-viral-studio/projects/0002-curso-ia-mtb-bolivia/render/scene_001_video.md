@@ -5,9 +5,6 @@ duration: "4s"
 scene: 1
 ---
 
-*LORE GLOSSARY:*
-*@MTB_Cyclist = Adult male in his late 30s, wearing high-end MTB cycling gear, technical long-sleeve jersey with dirt and dust, half-shell MTB trail helmet with visor and sports sunglasses on the head.*
-
 *PROMPT:*
 
 SCENE:
