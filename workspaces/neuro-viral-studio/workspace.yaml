@@ -1,0 +1,41 @@
+workspace:
+  name: "Neuro Viral Studio"
+  slug: "neuro-viral-studio"
+  description: "Productora enfocada en contenido ultra realista, cinemático y altamente viral usando técnicas de neuromarketing."
+
+  brand:
+    colors:
+      primary: "#1A1A1A"
+      secondary: "#E6E6E6"
+      accent: "#FF3366"
+    fonts:
+      primary: "Montserrat"
+    assets:
+      logo_path: "assets/brand/logo.png"
+
+  ai_context:
+    tone: "Intenso, misterioso, altamente retentivo, cinemático."
+    target_audience: "Usuarios de redes sociales con déficit de atención (Genz Z, Millennials), buscando atraparlos en los primeros 2 segundos."
+    language: "es"
+    prompt_engineering:
+      image_style: "Ultra-realistic, 8k resolution, cinematic lighting, dramatic shadows, highly detailed facial features, photorealistic, shot on Arri Alexa, Arriraw, 35mm lens."
+      camera_motion: "Cinematic subtle movements, smooth push-in, shallow depth of field, natural motion blur, locked-off shot for dramatic effect."
+      character_consistency: "Exact same facial structure, exact same clothing, exact same hairstyle, un-deformed eyes and hands."
+
+  platforms:
+    tiktok_shorts:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Subliminal o cliffhanger."
+    youtube_podcast:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: null
+      cta_style: "Valor profundo, preguntas reflexivas."
+
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 1000
+    voice_cloning:
+      provider: "elevenlabs"
+      primary_voice_id: "cinematic_voice_1"

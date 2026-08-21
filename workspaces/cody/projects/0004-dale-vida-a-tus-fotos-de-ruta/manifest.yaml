@@ -9,6 +9,9 @@ assets:
   audio: []
   video: []
   references: []
+visuals:
+  style_override: "hyper-realistic, photorealistic live-action, 8k resolution, documentary style"
+  location: "Cochabamba, Bolivia, mountain trails, dry Andes landscape"
 casting:
   characters: []
   voiceover_only: false

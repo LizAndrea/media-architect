@@ -9,6 +9,9 @@ assets:
   audio: []
   video: []
   references: []
+visuals:
+  style_override: ""
+  location: ""
 casting:
   characters: ["lia"]
   voiceover_only: true

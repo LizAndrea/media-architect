@@ -17,7 +17,7 @@ Usa este comando después de crear un proyecto de video para escribir y refinar 
    - Si `voiceover_only` es `true`, el personaje narra pero no aparece físicamente.
 4. **Ingeniería Viral (CRÍTICO):** Aplica estrictamente la estructura psicológica (Hook de 0-3s, Alta Utilidad, Cliffhanger, CTA) definida en el `AGENTS.md` del workspace.
 5. **Redacción del Guion:** Genera un master script profesional utilizando la plantilla correspondiente en `templates/scripts/` (Ej: `master-script-short.md`). 
-   - **Locación:** Debes proponer una locación exacta y coherente (Ej: "INT. SALTEÑERIA - DÍA") en cada escena para mantener la continuidad visual.
+   - **Locación (CRÍTICO):** Lee el campo `visuals.location` del `manifest.yaml`. Debes ambientar las escenas explícitamente en ese lugar geográfico o concepto (Ej: "Cochabamba, Bolivia") para darle identidad cultural o visual al guion (Ej: "EXT. CERRO TUNARI, COCHABAMBA - DÍA"). Si está vacío, propón tú una locación coherente.
    - **Separación Visual/Audio:** Separa claramente lo que se ve en cámara (Visual) de lo que se escucha (Audio) para facilitar el storyboard.
 6. **Guardado y Métricas:** Guarda el resultado en `script/script.md`. Analiza el "engagement score" y "viral potential" basándote en las rúbricas de `resources/metrics/` y presenta estas métricas al usuario para recibir su feedback.
 7. **Actualización de Base de Datos:** Cuando el usuario apruebe el guion final, actualiza los valores `engagement_score` y `viral_potential` dentro del `manifest.yaml` del proyecto.

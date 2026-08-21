@@ -1,0 +1,21 @@
+project:
+  id: "0001"
+  slug: "0001-video-reaccion-sorpresa"
+  title: "Video Reacción Sorpresa (Flow AI)"
+  status: "render"
+
+  platform: "tiktok" # 9:16
+  duration_seconds: 8
+
+  casting:
+    characters:
+      - isabella-host
+    voiceover_only: false
+
+  visuals:
+    location: "Espacio moderno, limpio y acogedor, con iluminación suave y natural"
+    style_override: "Vertical video 9:16, ultra-realistic and natural style, cinematic look, ARRI Alexa. The camera only shows the woman. DO NOT show any other person."
+
+  performance:
+    engagement_score: 95
+    viral_potential: "High"
