@@ -11,7 +11,7 @@ scene: 7
 *PROMPT:*
 
 SCENE:
-@MTB_Cyclist is standing in a dark, modern room. He wears plain dusty cycling gear without any logos, text, or brands (NO FOX logo, NO knee pads, NO body armor). Soft key light on his face and a nice blue rim light on his shoulders separating him from the background. Cinematic, high-end movie grading.
+@MTB_Cyclist is standing in a dark, modern room. He wears plain dusty cycling gear without any logos, text, or brands (NO FOX logo, NO body armor). Soft key light on his face and a nice blue rim light on his shoulders separating him from the background. Cinematic, high-end movie grading.
 
 ACTION:
 0-3s: @MTB_Cyclist looks directly at the camera with a highly confident, knowing smile.
@@ -23,5 +23,5 @@ Medium shot. Slow, smooth push-in dolly camera movement towards him.
 AUDIO:
 *LIP-SYNC DIALOGUE:* "¿Tus fotos dan pena? Comenta 'RUTA' y te paso el curso de IA." (Language: Spanish) (Acting Direction: Didactic, persuasive, looking directly at the camera, highly confident)
 
-SOUND:
-MUTE. DO NOT GENERATE SOUND OR MUSIC. No audio track. Ambient and SFX will be added in post-production.
+NEGATIVE PROMPT:
+Logos, text, FOX brand, helmet, sunglasses, bright lights, multiple people, floating faces, mutations.

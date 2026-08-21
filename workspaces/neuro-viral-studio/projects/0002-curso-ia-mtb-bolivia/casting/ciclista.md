@@ -4,7 +4,7 @@
 
 ## 🎭 Contexto en el Guion
 **Actitud / Emoción:** Héroe de acción en la primera mitad (adrenalina, foco, velocidad), luego cómicamente decepcionado (iluminación dramática azulada) y finalmente confiado y tecnológico.
-**Vestuario (Wardrobe):** Equipo de ciclismo MTB Trail moderno. Casco abierto tipo Trail (con visera), gafas de sol deportivas, jersey técnico de manga larga con colores vibrantes pero que se ensucie con tierra, pantalones cortos de MTB (SIN rodilleras, SIN armadura), y guantes. En la escena de interiores (frente al monitor) se quita el casco y las gafas, mostrando su rostro al natural pero aún con la ropa de ciclismo polvorienta.
+**Vestuario (Wardrobe):** Equipo de ciclismo MTB Trail casual. Casco abierto tipo Trail (con visera) y gafas de sol deportivas cubriendo sus ojos. Jersey técnico de manga larga con tierra y polvo (SIN logos, SIN FOX). Pantalones cortos de MTB con rodilleras (knee pads). En la escena de interiores (frente al monitor) se quita el casco y las gafas, mostrando su rostro al natural pero aún con la ropa de ciclismo polvorienta.
 
 ## 📸 Prompt para Hoja de Referencia (Character Reference Sheet)
 *Copia y pega este prompt en Midjourney, DALL-E 3 o tu IA generadora de imágenes para asegurar la consistencia del personaje en las escenas:*

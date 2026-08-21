@@ -20,5 +20,5 @@ GoPro style POV. Ultra-wide angle lens. Violent shaky handheld action camera fee
 AUDIO:
 CRITICAL: No speaking in this clip. No lip-sync. (The voiceover will be added in post-production because there is no face in this POV shot).
 
-SOUND:
-MUTE. DO NOT GENERATE SOUND OR MUSIC. No audio track. Ambient and SFX will be added in post-production.
+NEGATIVE PROMPT:
+People in front of the camera, faces, characters, floating faces, mutations, UI elements, text, logos, music.

@@ -11,7 +11,7 @@ scene: 5
 *PROMPT:*
 
 SCENE:
-@MTB_Cyclist is sitting in his dark, modern room. He wears plain dusty cycling gear without any logos, text, or brands (NO FOX logo, NO knee pads, NO body armor). The screen light softly illuminates his face. Cinematic, high-end movie grading. Moody indoor lighting.
+@MTB_Cyclist is sitting in his dark, modern room. He wears plain dusty cycling gear without any logos, text, or brands (NO FOX logo, NO body armor). The screen light softly illuminates his face. Cinematic, high-end movie grading. Moody indoor lighting.
 
 ACTION:
 0-2s: @MTB_Cyclist starts with a disappointed expression, looking at the screen.
@@ -24,5 +24,5 @@ Whip pan fast camera movement starting from a smartphone (off-screen) and landin
 AUDIO:
 *LIP-SYNC DIALOGUE:* "Tranquilo. Con un poco de inteligencia artificial..." (Language: Spanish) (Acting Direction: Confident, reassuring, slightly smiling)
 
-SOUND:
-MUTE. DO NOT GENERATE SOUND OR MUSIC. No audio track. Ambient and SFX will be added in post-production.
+NEGATIVE PROMPT:
+Logos, text, FOX brand, helmet, sunglasses, bright lights, multiple people, floating faces, mutations.

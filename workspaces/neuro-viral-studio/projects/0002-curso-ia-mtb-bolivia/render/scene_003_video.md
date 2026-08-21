@@ -11,7 +11,7 @@ scene: 3
 *PROMPT:*
 
 SCENE:
-@MTB_Cyclist is sitting in a dark, modern room in Bolivia. He still wears his plain dusty cycling jersey (without any logos, text, or brands, NO FOX logo, NO knee pads, NO body armor), but no helmet. The room is very dark, illuminated only by the cold blue light of a computer monitor, creating a dramatic chiaroscuro effect on his face. Cinematic, high-end movie grading.
+@MTB_Cyclist is sitting in a dark, modern room in Bolivia. He still wears his plain dusty cycling jersey (without any logos, text, or brands, NO FOX logo, NO body armor), but no helmet. The room is very dark, illuminated only by the cold blue light of a computer monitor, creating a dramatic chiaroscuro effect on his face. Cinematic, high-end movie grading.
 
 ACTION:
 0-2s: @MTB_Cyclist looks at the monitor with a neutral but slowly dropping expression.
@@ -24,5 +24,5 @@ Close up shot. Fast crash zoom in on his face during the first two seconds, then
 AUDIO:
 *LIP-SYNC DIALOGUE:* "Pero llegas a casa, revisas la galería..." (Language: Spanish) (Acting Direction: Deeply frustrated, sighing, low energy, disappointed)
 
-SOUND:
-MUTE. DO NOT GENERATE SOUND OR MUSIC. No audio track. Ambient and SFX will be added in post-production.
+NEGATIVE PROMPT:
+Logos, text, FOX brand, helmet, sunglasses, bright lights, multiple people, floating faces, mutations.
