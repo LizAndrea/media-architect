@@ -19,8 +19,8 @@ Usa este comando cuando el storyboard final esté aprobado para preparar todo pa
      - **ACTION:** Divide la acción en bloques de 2 segundos (Ej: `0-2s: @MTB_Cyclist rides fast... 2-4s: He brakes and dust kicks up... 4-6s: The dust settles down...`). Esto es vital para la progresión temporal.
      - **CAMERA:** Especifica el plano y movimiento de cámara.
      - **AUDIO (Lip-Sync) y VOZ EN OFF (CRÍTICO):** 
-       - **Escenas con cara visible:** Usa `LIP-SYNC DIALOGUE` normalmente.
-       - **Escenas SIN cara visible (POV, celulares, lejos):** El prompt principal DEBE decir `CRITICAL: No speaking. No lip-sync.` para evitar caras flotantes.
+       - **Escenas con cara visible:** Usa `AUDIO:` y `*LIP-SYNC DIALOGUE*` normalmente.
+       - **Escenas SIN cara visible (POV, celulares, lejos):** **BORRA POR COMPLETO el bloque AUDIO del archivo.** No pongas ni la palabra "AUDIO", ya que los motores como Google Flow al leer esa palabra intentan generar una pista de voz y crashean si no hay una cara.
        - **Estrategia de Extracción de Audio:** Para mantener la consistencia de voz en las escenas sin cara, **DEBES crear un archivo adicional** llamado `voiceoff_XXX.md` por cada voz en off. Este archivo será un prompt de video "falso" configurado con un fondo verde (Ej: `@ID_Rol standing against a solid plain green screen...`) y cámara estática, cuyo único propósito será contener el `LIP-SYNC DIALOGUE`. El usuario usará este video solo para extraer el audio en post-producción.
      - **SOUND (SFX):** NO INCLUYAS ESTE BLOQUE. Las IAs de video (como Flow o Kling) ignoran los comandos de "MUTE" por texto e intentarán generar sonido basándose en los visuales. Ahorra tokens omitiendo el sonido. El usuario silenciará el clip manualmente en CapCut/Premiere.
      - **NEGATIVE PROMPT (CRÍTICO):** Al final del documento, DEBES incluir una sección dedicada llamada `NEGATIVE PROMPT:`. Aquí consolidarás todas las prohibiciones visuales de la escena (Ej: `No logos, no text, no FOX brand, no knee pads, no body armor, no other people, no cars, no floating faces, no mutations`). Esto fuerza a la IA a respetar las restricciones sin ensuciar la narrativa.

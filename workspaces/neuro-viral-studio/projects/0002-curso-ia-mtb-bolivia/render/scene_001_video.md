@@ -17,8 +17,5 @@ ACTION:
 CAMERA:
 GoPro style POV. Ultra-wide angle lens. Violent shaky handheld action camera feel.
 
-AUDIO:
-CRITICAL: No speaking in this clip. No lip-sync. (The voiceover will be added in post-production because there is no face in this POV shot).
-
 NEGATIVE PROMPT:
 People in front of the camera, faces, characters, floating faces, mutations, UI elements, text, logos, music.

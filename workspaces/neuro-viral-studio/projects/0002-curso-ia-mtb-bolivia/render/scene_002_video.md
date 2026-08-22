@@ -20,8 +20,5 @@ ACTION:
 CAMERA:
 Low angle shot, close to the dirt. Slow-motion 60fps cinematic feel. The camera remains static to capture the dramatic braking action.
 
-AUDIO:
-CRITICAL: No speaking in this clip. Mouth is closed tightly. (The voiceover will be added in post-production).
-
 NEGATIVE PROMPT:
 No logos, no text, no FOX brand, no Red Bull brand, no body armor, no long pants, no other people, no extra bicycles, no floating faces, no mutations.

@@ -20,8 +20,5 @@ ACTION:
 CAMERA:
 Extreme close up on the smartphone screen. Slight handheld camera shake to simulate someone holding it in a dark room.
 
-AUDIO:
-CRITICAL: No speaking in this clip. No lip-sync. (The voiceover will be added in post-production).
-
 NEGATIVE PROMPT:
 No faces, no people in the background, no cyclists in the background, no aesthetic photo, no good colors, no blue sky on the phone screen, no floating faces, no mutations.

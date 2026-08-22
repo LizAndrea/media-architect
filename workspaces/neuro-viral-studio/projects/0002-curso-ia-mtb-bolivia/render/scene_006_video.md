@@ -21,8 +21,5 @@ ACTION:
 CAMERA:
 Static digital screencast view. No camera movement.
 
-AUDIO:
-CRITICAL: No speaking in this clip. No lip-sync. (The voiceover will be added in post-production).
-
 NEGATIVE PROMPT:
 Movement inside the photo, video playback, people outside the screen, UI elements, floating faces, mutations.
