@@ -28,4 +28,4 @@
 
 ## 🗣️ Configuración de Voz (Google Flow)
 **Voice Name:** `Orus` *(o `Alnilam` / `Fenrir` - te sugiero probar cuál suena mejor para un hombre seguro de 38 años)*
-**Customize Performance:** `Speak in neutral Latin American Spanish (Español neutro latino). Tone: Confident and natural male tone.`
+**Customize Performance:** `Speak in neutral Latin American Spanish (Español neutro latino). Tone: Confident and natural male tone. Voz grave de persona mayor que da confianza`

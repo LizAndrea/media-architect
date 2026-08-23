@@ -1,21 +1,10 @@
 ---
-platform: "tiktok_shorts"
-model: "google_flow_veo"
-duration: "4s"
-scene: 1
+platform: tiktok_shorts
+model: google_flow_veo
 ---
-
-*PROMPT:*
-
-SCENE:
-POV from mountain bike handlebars riding fast on a scenic dirt trail in the foothills of Cochabamba, Bolivia. The environment is dusty with intense midday sunlight. Cinematic, high-end movie grading. High contrast, dynamic outdoor lighting. No other cyclists or people in front, the trail is completely empty ahead.
-
-ACTION:
-0-2s: The camera races down the dirt trail, dodging small rocks, mimicking a fast mountain bike ride.
-2-4s: The fast, shaky movement continues flawlessly down the dusty trail.
-
-CAMERA:
-GoPro style POV. Ultra-wide angle lens. Violent shaky handheld action camera feel.
-
-NEGATIVE PROMPT:
-People in front of the camera, faces, characters, floating faces, mutations, UI elements, text, logos, music.
+**SCENE 001 - VIDEO PROMPT**
+Hyper-realistic cinematic video, vertical 9:16, exact duration 4 seconds. Cinematic, GoPro style POV mixed with high-end ARRI Alexa shots. High contrast, dynamic outdoor lighting transitioning to moody indoor lighting.. First-person POV from mountain bike handlebars riding fast on a scenic mountain dirt trail in the Andes. The camera shakes aggressively with handheld action as the bike speeds down the dusty path under intense midday sunlight.
+CAMERA / TIMING: Maintain aggressive POV motion throughout. 
+CRITICAL: No other people in front of the camera, empty path. No text anywhere.
+FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
+NEGATIVE PROMPT: No logos, no text, no FOX brand, no Nike, no letters, no mutations, no deformed bikes, no floating faces.

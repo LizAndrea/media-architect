@@ -1,26 +1,11 @@
 ---
-platform: "tiktok_shorts"
-model: "google_flow_veo"
-duration: "6s"
-type: "voiceover_extraction"
+platform: tiktok_shorts
+model: google_flow_veo
 ---
-
-*LORE GLOSSARY:*
-*@MTB_Cyclist = Adult male in his late 30s, wearing high-end MTB cycling gear, technical long-sleeve jersey with dirt and dust. No helmet, no sunglasses.*
-
-*PROMPT:*
-
-SCENE:
-@MTB_Cyclist standing against a solid plain green screen background. He wears plain dusty cycling gear without any logos, text, or brands (NO FOX logo, NO knee pads, NO body armor). 
-
-ACTION:
-0-6s: @MTB_Cyclist speaks directly to the camera.
-
-CAMERA:
-Static medium shot. No movement.
-
-AUDIO:
-*LIP-SYNC DIALOGUE:* "...puedes rescatar esa foto y dejarla a nivel revista profesional, ¡en segundos!" (Language: Spanish) (Acting Direction: Enthusiastic, amazed, energetic)
-
-SOUND:
-MUTE. NO BACKGROUND NOISE. Clean dialogue voice only.
+**VOICEOFF PROMPT (For audio extraction only)**
+Hyper-realistic cinematic video, vertical 9:16, exact duration 8 seconds. Adult male (Henry) standing against a solid plain green screen.
+SPEAKER CONTROL: Henry speaks.
+LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Do not translate, paraphrase or rewrite the provided dialogue.
+FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
+LIPSYNC A — ESCENA 6 — (HENRY habla):
+"...puedes rescatar esa foto y dejarla a nivel revista profesional, ¡en segundos!"

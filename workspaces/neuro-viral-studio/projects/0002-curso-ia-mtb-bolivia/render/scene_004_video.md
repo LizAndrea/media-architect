@@ -1,24 +1,10 @@
 ---
-platform: "tiktok_shorts"
-model: "google_flow_veo"
-duration: "5s"
-scene: 4
+platform: tiktok_shorts
+model: google_flow_veo
 ---
-
-*LORE GLOSSARY:*
-*@MTB_Cyclist = Adult male in his late 30s, wearing plain technical long-sleeve MTB jersey with dirt and dust (NO logos, NO FOX). He is wearing a half-shell MTB trail helmet with visor and sports sunglasses covering his eyes. He is wearing MTB shorts and knee pads.*
-
-*PROMPT:*
-
-SCENE:
-A modern smartphone screen held by two hands. The background is a completely dark, out-of-focus wall. The smartphone screen displays a terrible, overexposed, ugly photo of @MTB_Cyclist riding his mountain bike on a dirt trail. The photo on the screen has a completely white blown-out sky, terrible framing, and washed-out colors. Cinematic style lighting on the hands and phone.
-
-ACTION:
-0-2s: The hands hold the phone up to the camera. The bad mountain biking photo is clearly visible on the screen.
-2-5s: The person holding the phone slightly shakes their head in disgust (implied by the subtle camera movement), keeping the terrible photo in frame.
-
-CAMERA:
-Extreme close up on the smartphone screen. Slight handheld camera shake to simulate someone holding it in a dark room.
-
-NEGATIVE PROMPT:
-No faces, no people in the background, no cyclists in the background, no aesthetic photo, no good colors, no blue sky on the phone screen, no floating faces, no mutations.
+**SCENE 004 - VIDEO PROMPT**
+Hyper-realistic cinematic video, vertical 9:16, exact duration 5 seconds. Cinematic, GoPro style POV mixed with high-end ARRI Alexa shots. High contrast, dynamic outdoor lighting transitioning to moody indoor lighting.. Extreme close up of a smartphone screen held in a dark room. The screen displays a terrible, washed-out, overexposed, amateur cycling photo with a blown-out white sky.
+CAMERA / TIMING: The camera experiences a slight handheld tremor.
+CRITICAL: No faces or people visible in the background. No text on the screen.
+FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
+NEGATIVE PROMPT: No logos, no text, no FOX brand, no Nike, no letters, no mutations, no deformed bikes, no floating faces.

@@ -1,24 +1,10 @@
 ---
-platform: "tiktok_shorts"
-model: "google_flow_veo"
-duration: "4s"
-scene: 2
+platform: tiktok_shorts
+model: google_flow_veo
 ---
-
-*LORE GLOSSARY:*
-*@MTB_Cyclist = Adult male in his late 30s, wearing plain technical long-sleeve MTB jersey with dirt and dust (NO logos, NO FOX). He is wearing a half-shell MTB trail helmet with visor and sports sunglasses covering his eyes. He is wearing MTB shorts and knee pads.*
-
-*PROMPT:*
-
-SCENE:
-@MTB_Cyclist is on a scenic mountain dirt trail in the foothills of Cochabamba, Bolivia. Cinematic, high-end movie grading. High contrast, dynamic outdoor lighting, backlit by the intense sun. No other people around.
-
-ACTION:
-0-2s: @MTB_Cyclist rides his mountain bike aggressively towards the camera and slams on the brakes, kicking up a small, subtle amount of dust.
-2-4s: The mountain bike comes to a complete halt. The subtle dust quickly settles down, revealing @MTB_Cyclist in a heroic, stable pose.
-
-CAMERA:
-Low angle shot, close to the dirt. Slow-motion 60fps cinematic feel. The camera remains static to capture the dramatic braking action.
-
-NEGATIVE PROMPT:
-No logos, no text, no FOX brand, no Red Bull brand, no body armor, no long pants, no other people, no extra bicycles, no floating faces, no mutations.
+**SCENE 002 - VIDEO PROMPT**
+Hyper-realistic cinematic video, vertical 9:16, exact duration 4 seconds. Cinematic, GoPro style POV mixed with high-end ARRI Alexa shots. High contrast, dynamic outdoor lighting transitioning to moody indoor lighting.. Same outdoor dirt trail, midday. Preserve Henry's established face, adult male in his late 30s. Preserve his high-end MTB cycling gear, technical long-sleeve jersey with dirt and dust, half-shell MTB trail helmet with visor and sports sunglasses on his head.. Henry rides his mountain bike and brakes aggressively, kicking up a massive cloud of dust that is backlit by the sun. 
+CAMERA / TIMING: The camera is fixed on the ground at a low angle. The action transitions into a smooth 60fps slow-motion as the dust settles. 
+CRITICAL: The character must NOT speak. Mouth is closed.
+FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
+NEGATIVE PROMPT: No logos, no text, no FOX brand, no Nike, no letters, no mutations, no deformed bikes, no floating faces.

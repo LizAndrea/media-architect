@@ -1,0 +1,20 @@
+project_id: "0004-promo-ciclismo-mtb"
+name: "Promo Ciclismo Enduro y MTB (Replica)"
+type: "youtube_longform"
+status: "scripting"
+created_at: "2026-08-23"
+updated_at: "2026-08-23"
+assets:
+  images: []
+  audio: []
+  video: []
+  references: []
+visuals:
+  style_override: "High-End Commercial, action sports MTB, dynamic fast cuts, cinematic chiaroscuro for intro, bright daylight for trail"
+  location: "Garaje oscuro (Intro) / Senderos de Montaña y Bosque (Acción)"
+casting:
+  characters: []
+  voiceover_only: false
+metrics:
+  engagement_score: 95
+  viral_potential: 90
