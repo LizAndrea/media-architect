@@ -11,6 +11,8 @@ def get_video_info(url):
         'quiet': True,
         'no_warnings': True,
         'dump_single_json': True,
+        'cookiefile': '/home/henrytaby/cookies/cookies.txt',
+        'extractor_args': {'youtube': {'player_client': ['android']}},
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         try:

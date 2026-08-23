@@ -22,36 +22,13 @@ Cuando se requiera un personaje para un proyecto, **SIEMPRE** debes:
    - *Estructura del Prompt de Imagen:* "Multiple views of the same character, character reference sheet, [Descripción física detallada], photorealistic, 8k, neutral background, front profile, side profile."
 3. **Mantener la Constancia:** Al crear el prompt de video, reiterar **SIEMPRE**: "Maintain exactly the same appearance, hair, face, and clothing."
 
-## 4. 🎥 Estándar de Prompts para Video (Estilo Flow AI)
-Al generar los prompts finales (usando **`/media-render`** o en el guion), debes imitar ESTA ESTRUCTURA EXACTA (en inglés para la herramienta, o en español si se especifica):
+## 4. 🎥 Estilo Visual para Prompts de Video (Delegado al Core)
+La **Estructura Exacta** del prompt (SCENE, ACTION por segundos, CAMERA, NEGATIVE PROMPTS, y reglas de AUDIO) está centralizada en el skill global **`/media-render`**. No debes inventar formatos nuevos.
 
-```text
-[FORMATO, ESTILO Y APARIENCIA GENERAL]
-Vertical video 9:16, ultra-realistic and natural style, cinematic look, ARRI Alexa.
-
-MAIN CHARACTER:
-[Descripción exacta del personaje: edad, cabello, ropa, maquillaje muy discreto]. Maintain exactly the same appearance throughout the clip.
-
-SCENE:
-[Descripción del fondo/iluminación]. The camera only shows the character. DO NOT show any other person.
-
-ACTION:
-0-2 seconds: [Acción inicial]
-2-4 seconds: [Cambio sutil / sorpresa]
-4-6 seconds: [Movimiento hacia la cámara / acción clave]
-6-8 seconds: [Expresión final y diálogo: "Texto exacto" (Language: Spanish)]
-The expression must feel authentic, not exaggerated.
-
-CAMERA:
-[Ej: Medium close-up. Fixed camera at first, very smooth push-in. Subtle cinematic motion, no warping].
-
-AUDIO & SOUND:
-[Ej: Young female voice, perfectly lip-synced. Background music: soft modern chill. Sound effect: subtle whoosh].
-
-CRITICAL NEGATIVE PROMPTS / RULES:
-Only the main character appears. No additional characters. No cartoon style. Do not deform hands or faces. No on-screen text.
-```
-
+Sin embargo, al redactar los prompts para ESTE workspace, debes inyectar SIEMPRE los siguientes modificadores estéticos en los bloques correspondientes:
+- **Look Visual:** `cinematic High-End Commercial style, dramatic chiaroscuro lighting, heavy contrast, Teal and Orange color grading, subtle film grain, ARRI Alexa.`
+- **Movimientos de Cámara:** Prioriza dinámicas extremas o cinematográficas: `Low angle dynamic shot. Fast whip pan, violent shaky handheld for extreme sports, OR smooth push-in with 60fps slow-motion for dramatic effect.`
+- **Consistencia de Personaje:** `Maintain exactly the same appearance, clothing, and facial features throughout the clip.`
 ## 5. 🎬 Arquetipos de Publicidad de Alto Impacto (Standard "Gold")
 Basado en referencias de la industria (Nike, Starbucks, Coca-Cola, Publicidad Social), todo proyecto publicitario debe encajar en uno de estos arquetipos:
 

@@ -1,7 +1,7 @@
 # Neuro Viral Studio Workspace
 
 Bienvenido al workspace **Neuro Viral Studio**. 
-Este entorno está configurado con reglas avanzadas de neuromarketing y directrices cinematográficas ultra-realistas.
+Este entorno está configurado con reglas avanzadas de neuromarketing y directrices cinematográficas de **High-End Commercials** (ritmo hiper-rápido, iluminación Chiaroscuro, gradación Teal & Orange, y movimientos dinámicos).
 
 ## Estructura
 - `workspace.yaml`: Configuración técnica y estética de la marca.

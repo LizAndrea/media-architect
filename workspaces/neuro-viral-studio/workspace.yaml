@@ -14,12 +14,13 @@ workspace:
       logo_path: "assets/brand/logo.png"
 
   ai_context:
-    tone: "Intenso, misterioso, altamente retentivo, cinemático."
+    tone: "Intenso, misterioso, altamente retentivo, cinemático estilo High-End Commercial."
     target_audience: "Usuarios de redes sociales con déficit de atención (Genz Z, Millennials), buscando atraparlos en los primeros 2 segundos."
     language: "es"
+    video_editing_style: "Hyper-fast pacing (cortes cada 1-2s), match cuts, whip pans, alto impacto visual y cortes rítmicos."
     prompt_engineering:
-      image_style: "Ultra-realistic, 8k resolution, cinematic lighting, dramatic shadows, highly detailed facial features, photorealistic, shot on Arri Alexa, Arriraw, 35mm lens."
-      camera_motion: "Cinematic subtle movements, smooth push-in, shallow depth of field, natural motion blur, locked-off shot for dramatic effect."
+      image_style: "Ultra-realistic, cinematic High-End Commercial style, dramatic chiaroscuro lighting, heavy contrast, Teal and Orange color grading, subtle film grain, photorealistic."
+      camera_motion: "POV action shots, violent shaky handheld for extreme sports, smooth push-in for drama, whip pans, low angles, slow-motion 60fps."
       character_consistency: "Exact same facial structure, exact same clothing, exact same hairstyle, un-deformed eyes and hands."
 
   platforms:
@@ -27,6 +28,10 @@ workspace:
       target_aspect_ratio: "9:16"
       max_duration_seconds: 60
       cta_style: "Subliminal o cliffhanger."
+    youtube_longform:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: null
+      cta_style: ""
     youtube_podcast:
       target_aspect_ratio: "16:9"
       max_duration_seconds: null
@@ -35,7 +40,7 @@ workspace:
   defaults:
     image_optimization:
       enabled: true
-      threshold_kb: 1000
+      threshold_kb: 500
     voice_cloning:
       provider: "elevenlabs"
       primary_voice_id: "cinematic_voice_1"
