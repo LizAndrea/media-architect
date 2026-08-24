@@ -3,7 +3,6 @@ platform: tiktok_shorts
 model: midjourney
 ---
 **SCENE 006 - IMAGE PROMPT**
-Graphic screencast style.
-A split-screen graphic showing a terrible washed-out photo on the left and a stunning, perfectly color-graded professional MTB photo on the right. 
-CRITICAL: No text, no letters, no UI elements.
+A terrible, washed-out, desaturated, overexposed amateur photo of a professional MTB cyclist on a dirt trail. The photo looks ugly, flat, and lacks contrast.
+CRITICAL: No text, no letters, no UI elements. No split screens.
 NEGATIVE PROMPT: No logos, no text, no FOX brand, no Nike, no letters, no mutations, no deformed bikes, no floating faces.

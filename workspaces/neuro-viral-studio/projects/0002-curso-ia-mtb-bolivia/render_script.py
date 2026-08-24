@@ -161,9 +161,8 @@ platform: tiktok_shorts
 model: midjourney
 ---
 **SCENE 006 - IMAGE PROMPT**
-Graphic screencast style.
-A split-screen graphic showing a terrible washed-out photo on the left and a stunning, perfectly color-graded professional MTB photo on the right. 
-CRITICAL: No text, no letters, no UI elements.
+A terrible, washed-out, desaturated, overexposed amateur photo of a professional MTB cyclist on a dirt trail. The photo looks ugly, flat, and lacks contrast.
+CRITICAL: No text, no letters, no UI elements. No split screens.
 {negative}
 """)
 
@@ -172,13 +171,13 @@ platform: tiktok_shorts
 model: google_flow_veo
 ---
 **SCENE 006 - VIDEO PROMPT**
-{style}, exact duration 8 seconds. A clean screencast animation of a split-screen slider moving smoothly from left to right. On the left side of the slider, the image is terribly desaturated, washed-out, and ugly. As the slider moves right, it reveals a stunning, perfectly color-graded professional MTB photo with a vibrant blue sky. 
-CAMERA / TIMING: The camera remains completely static. The only movement is the slider wiping across.
+{style}, exact duration 8 seconds. A clean screencast animation of a vertical comparison slider moving smoothly from left to right across the screen. The video starts entirely as the terrible washed-out photo. As the slider moves right, it magically transforms and reveals a stunning, perfectly color-graded professional version of the same MTB photo with vibrant colors and a blue sky. 
+CAMERA / TIMING: The camera remains completely static. The only movement is the slider wiping across from left to right.
 CRITICAL: No text, no letters, no UI elements.
 {safety}
 {language}
 VOZ EN OFF (HENRY habla):
-"...puedes rescatar esa foto y dejarla a nivel revista profesional, ¡en segundos!"
+"...puedes rescatar esa foto y dejarla a nivel revista profesional."
 {negative}
 """)
 
