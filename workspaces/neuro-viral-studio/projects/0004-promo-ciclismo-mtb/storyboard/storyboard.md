@@ -5,630 +5,426 @@
 ## Bloque Escenas 1-6
 
 *PROMPT:*
-*High-End Commercial, action sports MTB, dynamic fast cuts style. A 6-panel comic-style storyboard layout (2 rows of 3 panels). The images should depict generic mountain biker, faceless subjects, and B-Roll elements.
-Panel 1: Background: dark garage background, chiaroscuro lighting. silhouette of a mountain biker.
-Panel 2: Background: dark garage background, chiaroscuro lighting. generic mountain biker in action.
-Panel 3: Background: dark garage background, chiaroscuro lighting. abstract close up or solid color, no text.
-Panel 4: Background: dark garage background, chiaroscuro lighting. generic mountain biker in action.
-Panel 5: Background: dark garage background, chiaroscuro lighting. biker putting on a green full-face helmet.
-Panel 6: Background: dark garage background, chiaroscuro lighting. generic mountain biker in action.
-CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image. The image must be completely free of typography.*
+*High-End Commercial, action sports MTB style. A 6-panel comic-style storyboard layout (2 rows of 3 panels).
+Panel 1: Cinematic High-End Commercial style. INT. GARAGE. Wide shot. Chiaroscuro lighting. A mountain bike is in the center foreground. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) approaches from the dark background, walking towards the bike, and reaches out to touch the handlebars.
+Panel 2: Cinematic High-End Commercial style. INT. GARAGE. Close up. A high-end mountain bike illuminated by dramatic top lighting in the dark.
+Panel 3: Cinematic High-End Commercial style. INT. GARAGE. Extreme close up on hands. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet. Mouth strictly closed, serious and silent.) is putting on his sports gloves, getting ready.
+Panel 4: Cinematic High-End Commercial style. INT. GARAGE. Extreme close up of the cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet. Mouth strictly closed, serious and silent.) zipping up his cycling jersey.
+Panel 5: Cinematic High-End Commercial style. INT. GARAGE. Close up. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet. Mouth strictly closed, serious and silent.) puts on a professional MTB helmet.
+Panel 6: Cinematic High-End Commercial style. INT. GARAGE. Extreme close up of the cyclist's (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) knee, adjusting the fabric of the shorts.
+CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image.*
 
 ![Storyboard](assets/board_01_06.jpg)
 
 ### Toma 1 (Escena 1)
 - **Toma:** 1
-- **Thumbnail (Visual):** [INT]. INT. GARAJE - DÍA. Plano general. Iluminación Chiaroscuro. Silueta de la bicicleta de montaña en la oscuridad.
-- **Acción/Narrativa:** [INT]. INT. GARAJE - DÍA. Plano general. Iluminación Chiaroscuro. Silueta de la bicicleta de montaña en la oscuridad.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Wide shot. Chiaroscuro lighting. A mountain bike i...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Wide shot. Chiaroscuro lighting. A mountain bike is in the center foreground. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) approaches from the dark background, walking towards the bike, and reaches out to touch the handlebars.
 - **Cámara y Fotografía:**
-  - **Plano:** General / Lente Gran Angular
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Inicia intro de rock alternativo con bajo marcando el pulso.""
+  - **Plano/Movimiento:** Static shot or slow creep in.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 2 (Escena 2)
 - **Toma:** 2
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano medio. El ciclista aparece de pie junto a su bicicleta. Iluminación dramática desde arriba.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano medio. El ciclista aparece de pie junto a su bicicleta. Iluminación dramática desde arriba.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Close up. A high-end mountain bike illuminated by ...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Close up. A high-end mountain bike illuminated by dramatic top lighting in the dark.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Pulso constante.""
+  - **Plano/Movimiento:** Slow push-in while the camera orbits smoothly around the bicycle to reveal its details.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 3 (Escena 3)
 - **Toma:** 3
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano detalle extremo (ECU) al logo "OLYMPIA" en el marco de la bicicleta. Alto contraste.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano detalle extremo (ECU) al logo "OLYMPIA" en el marco de la bicicleta. Alto contraste.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Extreme close up on hands. The cyclist (Adult male...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Extreme close up on hands. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet. Mouth strictly closed, serious and silent.) is putting on his sports gloves, getting ready.
 - **Cámara y Fotografía:**
-  - **Plano:** Detalle (ECU) / Lente Macro
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **3s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] La batería comienza a subir.""
+  - **Plano/Movimiento:** Zoom in to the hands getting ready.
+- **Duración:** 3s
 - **Transición:** Hard Cut
 
 ### Toma 4 (Escena 4)
 - **Toma:** 4
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano detalle del ciclista ajustándose el cierre del jersey de ciclismo.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano detalle del ciclista ajustándose el cierre del jersey de ciclismo.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Extreme close up of the cyclist (Adult male in his...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Extreme close up of the cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet. Mouth strictly closed, serious and silent.) zipping up his cycling jersey.
 - **Cámara y Fotografía:**
-  - **Plano:** Detalle (ECU) / Lente Macro
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Sonido nítido de cremallera.""
+  - **Plano/Movimiento:** Macro detail shot.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 5 (Escena 5)
 - **Toma:** 5
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano cerrado. El ciclista se pone un casco integral verde Fox.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano cerrado. El ciclista se pone un casco integral verde Fox.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Close up. The cyclist (Adult male in his late 30s,...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Close up. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet. Mouth strictly closed, serious and silent.) puts on a professional MTB helmet.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **3s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Ajuste plástico del casco.""
+  - **Plano/Movimiento:** Dynamic close up.
+- **Duración:** 3s
 - **Transición:** Hard Cut
 
 ### Toma 6 (Escena 6)
 - **Toma:** 6
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano detalle de la rodilla del ciclista; la tela del short se ajusta.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano detalle de la rodilla del ciclista; la tela del short se ajusta.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Extreme close up of the cyclist's (Adult male in h...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Extreme close up of the cyclist's (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) knee, adjusting the fabric of the shorts.
 - **Cámara y Fotografía:**
-  - **Plano:** Detalle (ECU) / Lente Macro
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Sube la tensión.""
+  - **Plano/Movimiento:** Macro detail shot.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ## Bloque Escenas 7-12
 
 *PROMPT:*
-*High-End Commercial, action sports MTB, dynamic fast cuts style. A 6-panel comic-style storyboard layout (2 rows of 3 panels). The images should depict generic mountain biker, faceless subjects, and B-Roll elements.
-Panel 1: Background: dark garage background, chiaroscuro lighting. biker adjusting their gear and jersey.
-Panel 2: Background: dark garage background, chiaroscuro lighting. silhouette of a mountain biker.
-Panel 3: Background: dark garage background, chiaroscuro lighting. close up of bike chain and gears.
-Panel 4: Background: dark garage background, chiaroscuro lighting. close up of bike chain and gears.
-Panel 5: Background: dark garage background, chiaroscuro lighting. close up of the rear suspension of the bike.
-Panel 6: Background: dark garage background, chiaroscuro lighting. biker putting on a green full-face helmet.
-CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image. The image must be completely free of typography.*
+*High-End Commercial, action sports MTB style. A 6-panel comic-style storyboard layout (2 rows of 3 panels).
+Panel 1: Cinematic High-End Commercial style. INT. GARAGE. Close up of hands with sports gloves adjusting the shorts fabric.
+Panel 2: Cinematic High-End Commercial style. INT. GARAGE. Side silhouette of the cyclist's (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) head looking down. Mystery.
+Panel 3: Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme close up of the mountain bike rear derailleur and cassette.
+Panel 4: Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme macro close up of a high-end mountain bike rear cassette and derailleur gears, with the chain links spinning rapidly. Cinematic mechanical detail.
+Panel 5: Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme macro close up of a hardtail mountain bike rear wheel hub and disc brake caliper. Cinematic mechanical detail.
+Panel 6: Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Close up of the cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) buckling the helmet strap under his chin.
+CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image.*
 
 ![Storyboard](assets/board_07_12.jpg)
 
 ### Toma 7 (Escena 7)
 - **Toma:** 7
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano cerrado a las manos ajustando la tela del short y guantes.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano cerrado a las manos ajustando la tela del short y guantes.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Close up of hands with sports gloves adjusting the...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Close up of hands with sports gloves adjusting the shorts fabric.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Shaky / Handheld
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Roce de tela sintética.""
+  - **Plano/Movimiento:** Macro detail shot.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 8 (Escena 8)
 - **Toma:** 8
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Silueta lateral de la cabeza del ciclista mirando hacia abajo. Misterio.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Silueta lateral de la cabeza del ciclista mirando hacia abajo. Misterio.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Side silhouette of the cyclist's (Adult male in hi...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Side silhouette of the cyclist's (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) head looking down. Mystery.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Platillos en crescendo.""
+  - **Plano/Movimiento:** Static silhouette.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 9 (Escena 9)
 - **Toma:** 9
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano detalle del desviador trasero y los piñones (cassette).
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano detalle del desviador trasero y los piñones (cassette).
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme close up of the mountain bike rear derailleur and cassette.
 - **Cámara y Fotografía:**
-  - **Plano:** Detalle (ECU) / Lente Macro
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Clic metálico de engranajes.""
+  - **Plano/Movimiento:** Static macro.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 10 (Escena 10)
 - **Toma:** 10
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano detalle extremo a los eslabones de la cadena en cámara lenta.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano detalle extremo a los eslabones de la cadena en cámara lenta.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme macro close up of a high-end mountain bike rear cassette and derailleur gears, with the chain links spinning rapidly. Cinematic mechanical detail.
 - **Cámara y Fotografía:**
-  - **Plano:** Detalle (ECU) / Lente Macro
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Cadena girando suavemente.""
+  - **Plano/Movimiento:** Slow motion 60fps macro.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 11 (Escena 11)
 - **Toma:** 11
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano detalle de la suspensión trasera del cuadro.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano detalle de la suspensión trasera del cuadro.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme macro close up of a hardtail mountain bike rear wheel hub and disc brake caliper. Cinematic mechanical detail.
 - **Cámara y Fotografía:**
-  - **Plano:** Detalle (ECU) / Lente Macro
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Tensión máxima.""
+  - **Plano/Movimiento:** Macro detail.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 12 (Escena 12)
 - **Toma:** 12
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano cerrado del ciclista abrochando la correa de su casco bajo la barbilla.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano cerrado del ciclista abrochando la correa de su casco bajo la barbilla.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Close up of the cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) buckling the helmet strap under his chin.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] "Clic" fuerte de la hebilla.""
+  - **Plano/Movimiento:** Tight close up.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ## Bloque Escenas 13-18
 
 *PROMPT:*
-*High-End Commercial, action sports MTB, dynamic fast cuts style. A 6-panel comic-style storyboard layout (2 rows of 3 panels). The images should depict generic mountain biker, faceless subjects, and B-Roll elements.
-Panel 1: Background: dark garage background, chiaroscuro lighting. generic mountain biker in action.
-Panel 2: Background: dark garage background, chiaroscuro lighting. generic mountain biker in action.
-Panel 3: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 4: Background: outdoor mountain trail, forest, bright daylight. wide aerial shot of biker on a trail.
-Panel 5: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 6: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image. The image must be completely free of typography.*
+*High-End Commercial, action sports MTB style. A 6-panel comic-style storyboard layout (2 rows of 3 panels).
+Panel 1: Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme close up of the front fork moving towards the exit.
+Panel 2: Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Front shot. The cyclist ({char_helmet}) is fully mounted on the mountain bike, staring intensely at the camera, ready to ride out.
+Panel 3: Cinematic High-End Commercial style. EXT. MOUNTAIN. High drone shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) pedaling fast on a curved dirt trail.
+Panel 4: Cinematic High-End Commercial style. EXT. TRAIL. Tracking shot from the side. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) accelerating on a narrow trail.
+Panel 5: Cinematic High-End Commercial style. EXT. FOREST. Low front tracking shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) riding directly toward the camera between trees.
+Panel 6: Cinematic High-End Commercial style. EXT. PUDDLE. Extreme close up of a mountain bike rear tire splashing muddy water.
+CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image.*
 
 ![Storyboard](assets/board_13_18.jpg)
 
 ### Toma 13 (Escena 13)
 - **Toma:** 13
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano general. El ciclista levanta la bicicleta y la inclina hacia adelante.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano general. El ciclista levanta la bicicleta y la inclina hacia adelante.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme close up of the front fork moving towards the exit.
 - **Cámara y Fotografía:**
-  - **Plano:** General / Lente Gran Angular
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Batería rompe.""
+  - **Plano/Movimiento:** Follow focus.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 14 (Escena 14)
 - **Toma:** 14
-- **Thumbnail (Visual):** [INT]. INT. GARAJE. Plano detalle de la horquilla delantera moviéndose hacia la salida.
-- **Acción/Narrativa:** [INT]. INT. GARAJE. Plano detalle de la horquilla delantera moviéndose hacia la salida.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Front shot. The cyclist ({char_helmet}) is fully mounted on the mountain bike, staring intensely at the camera, ready to ride out.
 - **Cámara y Fotografía:**
-  - **Plano:** Detalle (ECU) / Lente Macro
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Chiaroscuro / Dramatic Key
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Pausa dramática en el track.""
+  - **Plano/Movimiento:** Static low angle.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 15 (Escena 15)
 - **Toma:** 15
-- **Thumbnail (Visual):** [TRANSICIÓN]. TRANSICIÓN. Corte abrupto a negro absoluto.
-- **Acción/Narrativa:** [TRANSICIÓN]. TRANSICIÓN. Corte abrupto a negro absoluto.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. MOUNTAIN. High drone shot. The cyclist (Adult male in his ...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. MOUNTAIN. High drone shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) pedaling fast on a curved dirt trail.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Silencio] Medio segundo de vacío sonoro.""
+  - **Plano/Movimiento:** Drone tracking shot.
+- **Duración:** 3s
 - **Transición:** Hard Cut
 
 ### Toma 16 (Escena 16)
 - **Toma:** 16
-- **Thumbnail (Visual):** [EXT]. EXT. MONTAÑA. Toma de dron alta. El ciclista pedaleando rápido en un sendero de tierra curvo.
-- **Acción/Narrativa:** [EXT]. EXT. MONTAÑA. Toma de dron alta. El ciclista pedaleando rápido en un sendero de tierra curvo.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. TRAIL. Tracking shot from the side. The cyclist (Adult mal...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. TRAIL. Tracking shot from the side. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) accelerating on a narrow trail.
 - **Cámara y Fotografía:**
-  - **Plano:** General / Lente Gran Angular
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **3s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Explota el riff principal de rock pesado.""
+  - **Plano/Movimiento:** Fast side tracking.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 17 (Escena 17)
 - **Toma:** 17
-- **Thumbnail (Visual):** [EXT]. EXT. SENDERO. Toma lateral de seguimiento (Tracking shot) del ciclista acelerando por un sendero estrecho.
-- **Acción/Narrativa:** [EXT]. EXT. SENDERO. Toma lateral de seguimiento (Tracking shot) del ciclista acelerando por un sendero estrecho.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. FOREST. Low front tracking shot. The cyclist (Adult male i...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. FOREST. Low front tracking shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) riding directly toward the camera between trees.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Neumáticos triturando grava.""
+  - **Plano/Movimiento:** Fast pullback tracking.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 18 (Escena 18)
 - **Toma:** 18
-- **Thumbnail (Visual):** [EXT]. EXT. BOSQUE. Toma frontal baja, el ciclista corriendo directamente hacia la cámara entre árboles.
-- **Acción/Narrativa:** [EXT]. EXT. BOSQUE. Toma frontal baja, el ciclista corriendo directamente hacia la cámara entre árboles.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. PUDDLE. Extreme close up of a mountain bike rear tire spla...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. PUDDLE. Extreme close up of a mountain bike rear tire splashing muddy water.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Viento y cadena botando.""
+  - **Plano/Movimiento:** Slow motion 60fps.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ## Bloque Escenas 19-24
 
 *PROMPT:*
-*High-End Commercial, action sports MTB, dynamic fast cuts style. A 6-panel comic-style storyboard layout (2 rows of 3 panels). The images should depict generic mountain biker, faceless subjects, and B-Roll elements.
-Panel 1: Background: outdoor mountain trail, forest, bright daylight. close up of a mountain bike wheel.
-Panel 2: Background: outdoor mountain trail, forest, bright daylight. biker jumping over the camera.
-Panel 3: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 4: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 5: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 6: Background: outdoor mountain trail, forest, bright daylight. biker skidding and kicking up dirt.
-CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image. The image must be completely free of typography.*
+*High-End Commercial, action sports MTB style. A 6-panel comic-style storyboard layout (2 rows of 3 panels).
+Panel 1: Cinematic High-End Commercial style. EXT. ROCKS. Low angle. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) jumps down a small rock step.
+Panel 2: Cinematic High-End Commercial style. EXT. DENSE FOREST. Rear tracking shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) maneuvering tight corners between pine trees.
+Panel 3: Cinematic High-End Commercial style. EXT. MOUNTAIN. Low angle front shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) pedaling furiously while standing up on the pedals.
+Panel 4: Cinematic High-End Commercial style. EXT. TRAIL. Extreme close up of a cycling shoe and pedal spinning rapidly.
+Panel 5: Cinematic High-End Commercial style. EXT. TRAIL. Rear shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) skids aggressively, kicking up a dust cloud.
+Panel 6: Cinematic High-End Commercial style. EXT. CORNER. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) taking a berm corner at high speed.
+CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image.*
 
 ![Storyboard](assets/board_19_24.jpg)
 
 ### Toma 19 (Escena 19)
 - **Toma:** 19
-- **Thumbnail (Visual):** [EXT]. EXT. CHARCO. Plano detalle en cámara lenta (60fps) de la llanta trasera salpicando agua fangosa.
-- **Acción/Narrativa:** [EXT]. EXT. CHARCO. Plano detalle en cámara lenta (60fps) de la llanta trasera salpicando agua fangosa.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. ROCKS. Low angle. The cyclist (Adult male in his late 30s,...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. ROCKS. Low angle. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) jumps down a small rock step.
 - **Cámara y Fotografía:**
-  - **Plano:** Detalle (ECU) / Lente Macro
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Agua salpicando ("Splash").""
+  - **Plano/Movimiento:** Low angle follow.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 20 (Escena 20)
 - **Toma:** 20
-- **Thumbnail (Visual):** [EXT]. EXT. ROCAS. Toma desde abajo. El ciclista hace un pequeño salto bajando un escalón de piedra.
-- **Acción/Narrativa:** [EXT]. EXT. ROCAS. Toma desde abajo. El ciclista hace un pequeño salto bajando un escalón de piedra.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. DENSE FOREST. Rear tracking shot. The cyclist (Adult male ...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. DENSE FOREST. Rear tracking shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) maneuvering tight corners between pine trees.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Impacto seco de llanta contra roca.""
+  - **Plano/Movimiento:** Fast rear tracking.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 21 (Escena 21)
 - **Toma:** 21
-- **Thumbnail (Visual):** [EXT]. EXT. BOSQUE DENSO. Toma de seguimiento trasero. Ciclista maniobrando curvas cerradas entre pinos.
-- **Acción/Narrativa:** [EXT]. EXT. BOSQUE DENSO. Toma de seguimiento trasero. Ciclista maniobrando curvas cerradas entre pinos.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. MOUNTAIN. Low angle front shot. The cyclist (Adult male in...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. MOUNTAIN. Low angle front shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) pedaling furiously while standing up on the pedals.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Guitarra eléctrica intensa.""
+  - **Plano/Movimiento:** Aggressive handheld tracking.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 22 (Escena 22)
 - **Toma:** 22
-- **Thumbnail (Visual):** [EXT]. EXT. MONTAÑA. Toma frontal baja (Low Angle). El ciclista pedalea con furia de pie sobre los pedales.
-- **Acción/Narrativa:** [EXT]. EXT. MONTAÑA. Toma frontal baja (Low Angle). El ciclista pedalea con furia de pie sobre los pedales.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. TRAIL. Extreme close up of a cycling shoe and pedal spinni...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. TRAIL. Extreme close up of a cycling shoe and pedal spinning rapidly.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Respiración agitada mezclada en el track.""
+  - **Plano/Movimiento:** Macro follow.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 23 (Escena 23)
 - **Toma:** 23
-- **Thumbnail (Visual):** [EXT]. EXT. SENDERO. Plano detalle de la bota y el pedal girando rápidamente.
-- **Acción/Narrativa:** [EXT]. EXT. SENDERO. Plano detalle de la bota y el pedal girando rápidamente.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. TRAIL. Rear shot. The cyclist (Adult male in his late 30s,...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. TRAIL. Rear shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) skids aggressively, kicking up a dust cloud.
 - **Cámara y Fotografía:**
-  - **Plano:** Detalle (ECU) / Lente Macro
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Rápida.""
+  - **Plano/Movimiento:** Fixed camera on the ground.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 24 (Escena 24)
 - **Toma:** 24
-- **Thumbnail (Visual):** [EXT]. EXT. SENDERO. Toma trasera. El ciclista hace un derrape (skid) levantando una nube de polvo.
-- **Acción/Narrativa:** [EXT]. EXT. SENDERO. Toma trasera. El ciclista hace un derrape (skid) levantando una nube de polvo.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. CORNER. The cyclist (Adult male in his late 30s, slightly ...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. CORNER. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) taking a berm corner at high speed.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Derrape fuerte sobre tierra seca.""
+  - **Plano/Movimiento:** Fast whip pan following the cyclist.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ## Bloque Escenas 25-30
 
 *PROMPT:*
-*High-End Commercial, action sports MTB, dynamic fast cuts style. A 6-panel comic-style storyboard layout (2 rows of 3 panels). The images should depict generic mountain biker, faceless subjects, and B-Roll elements.
-Panel 1: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 2: Background: outdoor mountain trail, forest, bright daylight. wide aerial shot of biker on a trail.
-Panel 3: Background: outdoor mountain trail, forest, bright daylight. biker jumping over the camera.
-Panel 4: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 5: Background: outdoor mountain trail, forest, bright daylight. wide aerial shot of biker on a trail.
-Panel 6: Background: outdoor mountain trail, forest, bright daylight. close up of the rear suspension of the bike.
-CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image. The image must be completely free of typography.*
+*High-End Commercial, action sports MTB style. A 6-panel comic-style storyboard layout (2 rows of 3 panels).
+Panel 1: Cinematic High-End Commercial style. EXT. OPEN MOUNTAIN. Top-down bird's-eye view drone shot of the cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) riding on a fast straight rocky dirt trail. Long shadows visible on the ground.
+Panel 2: Cinematic High-End Commercial style. EXT. FOREST. Front shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) dodges branches, leaning hard to the left.
+Panel 3: Cinematic High-End Commercial style. EXT. RIDGE. Wide drone shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) riding along a mountain ridge with a cloudy sky.
+Panel 4: Cinematic High-End Commercial style. EXT. ROCK GARDEN. Side shot of the bicycle. The suspension is working furiously.
+Panel 5: Cinematic High-End Commercial style. EXT. WINDING TRAIL. High-altitude helicopter drone shot, Tour de France broadcast style, looking down at the cyclist riding fast through a series of S-curves on a rocky dirt trail. Sweeping cinematic aerial view.
+Panel 6: Cinematic High-End Commercial style. EXT. STEEP TRAIL. Front shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. He is smiling warmly at the camera.) is exhausted and cannot pedal up the steep hill, so he is walking and pushing his bicycle uphill. He looks directly at the camera and smiles warmly.
+CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image.*
 
 ![Storyboard](assets/board_25_30.jpg)
 
 ### Toma 25 (Escena 25)
 - **Toma:** 25
-- **Thumbnail (Visual):** [EXT]. EXT. CURVA. Toma lateral, látigo rápido (Whip Pan) siguiendo al ciclista mientras toma una curva con peralte.
-- **Acción/Narrativa:** [EXT]. EXT. CURVA. Toma lateral, látigo rápido (Whip Pan) siguiendo al ciclista mientras toma una curva con peralte.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. OPEN MOUNTAIN. Top-down bird's-eye view drone shot of the ...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. OPEN MOUNTAIN. Top-down bird's-eye view drone shot of the cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) riding on a fast straight rocky dirt trail. Long shadows visible on the ground.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Whip Pan
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Zumbido "Whoosh" en el paneo.""
+  - **Plano/Movimiento:** Drone tracking shot from straight above.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 26 (Escena 26)
 - **Toma:** 26
-- **Thumbnail (Visual):** [EXT]. EXT. MONTAÑA ABIERTA. Toma de dron desde atrás siguiendo al ciclista en un tramo recto rápido.
-- **Acción/Narrativa:** [EXT]. EXT. MONTAÑA ABIERTA. Toma de dron desde atrás siguiendo al ciclista en un tramo recto rápido.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. FOREST. Front shot. The cyclist (Adult male in his late 30...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. FOREST. Front shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) dodges branches, leaning hard to the left.
 - **Cámara y Fotografía:**
-  - **Plano:** General / Lente Gran Angular
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Sube de intensidad.""
+  - **Plano/Movimiento:** Front tracking shot.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 27 (Escena 27)
 - **Toma:** 27
-- **Thumbnail (Visual):** [EXT]. EXT. DESNIVEL. Toma baja contrapicada. El ciclista salta pasando literalmente por encima del lente.
-- **Acción/Narrativa:** [EXT]. EXT. DESNIVEL. Toma baja contrapicada. El ciclista salta pasando literalmente por encima del lente.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. RIDGE. Wide drone shot. The cyclist (Adult male in his lat...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. RIDGE. Wide drone shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) riding along a mountain ridge with a cloudy sky.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Viento cortado.""
+  - **Plano/Movimiento:** Slow drone tracking.
+- **Duración:** 3s
 - **Transición:** Hard Cut
 
 ### Toma 28 (Escena 28)
 - **Toma:** 28
-- **Thumbnail (Visual):** [EXT]. EXT. BOSQUE. Toma frontal, el ciclista esquiva ramas y se inclina fuertemente hacia la izquierda.
-- **Acción/Narrativa:** [EXT]. EXT. BOSQUE. Toma frontal, el ciclista esquiva ramas y se inclina fuertemente hacia la izquierda.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. ROCK GARDEN. Side shot of the bicycle. The suspension is w...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. ROCK GARDEN. Side shot of the bicycle. The suspension is working furiously.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Guitarra.""
+  - **Plano/Movimiento:** Handheld shaky cam.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 29 (Escena 29)
 - **Toma:** 29
-- **Thumbnail (Visual):** [EXT]. EXT. CRESTA. Toma de dron lejana. Ciclista surcando una cresta de montaña con cielo nublado al fondo.
-- **Acción/Narrativa:** [EXT]. EXT. CRESTA. Toma de dron lejana. Ciclista surcando una cresta de montaña con cielo nublado al fondo.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. WINDING TRAIL. High-altitude helicopter drone shot, Tour d...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. WINDING TRAIL. High-altitude helicopter drone shot, Tour de France broadcast style, looking down at the cyclist riding fast through a series of S-curves on a rocky dirt trail. Sweeping cinematic aerial view.
 - **Cámara y Fotografía:**
-  - **Plano:** General / Lente Gran Angular
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **3s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Épico, expansivo.""
+  - **Plano/Movimiento:** Smooth high-altitude aerial tracking shot.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 30 (Escena 30)
 - **Toma:** 30
-- **Thumbnail (Visual):** [EXT]. EXT. SENDEROS DE ROCA. Toma lateral cámara en mano (shaky). La suspensión trabaja furiosamente.
-- **Acción/Narrativa:** [EXT]. EXT. SENDEROS DE ROCA. Toma lateral cámara en mano (shaky). La suspensión trabaja furiosamente.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. STEEP TRAIL. Front shot. The cyclist (Adult male in his la...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. STEEP TRAIL. Front shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. He is smiling warmly at the camera.) is exhausted and cannot pedal up the steep hill, so he is walking and pushing his bicycle uphill. He looks directly at the camera and smiles warmly.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Shaky / Handheld
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Golpes de amortiguador y chasis.""
+  - **Plano/Movimiento:** Impact shot.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ## Bloque Escenas 31-36
 
 *PROMPT:*
-*High-End Commercial, action sports MTB, dynamic fast cuts style. A 6-panel comic-style storyboard layout (2 rows of 3 panels). The images should depict generic mountain biker, faceless subjects, and B-Roll elements.
-Panel 1: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 2: Background: outdoor mountain trail, forest, bright daylight. biker skidding and kicking up dirt.
-Panel 3: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 4: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 5: Background: outdoor mountain trail, forest, bright daylight. biker putting on a green full-face helmet.
-Panel 6: Background: outdoor mountain trail, forest, bright daylight. close up of a mountain bike wheel.
-CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image. The image must be completely free of typography.*
+*High-End Commercial, action sports MTB style. A 6-panel comic-style storyboard layout (2 rows of 3 panels).
+Panel 1: Cinematic High-End Commercial style. EXT. MOUNTAIN. Side tracking shot, the bicycle gaining massive speed downhill.
+Panel 2: Cinematic High-End Commercial style. EXT. FOREST. Medium shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) emerges from behind a large pine tree at full speed.
+Panel 3: Cinematic High-End Commercial style. EXT. NARROW TRAIL. First-person POV from the chest or helmet showing trees rushing by.
+Panel 4: Cinematic High-End Commercial style. EXT. HILL. Low rear shot. The rear wheel kicks up a small rock.
+Panel 5: Cinematic High-End Commercial style. EXT. FOREST ZONE. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) rides toward the camera.
+Panel 6: Cinematic High-End Commercial style. EXT. FINISH LINE. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. He is smiling, looking tired but very happy and relieved.) sprints at full speed and rides under a rustic wooden finish line archway with a blank burlap banner on a scenic mountain dirt trail. He is tired but looks very happy and relieved, zooming past the finish line without stopping.
+CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image.*
 
 ![Storyboard](assets/board_31_36.jpg)
 
 ### Toma 31 (Escena 31)
 - **Toma:** 31
-- **Thumbnail (Visual):** [EXT]. EXT. SENDERO. Plano cerrado a las manos firmes sujetando el manillar sobre terreno irregular.
-- **Acción/Narrativa:** [EXT]. EXT. SENDERO. Plano cerrado a las manos firmes sujetando el manillar sobre terreno irregular.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. MOUNTAIN. Side tracking shot, the bicycle gaining massive ...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. MOUNTAIN. Side tracking shot, the bicycle gaining massive speed downhill.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Shaky / Handheld
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Continúa rápida.""
+  - **Plano/Movimiento:** Fast side tracking.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 32 (Escena 32)
 - **Toma:** 32
-- **Thumbnail (Visual):** [EXT]. EXT. CURVA CERRADA. Plano frontal. El ciclista derrapa y la tierra vuela directamente a cámara.
-- **Acción/Narrativa:** [EXT]. EXT. CURVA CERRADA. Plano frontal. El ciclista derrapa y la tierra vuela directamente a cámara.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. FOREST. Medium shot. The cyclist (Adult male in his late 3...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. FOREST. Medium shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) emerges from behind a large pine tree at full speed.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Impacto de tierra.""
+  - **Plano/Movimiento:** Static ambush shot.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 33 (Escena 33)
 - **Toma:** 33
-- **Thumbnail (Visual):** [EXT]. EXT. MONTAÑA. Toma de seguimiento lateral, la bicicleta gana gran velocidad en bajada pura.
-- **Acción/Narrativa:** [EXT]. EXT. MONTAÑA. Toma de seguimiento lateral, la bicicleta gana gran velocidad en bajada pura.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. NARROW TRAIL. First-person POV from the chest or helmet sh...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. NARROW TRAIL. First-person POV from the chest or helmet showing trees rushing by.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Acercándose al final del riff.""
+  - **Plano/Movimiento:** Aggressive POV action.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 34 (Escena 34)
 - **Toma:** 34
-- **Thumbnail (Visual):** [EXT]. EXT. BOSQUE. Plano medio. El ciclista asoma por detrás de un gran pino a toda velocidad.
-- **Acción/Narrativa:** [EXT]. EXT. BOSQUE. Plano medio. El ciclista asoma por detrás de un gran pino a toda velocidad.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. HILL. Low rear shot. The rear wheel kicks up a small rock....
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. HILL. Low rear shot. The rear wheel kicks up a small rock.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Rápida.""
+  - **Plano/Movimiento:** Low angle macro action.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 35 (Escena 35)
 - **Toma:** 35
-- **Thumbnail (Visual):** [EXT]. EXT. SENDERO ESTRECHO. Cámara subjetiva (POV) pecho/casco mostrando el rápido paso de los árboles.
-- **Acción/Narrativa:** [EXT]. EXT. SENDERO ESTRECHO. Cámara subjetiva (POV) pecho/casco mostrando el rápido paso de los árboles.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. FOREST ZONE. The cyclist (Adult male in his late 30s, slig...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. FOREST ZONE. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent.) rides toward the camera.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Viento fuerte contra el micrófono.""
+  - **Plano/Movimiento:** Drone flying backward fast.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
 ### Toma 36 (Escena 36)
 - **Toma:** 36
-- **Thumbnail (Visual):** [EXT]. EXT. COLINA. Toma trasera baja. La rueda trasera levanta una piedra pequeña.
-- **Acción/Narrativa:** [EXT]. EXT. COLINA. Toma trasera baja. La rueda trasera levanta una piedra pequeña.
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. FINISH LINE. The cyclist (Adult male in his late 30s, slig...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. FINISH LINE. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. He is smiling, looking tired but very happy and relieved.) sprints at full speed and rides under a rustic wooden finish line archway with a blank burlap banner on a scenic mountain dirt trail. He is tired but looks very happy and relieved, zooming past the finish line without stopping.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Rocas saltando.""
+  - **Plano/Movimiento:** Fast panning shot tracking the cyclist as he crosses the finish line.
+- **Duración:** 2s
 - **Transición:** Hard Cut
 
-## Bloque Escenas 37-41
+## Bloque Escenas 37-37
 
 *PROMPT:*
-*High-End Commercial, action sports MTB, dynamic fast cuts style. A 5-panel comic-style storyboard layout (2 rows of 3 panels). The images should depict generic mountain biker, faceless subjects, and B-Roll elements.
-Panel 1: Background: outdoor mountain trail, forest, bright daylight. generic mountain biker in action.
-Panel 2: Background: outdoor mountain trail, forest, bright daylight. wide aerial shot of biker on a trail.
-Panel 3: Background: outdoor mountain trail, forest, bright daylight. biker skidding and kicking up dirt.
-Panel 4: Background: outdoor mountain trail, forest, bright daylight. biker putting on a green full-face helmet.
-Panel 5: Background: outdoor mountain trail, forest, bright daylight. abstract close up or solid color, no text.
-CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image. The image must be completely free of typography.*
+*High-End Commercial, action sports MTB style. A 1-panel comic-style storyboard layout (1 rows of 1 panels).
+Panel 1: Cinematic High-End Commercial style. EXT. SCENIC MOUNTAIN TRAIL. Pristine nature background, empty scenic view, no crowds, no official finish lines. Medium shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet. He is smiling with a tired but deeply satisfied look.) is standing next to his bicycle on a dirt trail, looking directly at the camera frontally. He is breathing gently with his mouth closed, looking exhausted but conveying a strong personal "I did it" emotion with his eyes and a proud closed-mouth smile. Pure solitary connection with nature.
+CRITICAL: Do not include any text, letters, subtitles, words, or speech bubbles anywhere in the image.*
 
-![Storyboard](assets/board_37_41.jpg)
+![Storyboard](assets/board_37_37.jpg)
 
 ### Toma 37 (Escena 37)
 - **Toma:** 37
-- **Thumbnail (Visual):** [EXT]. EXT. PLANICIE. Toma lateral en cámara lenta. El ciclista hace un pequeño manual (caballito).
-- **Acción/Narrativa:** [EXT]. EXT. PLANICIE. Toma lateral en cámara lenta. El ciclista hace un pequeño manual (caballito).
+- **Thumbnail (Visual):** Cinematic High-End Commercial style. EXT. SCENIC MOUNTAIN TRAIL. Pristine nature background, empty s...
+- **Acción/Narrativa:** Cinematic High-End Commercial style. EXT. SCENIC MOUNTAIN TRAIL. Pristine nature background, empty scenic view, no crowds, no official finish lines. Medium shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet. He is smiling with a tired but deeply satisfied look.) is standing next to his bicycle on a dirt trail, looking directly at the camera frontally. He is breathing gently with his mouth closed, looking exhausted but conveying a strong personal "I did it" emotion with his eyes and a proud closed-mouth smile. Pure solitary connection with nature.
 - **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Se ralentiza para el clímax.""
-- **Transición:** Hard Cut
-
-### Toma 38 (Escena 38)
-- **Toma:** 38
-- **Thumbnail (Visual):** [EXT]. EXT. ZONA BOSCOSA. Toma de dron retrocediendo rápido mientras el ciclista avanza hacia ella.
-- **Acción/Narrativa:** [EXT]. EXT. ZONA BOSCOSA. Toma de dron retrocediendo rápido mientras el ciclista avanza hacia ella.
-- **Cámara y Fotografía:**
-  - **Plano:** General / Lente Gran Angular
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Clímax inminente.""
-- **Transición:** Hard Cut
-
-### Toma 39 (Escena 39)
-- **Toma:** 39
-- **Thumbnail (Visual):** [EXT]. EXT. META (ZONA ABIERTA). El ciclista reduce la velocidad drásticamente derrapando.
-- **Acción/Narrativa:** [EXT]. EXT. META (ZONA ABIERTA). El ciclista reduce la velocidad drásticamente derrapando.
-- **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **2s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Frenada larga de disco.""
-- **Transición:** Hard Cut
-
-### Toma 40 (Escena 40)
-- **Toma:** 40
-- **Thumbnail (Visual):** [EXT]. EXT. META. Plano medio cerrado. El ciclista se detiene, respirando agitado. Retira el casco mostrando una gran sonrisa. Sudado.
-- **Acción/Narrativa:** [EXT]. EXT. META. Plano medio cerrado. El ciclista se detiene, respirando agitado. Retira el casco mostrando una gran sonrisa. Sudado.
-- **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **3s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[Música] Desvanece el rock pesado.""
-- **Transición:** Hard Cut
-
-### Toma 41 (Escena 41)
-- **Toma:** 41
-- **Thumbnail (Visual):** [PANTALLA NEGRA]. PANTALLA NEGRA. Aparece el logotipo en blanco "Cristian Alvero" en el centro.
-- **Acción/Narrativa:** [PANTALLA NEGRA]. PANTALLA NEGRA. Aparece el logotipo en blanco "Cristian Alvero" en el centro.
-- **Cámara y Fotografía:**
-  - **Plano:** Plano Medio (MS) / Lente 35mm
-  - **Movimiento de cámara:** Dinámico
-  - **Iluminación:** Luz natural / Bright Daylight
-  - **Color Grading:** Alto contraste, Teal & Orange
-- **Duración:** **3s
-- **Audio/Voz en Off:** "*(SFX/Voz)* "[SFX] Reverberación final de guitarra desvaneciéndose.""
+  - **Plano/Movimiento:** Cinematic drone pull-back. The camera starts on the cyclist's face and smoothly flies backward, revealing the long dirt trail traversing the beautiful mountain landscape from left to right.
+- **Duración:** 3s
 - **Transición:** Hard Cut
 
