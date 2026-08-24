@@ -15,7 +15,7 @@ char_ext = "Preserve Henry's established face, adult male in his late 30s. Prese
 char_int = "Preserve Henry's established face, adult male in his late 30s. Preserve his high-end MTB cycling gear, technical long-sleeve jersey with dirt and dust. He is NOT wearing a helmet."
 
 safety = "FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text."
-language = "LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Do not translate, paraphrase or rewrite the provided dialogue."
+language = "LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Voice Style: Confident and natural male tone, deep voice that inspires confidence (Voz grave de persona mayor que da confianza). Do not translate, paraphrase or rewrite the provided dialogue."
 negative = "NEGATIVE PROMPT: No logos, no text, no FOX brand, no Nike, no letters, no mutations, no deformed bikes, no floating faces."
 
 # Scene 1
@@ -38,6 +38,9 @@ model: google_flow_veo
 CAMERA / TIMING: Maintain aggressive POV motion throughout. 
 CRITICAL: No other people in front of the camera, empty path. No text anywhere.
 {safety}
+{language}
+VOZ EN OFF (HENRY habla):
+"Te sientes como un piloto profesional en la montaña..."
 {negative}
 """)
 
