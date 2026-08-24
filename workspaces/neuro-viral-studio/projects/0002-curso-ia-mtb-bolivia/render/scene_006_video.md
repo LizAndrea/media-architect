@@ -9,5 +9,5 @@ CRITICAL: No text, no letters, no UI elements.
 FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
 LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Voice Style: Confident and natural male tone, deep voice that inspires confidence (Voz grave de persona mayor que da confianza). Do not translate, paraphrase or rewrite the provided dialogue.
 VOZ EN OFF (HENRY habla):
-"...puedes rescatar esa foto y dejarla a nivel revista profesional, ¡en segundos!"
-NEGATIVE PROMPT: No logos, no text, no Nike, no letters, no mutations, no deformed bikes, no floating faces.
+"...puedes rescatar esa foto y dejarla a nivel revista profesional."
+NEGATIVE PROMPT: No logos, no text, no FOX brand, no Nike, no letters, no mutations, no deformed bikes, no floating faces.

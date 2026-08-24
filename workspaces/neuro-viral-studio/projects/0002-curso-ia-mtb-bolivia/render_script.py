@@ -65,8 +65,8 @@ platform: tiktok_shorts
 model: google_flow_veo
 ---
 **SCENE 002 - VIDEO PROMPT**
-{style}, exact duration 4 seconds. {camera_style}. Same outdoor dirt trail, midday. {char_ext}. Henry rides his mountain bike and brakes aggressively, kicking up a massive cloud of dust that is backlit by the sun. 
-CAMERA / TIMING: The camera is fixed on the ground at a low angle. The action transitions into a smooth 60fps slow-motion as the dust settles. 
+{style}, exact duration 4 seconds. {camera_style}. Same outdoor dirt trail, midday. {char_ext}. Henry rides his mountain bike fast and brakes, kicking up a subtle trail of dust that is backlit by the sun. 
+CAMERA / TIMING: The camera is fixed on the ground at a low angle. Fast and dynamic action at normal speed, no slow-motion. 
 CRITICAL: The character must NOT speak. Mouth is closed.
 {safety}
 {language}
