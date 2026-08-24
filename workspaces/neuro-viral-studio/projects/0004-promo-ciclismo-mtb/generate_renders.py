@@ -20,7 +20,7 @@ scenes = [
     (7, 2, f"INT. GARAGE. Close up of hands with sports gloves adjusting the shorts fabric.", "Macro detail shot."),
     (8, 2, f"INT. GARAGE. Side silhouette of the cyclist's ({char_helmet}) head looking down. Mystery.", "Static silhouette."),
     (9, 2, "INT. GARAGE. Extreme close up of the mountain bike rear derailleur and cassette.", "Static macro."),
-    (10, 2, "INT. GARAGE. Extreme close up of the bicycle chain links spinning.", "Slow motion 60fps macro."),
+    (10, 2, "INT. GARAGE. Extreme macro close up of a high-end mountain bike rear cassette and derailleur gears, with the chain links spinning rapidly. Cinematic mechanical detail.", "Slow motion 60fps macro."),
     (11, 2, "INT. GARAGE. Extreme close up of the bicycle rear suspension moving.", "Macro detail."),
     (12, 2, f"INT. GARAGE. Close up of the cyclist ({char_helmet}) buckling the helmet strap under his chin.", "Tight close up."),
     (13, 2, f"INT. GARAGE. Wide shot. The cyclist ({char_helmet}) lifts the bicycle and tilts it forward.", "Whip pan or dynamic follow."),
@@ -58,10 +58,10 @@ for (num, dur, vis, cam) in scenes:
     image_filename = os.path.join(render_dir, f"scene_{num:03d}_image.md")
     video_filename = os.path.join(render_dir, f"scene_{num:03d}_video.md")
     
-    if num == 1 or (num >= 5 and num != 40 and num != 41 and num != 15):
-        char_desc = char_helmet
-    elif num in [2, 9, 10, 11, 14, 15, 19, 23, 41]:
+    if num in [2, 9, 10, 11, 14, 15, 19, 23, 41]:
         char_desc = ""
+    elif num == 1 or (num >= 5 and num != 40):
+        char_desc = char_helmet
     else:
         char_desc = char_base
 
