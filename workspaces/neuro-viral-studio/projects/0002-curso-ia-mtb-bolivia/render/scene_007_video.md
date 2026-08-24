@@ -11,4 +11,4 @@ LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Vo
 FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
 LIPSYNC A — ESCENA 7 — (HENRY habla):
 "¿Tus fotos dan pena? Comenta 'RUTA' y te paso el curso de IA."
-NEGATIVE PROMPT: No logos, no text, no FOX brand, no Nike, no letters, no mutations, no deformed bikes, no floating faces.
+NEGATIVE PROMPT: No logos, no text, no Nike, no letters, no mutations, no deformed bikes, no floating faces.

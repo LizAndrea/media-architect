@@ -7,4 +7,7 @@ Hyper-realistic cinematic video, vertical 9:16, exact duration 4 seconds. Cinema
 CAMERA / TIMING: The camera is fixed on the ground at a low angle. The action transitions into a smooth 60fps slow-motion as the dust settles. 
 CRITICAL: The character must NOT speak. Mouth is closed.
 FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
-NEGATIVE PROMPT: No logos, no text, no FOX brand, no Nike, no letters, no mutations, no deformed bikes, no floating faces.
+LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Voice Style: Confident and natural male tone, deep voice that inspires confidence (Voz grave de persona mayor que da confianza). Do not translate, paraphrase or rewrite the provided dialogue.
+VOZ EN OFF (HENRY habla):
+"...volando por los senderos y sintiendo la adrenalina."
+NEGATIVE PROMPT: No logos, no text, no Nike, no letters, no mutations, no deformed bikes, no floating faces.

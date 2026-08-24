@@ -10,4 +10,4 @@ FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural 
 LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Voice Style: Confident and natural male tone, deep voice that inspires confidence (Voz grave de persona mayor que da confianza). Do not translate, paraphrase or rewrite the provided dialogue.
 VOZ EN OFF (HENRY habla):
 "Te sientes como un piloto profesional en la montaña..."
-NEGATIVE PROMPT: No logos, no text, no FOX brand, no Nike, no letters, no mutations, no deformed bikes, no floating faces.
+NEGATIVE PROMPT: No logos, no text, no Nike, no letters, no mutations, no deformed bikes, no floating faces.

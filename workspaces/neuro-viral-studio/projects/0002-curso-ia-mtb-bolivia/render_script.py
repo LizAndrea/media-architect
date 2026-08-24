@@ -1,7 +1,12 @@
 import os
+import glob
 
 render_dir = '/opt/publicidad/media-architect/workspaces/neuro-viral-studio/projects/0002-curso-ia-mtb-bolivia/render'
 os.makedirs(render_dir, exist_ok=True)
+
+# Clean up old voiceoff files to avoid confusion
+for f in glob.glob(os.path.join(render_dir, 'voiceoff_*.md')):
+    os.remove(f)
 
 def write_file(filename, content):
     with open(os.path.join(render_dir, filename), 'w') as f:
@@ -44,20 +49,6 @@ VOZ EN OFF (HENRY habla):
 {negative}
 """)
 
-write_file('voiceoff_001.md', f"""---
-platform: tiktok_shorts
-model: google_flow_veo
----
-**VOICEOFF PROMPT (For audio extraction only)**
-{style}, exact duration 4 seconds. Adult male (Henry) standing against a solid plain green screen. Static camera.
-SPEAKER CONTROL: Henry speaks.
-REGLA DE ENFOQUE DEL HABLANTE: Maintain static framing on Henry's face.
-{language}
-{safety}
-LIPSYNC A — ESCENA 1 — (HENRY habla):
-"Te sientes como un piloto profesional en la montaña..."
-""")
-
 # Scene 2
 write_file('scene_002_image.md', f"""---
 platform: tiktok_shorts
@@ -78,20 +69,10 @@ model: google_flow_veo
 CAMERA / TIMING: The camera is fixed on the ground at a low angle. The action transitions into a smooth 60fps slow-motion as the dust settles. 
 CRITICAL: The character must NOT speak. Mouth is closed.
 {safety}
-{negative}
-""")
-
-write_file('voiceoff_002.md', f"""---
-platform: tiktok_shorts
-model: google_flow_veo
----
-**VOICEOFF PROMPT (For audio extraction only)**
-{style}, exact duration 4 seconds. Adult male (Henry) standing against a solid plain green screen.
-SPEAKER CONTROL: Henry speaks.
 {language}
-{safety}
-LIPSYNC A — ESCENA 2 — (HENRY habla):
+VOZ EN OFF (HENRY habla):
 "...volando por los senderos y sintiendo la adrenalina."
+{negative}
 """)
 
 # Scene 3
@@ -114,20 +95,10 @@ model: google_flow_veo
 CAMERA / TIMING: The camera performs a smooth, fast crash zoom toward his face. 
 CRITICAL: The character must NOT speak. Mouth is closed.
 {safety}
-{negative}
-""")
-
-write_file('voiceoff_003.md', f"""---
-platform: tiktok_shorts
-model: google_flow_veo
----
-**VOICEOFF PROMPT (For audio extraction only)**
-{style}, exact duration 6 seconds. Adult male (Henry) standing against a solid plain green screen.
-SPEAKER CONTROL: Henry speaks.
 {language}
-{safety}
-LIPSYNC A — ESCENA 3 — (HENRY habla):
+VOZ EN OFF (HENRY habla):
 "Pero llegas a casa, revisas la galería..."
+{negative}
 """)
 
 # Scene 4
@@ -151,20 +122,10 @@ model: google_flow_veo
 CAMERA / TIMING: The camera experiences a slight handheld tremor.
 CRITICAL: No faces or people visible in the background. No text on the screen.
 {safety}
-{negative}
-""")
-
-write_file('voiceoff_004.md', f"""---
-platform: tiktok_shorts
-model: google_flow_veo
----
-**VOICEOFF PROMPT (For audio extraction only)**
-{style}, exact duration 5 seconds. Adult male (Henry) standing against a solid plain green screen.
-SPEAKER CONTROL: Henry speaks.
 {language}
-{safety}
-LIPSYNC A — ESCENA 4 — (HENRY habla):
+VOZ EN OFF (HENRY habla):
 "...y parece que tomaste la foto con una calculadora."
+{negative}
 """)
 
 # Scene 5
@@ -215,20 +176,10 @@ model: google_flow_veo
 CAMERA / TIMING: The camera remains completely static. The only movement is the slider wiping across.
 CRITICAL: No text, no letters, no UI elements.
 {safety}
-{negative}
-""")
-
-write_file('voiceoff_006.md', f"""---
-platform: tiktok_shorts
-model: google_flow_veo
----
-**VOICEOFF PROMPT (For audio extraction only)**
-{style}, exact duration 8 seconds. Adult male (Henry) standing against a solid plain green screen.
-SPEAKER CONTROL: Henry speaks.
 {language}
-{safety}
-LIPSYNC A — ESCENA 6 — (HENRY habla):
+VOZ EN OFF (HENRY habla):
 "...puedes rescatar esa foto y dejarla a nivel revista profesional, ¡en segundos!"
+{negative}
 """)
 
 # Scene 7
@@ -258,4 +209,4 @@ LIPSYNC A — ESCENA 7 — (HENRY habla):
 {negative}
 """)
 
-print("All scenes regenerated successfully in render/")
+print("All scenes regenerated successfully in render/ (voiceoff merged)")
