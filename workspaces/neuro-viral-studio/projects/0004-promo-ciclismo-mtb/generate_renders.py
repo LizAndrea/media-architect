@@ -25,7 +25,7 @@ scenes = [
     (12, 2, f"INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Close up of the cyclist ({char_helmet}) buckling the helmet strap under his chin.", "Tight close up."),
     (13, 2, f"INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Wide shot. The cyclist ({char_helmet}) lifts the bicycle and tilts it forward.", "Whip pan or dynamic follow."),
     (14, 2, "INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme close up of the front fork moving towards the exit.", "Follow focus."),
-    (15, 2, "TRANSITION. Pitch black frame.", "Absolute black frame."),
+    (15, 2, f"INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Front shot. The cyclist ({{char_helmet}}) is fully mounted on the mountain bike, staring intensely at the camera, ready to ride out.", "Static low angle."),
     (16, 3, f"EXT. MOUNTAIN. High drone shot. The cyclist ({char_helmet}) pedaling fast on a curved dirt trail.", "Drone tracking shot."),
     (17, 2, f"EXT. TRAIL. Tracking shot from the side. The cyclist ({char_helmet}) accelerating on a narrow trail.", "Fast side tracking."),
     (18, 2, f"EXT. FOREST. Low front tracking shot. The cyclist ({char_helmet}) riding directly toward the camera between trees.", "Fast pullback tracking."),
@@ -58,7 +58,7 @@ for (num, dur, vis, cam) in scenes:
     image_filename = os.path.join(render_dir, f"scene_{num:03d}_image.md")
     video_filename = os.path.join(render_dir, f"scene_{num:03d}_video.md")
     
-    if num in [2, 9, 10, 11, 14, 15, 19, 23, 41]:
+    if num in [2, 9, 10, 11, 14, 19, 23, 41]:
         char_desc = ""
     elif num == 1 or (num >= 5 and num != 40):
         char_desc = char_helmet
