@@ -1,16 +1,10 @@
 ---
-platform: "youtube_longform"
-model: "Google Flow VEO"
-seed: 0
-negative_prompt: "text, logos, words, deformed, unnatural movements"
+platform: tiktok_shorts
+model: google_flow_veo
 ---
-
-*PROMPT:*
-SCENE: dark garage, cinematic chiaroscuro lighting, high contrast. A generic mountain biker (no specific face). High-End Commercial, action sports MTB, dynamic fast cuts.
-ACTION: 0-2s: The scene depicts: Plano detalle extremo a los eslabones de la cadena en cámara lenta.
-CAMERA: Dynamic camera movement as described in the action.
-
+**SCENE 010 - VIDEO PROMPT**
+Hyper-realistic cinematic video, vertical 9:16, exact duration 2 seconds. Cinematic High-End Commercial style. INT. GARAGE. Extreme close up of the bicycle chain links spinning.
+CAMERA / TIMING: Slow motion 60fps macro.
 CRITICAL: The character must NOT speak. Mouth is closed.
-
-NEGATIVE PROMPT:
-No text, no logos, no letters, no watermarks, no mutations, no deformed bike parts, no other people.
+FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
+NEGATIVE PROMPT: No logos, no text, no letters, no words, no UI elements, no split screens, no mutations, no deformed bikes, no floating faces.

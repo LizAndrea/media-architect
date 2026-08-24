@@ -1,16 +1,10 @@
 ---
-platform: "youtube_longform"
-model: "Google Flow VEO"
-seed: 0
-negative_prompt: "text, logos, words, deformed, unnatural movements"
+platform: tiktok_shorts
+model: google_flow_veo
 ---
-
-*PROMPT:*
-SCENE: mountain dirt trail, forest, bright daylight, cinematic action sports style. A generic mountain biker (no specific face). High-End Commercial, action sports MTB, dynamic fast cuts.
-ACTION: 0-2s: The scene depicts: EXT. CURVA CERRADA. Plano frontal. El ciclista derrapa y la tierra vuela directamente a cámara.
-CAMERA: Dynamic camera movement as described in the action.
-
+**SCENE 032 - VIDEO PROMPT**
+Hyper-realistic cinematic video, vertical 9:16, exact duration 2 seconds. Cinematic High-End Commercial style. EXT. TIGHT CORNER. Front shot. The cyclist (Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end MTB Enduro cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional green FOX MTB full-face helmet and aerodynamic sports cycling sunglasses. Clean clothes, no dirt.) skids and dirt flies directly into the camera lens.
+CAMERA / TIMING: Impact shot.
 CRITICAL: The character must NOT speak. Mouth is closed.
-
-NEGATIVE PROMPT:
-No text, no logos, no letters, no watermarks, no mutations, no deformed bike parts, no other people.
+FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
+NEGATIVE PROMPT: No logos, no text, no letters, no words, no UI elements, no split screens, no mutations, no deformed bikes, no floating faces.

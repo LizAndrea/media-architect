@@ -20,7 +20,6 @@ Mejora tus fotos FEAS de MTB con Inteligencia Artificial 🤯📸
 ¿La cámara no le hace justicia a tu rodada? Aprende a usar Inteligencia Artificial para mejorar tus fotos de Mountain Bike. Desde fotos sobreexpuestas y blancas, hasta colores cinematográficos de revista en segundos. 
 
 🚵‍♂️ Comenta "RUTA" en los comentarios o ve al link de mi canal para acceder al Curso de IA.
-📍 Locación: Cochabamba, Bolivia.
 
 **Etiquetas (Tags - separadas por coma):**
 MTB, mountain bike, inteligencia artificial, edición de fotos, AI, Bolivia, Cochabamba, ciclismo, trail, fotografía deportiva, curso IA.

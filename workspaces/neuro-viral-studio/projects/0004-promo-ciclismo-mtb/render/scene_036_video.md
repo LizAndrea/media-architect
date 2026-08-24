@@ -1,16 +1,10 @@
 ---
-platform: "youtube_longform"
-model: "Google Flow VEO"
-seed: 0
-negative_prompt: "text, logos, words, deformed, unnatural movements"
+platform: tiktok_shorts
+model: google_flow_veo
 ---
-
-*PROMPT:*
-SCENE: mountain dirt trail, forest, bright daylight, cinematic action sports style. A generic mountain biker (no specific face). High-End Commercial, action sports MTB, dynamic fast cuts.
-ACTION: 0-2s: The scene depicts: EXT. COLINA. Toma trasera baja. La rueda trasera levanta una piedra pequeña.
-CAMERA: Dynamic camera movement as described in the action.
-
+**SCENE 036 - VIDEO PROMPT**
+Hyper-realistic cinematic video, vertical 9:16, exact duration 2 seconds. Cinematic High-End Commercial style. EXT. HILL. Low rear shot. The rear wheel kicks up a small rock.
+CAMERA / TIMING: Low angle macro action.
 CRITICAL: The character must NOT speak. Mouth is closed.
-
-NEGATIVE PROMPT:
-No text, no logos, no letters, no watermarks, no mutations, no deformed bike parts, no other people.
+FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
+NEGATIVE PROMPT: No logos, no text, no letters, no words, no UI elements, no split screens, no mutations, no deformed bikes, no floating faces.
