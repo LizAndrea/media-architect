@@ -3,7 +3,7 @@ platform: tiktok_shorts
 model: google_flow_veo
 ---
 **SCENE 011 - VIDEO PROMPT**
-Hyper-realistic cinematic video, vertical 9:16, exact duration 2 seconds. Cinematic High-End Commercial style. INT. GARAGE. Extreme close up of the bicycle rear suspension moving.
+Hyper-realistic cinematic video, vertical 9:16, exact duration 2 seconds. Cinematic High-End Commercial style. INT. GARAGE. Chiaroscuro lighting. Dramatic top lighting in the dark. Extreme macro close up of a hardtail mountain bike rear wheel hub and disc brake caliper. Cinematic mechanical detail.
 CAMERA / TIMING: Macro detail.
 CRITICAL: The character must NOT speak under any circumstance. His mouth is completely closed and sealed. Silent action only.
 FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.

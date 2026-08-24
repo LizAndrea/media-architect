@@ -1,6 +1,6 @@
 ---
 platform: tiktok_shorts
-model: midjourney
+model: google_flow_nano_banana_pro
 ---
 **SCENE 027 - IMAGE PROMPT**
 Cinematic High-End Commercial style. 
