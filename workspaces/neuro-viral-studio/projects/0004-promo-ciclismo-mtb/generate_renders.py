@@ -3,19 +3,19 @@ import os
 render_dir = "/opt/publicidad/media-architect/workspaces/neuro-viral-studio/projects/0004-promo-ciclismo-mtb/render"
 os.makedirs(render_dir, exist_ok=True)
 
-char_base = "Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end MTB Enduro cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet."
-char_helmet = "Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end MTB Enduro cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional green FOX MTB full-face helmet and aerodynamic sports cycling sunglasses. Clean clothes, no dirt."
+char_base = "Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. Clean clothes, no dirt. He is NOT wearing a helmet. Mouth strictly closed, serious and silent."
+char_helmet = "Adult male in his late 30s, slightly bronzed skin, short dark hair, wearing clean high-end Cross-Country MTB cycling gear: tight dark cycling maillot, black MTB shorts, tall black socks, knee pads, sports gloves, and MTB cycling shoes. He is wearing a professional MTB helmet and cycling sunglasses. Clean clothes, no dirt. Mouth strictly closed, serious and silent."
 
 style = "Hyper-realistic cinematic video, vertical 9:16"
 safety = "FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text."
-negative = "NEGATIVE PROMPT: No logos, no text, no letters, no words, no UI elements, no split screens, no mutations, no deformed bikes, no floating faces."
+negative = "NEGATIVE PROMPT: No logos, no text, no letters, no words, no UI elements, no split screens, no mutations, no deformed bikes, no floating faces, no speaking, no talking, no open mouth, no moving lips."
 
 scenes = [
     (1, 2, f"INT. GARAGE. Wide shot. Chiaroscuro lighting. A mountain bike is in the center foreground. The cyclist ({char_helmet}) approaches from the dark background, walking towards the bike, and reaches out to touch the handlebars.", "Static shot or slow creep in."),
-    (2, 2, "INT. GARAGE. Medium shot. The cyclist is standing next to his mountain bike. Dramatic top lighting.", "Subtle handheld movement."),
-    (3, 3, "INT. GARAGE. Extreme close up on the mountain bike frame.", "Smooth macro slide."),
+    (2, 2, "INT. GARAGE. Close up. A high-end mountain bike illuminated by dramatic top lighting in the dark.", "Slow push-in while the camera orbits smoothly around the bicycle to reveal its details."),
+    (3, 3, f"INT. GARAGE. Extreme close up on hands. The cyclist ({char_base}) is putting on his sports gloves, getting ready.", "Zoom in to the hands getting ready."),
     (4, 2, f"INT. GARAGE. Extreme close up of the cyclist ({char_base}) zipping up his cycling jersey.", "Macro detail shot."),
-    (5, 3, f"INT. GARAGE. Close up. The cyclist ({char_base}) puts on a green Fox full-face helmet.", "Dynamic close up."),
+    (5, 3, f"INT. GARAGE. Close up. The cyclist ({char_base}) puts on a professional MTB helmet.", "Dynamic close up."),
     (6, 2, f"INT. GARAGE. Extreme close up of the cyclist's ({char_helmet}) knee, adjusting the fabric of the shorts.", "Macro detail shot."),
     (7, 2, f"INT. GARAGE. Close up of hands with sports gloves adjusting the shorts fabric.", "Macro detail shot."),
     (8, 2, f"INT. GARAGE. Side silhouette of the cyclist's ({char_helmet}) head looking down. Mystery.", "Static silhouette."),
@@ -58,9 +58,12 @@ for (num, dur, vis, cam) in scenes:
     image_filename = os.path.join(render_dir, f"scene_{num:03d}_image.md")
     video_filename = os.path.join(render_dir, f"scene_{num:03d}_video.md")
     
-    char_desc = char_base if num < 5 or num == 40 else char_helmet
-    if num == 15 or num == 41:
+    if num == 1 or (num >= 5 and num != 40 and num != 41 and num != 15):
+        char_desc = char_helmet
+    elif num in [2, 9, 10, 11, 14, 15, 19, 23, 41]:
         char_desc = ""
+    else:
+        char_desc = char_base
 
     # Image prompt
     with open(image_filename, 'w') as f:
@@ -85,7 +88,7 @@ model: google_flow_veo
 **SCENE {num:03d} - VIDEO PROMPT**
 {style}, exact duration {dur} seconds. Cinematic High-End Commercial style. {vis}
 CAMERA / TIMING: {cam}
-CRITICAL: The character must NOT speak. Mouth is closed.
+CRITICAL: The character must NOT speak under any circumstance. His mouth is completely closed and sealed. Silent action only.
 {safety}
 {negative}
 """)
