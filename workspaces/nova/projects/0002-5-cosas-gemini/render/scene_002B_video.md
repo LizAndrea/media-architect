@@ -9,10 +9,9 @@ character_ref: "camila"
 # PROMPT VIDEO - Escena 002B (Truco 1 B-Roll)
 
 Hyper-realistic cinematic video, vertical 9:16, exact duration 5 seconds. 
-A close up of a glowing digital screen showing Gemini AI interface doing a task.
+An extreme close-up shot focusing entirely on a modern flagship smartphone (resembling an iPhone 15 Pro) held vertically towards the camera. The phone is held by a hand wearing a dark tailored blazer sleeve with subtle cyan/teal threading. CRITICAL: NO FACES ARE VISIBLE. The person's face and body are completely out of frame. The camera focus is strictly on the glowing smartphone screen, while the background (the podcast studio) is heavily blurred (shallow depth of field). The smartphone screen clearly shows the Gemini AI chat interface processing a photo of a nearly empty refrigerator (containing only a few condiments and a lonely vegetable).
 Location: INT. NOVA OFFICE STUDIO - DAY. Subtle glowing NOVA logo on the wall. (Use `nova_podcast_set_reference.jpg` for strict set consistency).
 
-CRITICAL: The character must NOT appear in this B-Roll shot. Focus entirely on the screen/UI.
 
 CRITICAL: The character must NOT speak. Mouth is closed (or character is entirely off-screen).
 

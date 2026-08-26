@@ -9,7 +9,7 @@ character_ref: "camila"
 # PROMPT VIDEO - Escena 006B (Truco 5 B-Roll)
 
 Hyper-realistic cinematic video, vertical 9:16, exact duration 5 seconds. 
-A close up of a glowing digital screen showing Gemini AI interface doing a task.
+A close up of a modern sleek laptop screen (resembling a MacBook Pro), showing Gemini AI auto-completing a professional email for a salary raise.
 Location: INT. NOVA OFFICE STUDIO - DAY. Subtle glowing NOVA logo on the wall. (Use `nova_podcast_set_reference.jpg` for strict set consistency).
 
 CRITICAL: The character must NOT appear in this B-Roll shot. Focus entirely on the screen/UI.

@@ -9,7 +9,7 @@ character_ref: "camila"
 # PROMPT VIDEO - Escena 004B (Truco 3 Solucion)
 
 Hyper-realistic cinematic video, vertical 9:16, exact duration 4 seconds. 
-A close up of a glowing monitor showing the Gemini AI logo solving the problem with clean cyan/blue text.
+A close up of a modern sleek laptop screen (resembling a MacBook Pro), showing the Gemini AI logo solving the problem with clean cyan/blue text.
 Location: INT. NOVA OFFICE STUDIO - DAY. Subtle glowing NOVA logo on the wall. (Use `nova_podcast_set_reference.jpg` for strict set consistency).
 
 CRITICAL: The character must NOT appear in this B-Roll shot. Focus entirely on the screen/UI.
