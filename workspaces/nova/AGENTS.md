@@ -16,17 +16,17 @@ Todo contenido generado para NOVA (físico o digital) debe aplicar estas reglas 
 3. **El Audio Sincronizado (Segundo 6+):** El personaje/voz en off habla cuando ya tenemos la atención visual total. Diálogo orgánico, ritmo picado.
 4. **Cinematografía Realista y "Hyper-Fast Pacing":** Cortes cada 1-2 segundos. Uso de *match cuts*, *whip pans*, y ángulos POV para mantener la atención de Gen Z y Millennials.
 
-## 3. 🤖 Tuki y el Universo de Productos NOVA
-Nuestra cara digital es **Tuki**, un robot 3D estilo Pixar (Cian/Teal), con ojos expresivos y chaleco de almacén. 
-- **Productos Físicos:** Tuki es el "rebuscador" que encuentra gangas tecnológicas y gadgets innovadores eliminando intermediarios.
-- **Productos Digitales:** Tuki es el experto digital que recomienda IA (Gemini Pro), vende eBooks de automatización, y ofrece servicios publicitarios de NOVA.
-
-Cuando generes a Tuki, SIEMPRE debes mantener la consistencia usando su Hoja de Referencia (Reference Sheet) para que no cambie de diseño entre tomas.
+## 3. 👥 Los Personajes del Universo NOVA
+Si bien contamos con **Tuki** (nuestra mascota corporativa, un robot 3D estilo Pixar), él **NO es el centro principal** de las historias. El peso narrativo recae en actores humanos altamente realistas (como **Arturo** y **Camila**), quienes interactúan en los guiones.
+- **Arturo y Camila:** Actúan como los expertos, guías y vendedores principales. Ellos interactúan directamente con la audiencia, presentan los **Productos Físicos** (gadgets para el hogar) y **Productos Digitales** (Gemini Pro, eBooks, servicios publicitarios).
+- **El Nivel de Realismo:** TODAS las publicidades y videos en los que aparezcan deben ser **HIPER-REALISTAS**, a un nivel cinematográfico tan alto que **la audiencia no debe notar que están generados por Inteligencia Artificial**. Deben verse como actores humanos reales grabando un comercial de alto presupuesto.
+- Cuando generes a los personajes, SIEMPRE debes mantener la consistencia usando sus Hojas de Referencia (Reference Sheets) en la carpeta `characters/`.
 
 ## 4. 🎥 Estilo Visual para Prompts de Video
 Al redactar los prompts (ej. usando `/media-render`), debes inyectar SIEMPRE los siguientes modificadores estéticos:
-- **Look Visual (Para Gadgets/Publicidad):** `cinematic High-End Commercial style, dramatic chiaroscuro lighting, heavy contrast, Teal and Orange color grading, subtle film grain, ARRI Alexa, photorealistic.`
-- **Look Visual (Para Tuki):** `3D Pixar animation style, highly detailed, expressive eyes, vibrant cyan/teal colors, volumetric lighting, Octane render.`
+- **Look Visual (Hiper-Realismo Cinematográfico):** `ultra-realistic, cinematic High-End Commercial style, dramatic chiaroscuro lighting, heavy contrast, Teal and Orange color grading, subtle film grain, shot on ARRI Alexa 65, 8k resolution, indistinguishable from reality.`
+- **Look Visual (Para Personajes como Arturo/Camila):** `photorealistic human, pores, natural skin texture, lifelike microexpressions, cinematic lighting, indistinguishable from a real human actor.`
+- **Look Visual (Para Tuki - Secundario):** `3D Pixar animation style, highly detailed, expressive eyes, vibrant cyan/teal colors, volumetric lighting.`
 - **Movimientos de Cámara:** `Dynamic POV action shots, fast whip pan, smooth push-in with 60fps slow-motion for dramatic product reveal.`
 - **Consistencia:** `Maintain exactly the same appearance, clothing, and facial features throughout the clip.`
 
