@@ -1,0 +1,21 @@
+project_id: "0002"
+name: "5 Cosas que puedes hacer con Gemini"
+slug: "5-cosas-gemini"
+type: "video_podcast_corto"
+status: "ideation"
+created_at: "2026-08-26"
+workspace: "nova"
+
+video_settings:
+  aspect_ratio: "9:16"
+  target_duration_seconds: 60
+  platform: ["tiktok", "instagram_reels", "youtube_shorts"]
+
+metadata:
+  protagonist: "Camila"
+  core_message: "Educar a la audiencia sobre 5 usos prácticos, fáciles y sorprendentes de Gemini AI."
+  format: "Video Podcast / Vodcast (Set de oficina con micrófono de estudio)"
+
+visuals:
+  style_override: "ultra-realistic, cinematic High-End Podcast style, soft studio lighting, shallow depth of field (bokeh), warm office tones, shot on ARRI Alexa 65, 8k resolution."
+  location: "INT. NOVA OFFICE STUDIO - DAY. Subtle glowing NOVA logo on the wall."
