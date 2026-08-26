@@ -1,0 +1,46 @@
+workspace:
+  name: "NOVA HOME & TECH"
+  slug: "nova"
+  description: "Plataforma líder en importación directa de tecnología, comercialización de gadgets y productos digitales (IA, eBooks) usando neuromarketing viral."
+
+  brand:
+    colors:
+      primary: "#06C4BF" # Cian NOVA (Tecnología, frescura)
+      secondary: "#3A3939" # Gris Carbón (Elegancia, formalidad)
+      accent: "#FFFFFF"
+    fonts:
+      primary: "Montserrat"
+    assets:
+      logo_path: "assets/brand/logo.png"
+
+  ai_context:
+    tone: "Disruptivo, tecnológico, hiper-dinámico, comercial pero cercano (El 'rebuscador' inteligente)."
+    target_audience: "Jóvenes (18-35) adeptos a tecnología y productos digitales, y adultos (25-50) buscando gadgets para el hogar en Bolivia."
+    language: "es"
+    video_editing_style: "Hyper-fast pacing (cortes cada 1-2s), match cuts, whip pans, alto impacto visual publicitario."
+    prompt_engineering:
+      image_style: "Para Tuki: 3D Pixar style, volumetric lighting. Para productos: Ultra-realistic, cinematic High-End Commercial, Teal and Orange grading."
+      camera_motion: "POV action shots, whip pans, smooth push-in for product reveals, slow-motion 60fps."
+      character_consistency: "Exact same facial structure, exact same clothing for Tuki or human actors."
+
+  platforms:
+    tiktok_shorts:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Gancho subliminal o CTA rápido al enlace en perfil (WhatsApp/Landing)."
+    youtube_longform:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: null
+      cta_style: "Profundo, muestra de valor y demostración extensa del gadget o software."
+    facebook_ads:
+      target_aspect_ratio: "4:5"
+      max_duration_seconds: 45
+      cta_style: "Urgencia, escasez ('Últimas unidades en stock directo de origen')."
+
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 500
+    voice_cloning:
+      provider: "elevenlabs"
+      primary_voice_id: "nova_commercial_voice"

@@ -7,3 +7,4 @@ assets/images/*
 !assets/images/.gitkeep
 render/final_cuts/*
 !render/final_cuts/.gitkeep
+venv/
