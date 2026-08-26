@@ -1,0 +1,16 @@
+project_id: "0001"
+name: "Promo Gemini Pro + 5TB"
+slug: "promo-gemini-pro-5tb"
+type: "anuncio"
+status: "production"
+created_at: "2026-08-26"
+workspace: "nova"
+
+video_settings:
+  aspect_ratio: "9:16"
+  target_duration_seconds: 45
+  platform: ["tiktok", "instagram_reels", "facebook_ads"]
+
+metadata:
+  protagonist: "Arturo"
+  core_message: "Vender la suscripción de 18 meses a Gemini Pro + 5TB de almacenamiento"
