@@ -1,0 +1,23 @@
+project:
+  id: "0005"
+  slug: "0005-curso-ia-mtb-bolivia"
+  title: "Promo Curso IA para Fotografía MTB (Gemini + Nanobanana)"
+  type: "short_ad"
+  status: "ideation"
+  created_at: "2026-08-21"
+
+  platform: "tiktok_shorts" # 9:16 vertical
+  target_duration_seconds: 45
+
+  casting:
+    characters:
+      - liz-andrea
+    voiceover_only: false
+
+  visuals:
+    location: "Rutas de MTB Trail en Bolivia (montañas, senderos de tierra) y habitación/estudio moderno del ciclista."
+    style_override: "Cinematic, GoPro style POV mixed with high-end ARRI Alexa shots. High contrast, dynamic outdoor lighting transitioning to moody indoor lighting."
+
+  performance:
+    engagement_score: 0
+    viral_potential: "TBD"
