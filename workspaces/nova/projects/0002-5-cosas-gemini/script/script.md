@@ -61,10 +61,10 @@
 - **Audio (Voz de Camila - Lipsync):** "Y cinco: Redactar correos incómodos."
 - **Transición:** Cut.
 
-### Toma 6B: Truco 5 - Pantalla (B-Roll)
+### Toma 6B: Truco 5 - Camila (A-Roll)
 - **Duración:** 5s (0:39 - 0:44)
-- **Visual:** B-Roll rápido de un correo redactado profesionalmente por Gemini en la pantalla de la PC.
-- **Audio (Voz en Off - Camila):** "Escribe en la web: 'Gemini, ayúdame a pedir un aumento de sueldo con tono profesional'. Te salvará la vida." *(SFX: Tipeo de teclado hiper-rápido)*
+- **Visual:** Close-Up (CU) de Camila mirando cómplice a la cámara.
+- **Audio (Voz de Camila - Lipsync):** "Escribe en la web: 'Gemini, ayúdame a pedir un aumento de sueldo con tono profesional'. Te salvará la vida." *(SFX: Tipeo de teclado hiper-rápido de fondo)*
 - **Transición:** Push in suave *(SFX: Low swoosh)*.
 
 ### Toma 7: Call to Action y Retención (Cierre)

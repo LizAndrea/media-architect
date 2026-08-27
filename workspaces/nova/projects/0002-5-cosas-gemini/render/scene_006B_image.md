@@ -4,13 +4,14 @@ type: "image_prompt"
 platform: "tiktok"
 aspect_ratio: "9:16"
 ---
-# PROMPT IMAGEN - Escena 006B (Truco 5 B-Roll)
+# PROMPT IMAGEN - Escena 006B (Truco 5 A-Roll)
 
-A close up of a modern sleek laptop screen (resembling a MacBook Pro), showing Gemini AI auto-completing a professional email for a salary raise.
+A close-up shot of a 28-year-old Bolivian woman (Camila) wearing a modern stylish dark tailored blazer with subtle cyan and teal threading woven into the fabric, over a dark t-shirt. She has a charismatic, complicit smile, speaking directly to the camera.
 
 Style: ultra-realistic, cinematic High-End Podcast style, soft studio lighting, shallow depth of field (bokeh), warm office tones, shot on ARRI Alexa 65, 8k resolution.
 Location: INT. NOVA OFFICE STUDIO - DAY. Subtle glowing NOVA logo on the wall.
 
-NEGATIVE PROMPT: No text, no floating letters, no speech bubbles, no cartoon, no 3d render, no mutations.
+CRITICAL: The generation MUST use `workspaces/nova/assets/nova_podcast_set_reference.jpg` as the background set reference image to guarantee 100% location consistency.
+CRITICAL: The generation MUST use `workspaces/nova/projects/0002-5-cosas-gemini/casting/camila_podcast_reference.jpg` as the character reference.
 
-> **NOTA PARA OPERADOR IA:** NO uses la imagen de Camila ni la del Set como referencias (Cref/Sref) para esta toma. Esto es un B-Roll de acercamiento extremo (Close-Up) a una pantalla y usar esas referencias confundirá a la IA. Genera solo la pantalla.
+NEGATIVE PROMPT: No text, no floating letters, no speech bubbles, no cartoon, no 3d render, no mutations.

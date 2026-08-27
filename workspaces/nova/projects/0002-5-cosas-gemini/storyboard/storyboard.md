@@ -134,15 +134,15 @@
 - **Audio/Voz en Off:** "Y cinco: Redactar correos incómodos."
 - **Transición:** Cut
 
-### Toma 6B (Truco 5 - Pantalla B-Roll)
+### Toma 6B (Truco 5 - Camila A-Roll)
 - **Toma:** 6B
-- **Thumbnail (Visual):** Pantalla de laptop autocompletando un correo electrónico asertivo rápidamente.
-- **Acción/Narrativa:** B-Roll de Gemini escribiendo el correo de aumento de sueldo.
+- **Thumbnail (Visual):** Close-Up de Camila mirando de forma cómplice a la cámara.
+- **Acción/Narrativa:** Camila da un consejo de vida laboral de forma íntima.
 - **Cámara y Fotografía:**
-  - **Plano:** Full Screen UI
+  - **Plano:** Close-Up (CU)
   - **Movimiento de cámara:** Fijo
-  - **Iluminación:** Screen glow
-  - **Color Grading:** Natural digital
+  - **Iluminación:** Soft studio lighting
+  - **Color Grading:** Warm office tones
 - **Duración:** 0:39 - 0:44
 - **Audio/Voz en Off:** "Escribe en la web: 'Gemini, ayúdame a pedir un aumento de sueldo con tono profesional'. Te salvará la vida."
 - **Transición:** Push in suave
