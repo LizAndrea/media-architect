@@ -12,5 +12,6 @@
 ## 🗣️ Voice & Audio Config (Para IA de Voz)
 - **Modelo / Nombre de la voz:** Lia Ai - Achernar Custom (Google Flow)
 - **Perfil:** Voz de una mujer joven, cálida, empática y serena.
-- **Estilo y Ritmo:** Tono juvenil, educativo y de mucha confianza (como una amiga sabia e ingeniera). Ritmo ligeramente rápido y muy claro, ideal para datos y salud.
+- **Estilo y Ritmo:** Voz de una mujer joven en castellano neutro y latinoamericano internacional, cálida, profundamente empática y muy animosa. Habla de forma continua, ágil, rápida y fluida, manteniendo un ritmo dinámico y sin pausas largas ni silencios en comas, puntos o signos de puntuación. Tono juvenil, educativo, entusiasta y de mucha confianza, como una amiga ingeniera que te motiva. Transmite resiliencia y energía vital, con una actitud vibrante, alegre y segura al hablar de salud, datos y superación personal.
+
 - **Actuación Emocional:** Reflexiva al hablar del dolor pasado, y segura/pacífica al hablar de logros y remisión. Transmite esperanza y resiliencia. (Cero robótica, dramática o comercial).
