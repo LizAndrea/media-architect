@@ -17,7 +17,11 @@ workspace:
   # 2. CONTEXTO PARA LA IA
   ai_context:
     tone: "Empático pero directo y estructurado. Lógico, crítico e inspirador. Sin victimización."
-    target_audience: "Pacientes con Artritis Reumatoide y enfermedades autoinmunes con inflamación sistémica buscando tomar control."
+    target_audience: 
+      demographics: "Mujeres y hombres (30-60+) con Artritis Reumatoide u otras enfermedades autoinmunes."
+      psychographics: "Sienten que su cuerpo los traicionó. Buscan explicaciones lógicas y científicas más allá de 'toma esta pastilla'. Quieren recuperar su independencia."
+      pain_points: "Dolor crónico, fatiga extrema, incomprensión familiar/médica, miedo a la discapacidad."
+      emotional_triggers: "Validación de su dolor invisible, esperanza basada en ciencia, historias de remisión real, empoderamiento activo."
     language: "es"
     prompt_engineering:
       image_style: "Minimalista, limpio (estética de bitácora), naturaleza, luz natural, tonos cálidos y orgánicos. EVITAR estética hospitalaria fría."

@@ -14,10 +14,14 @@ workspace:
       logo_path: "assets/brand/logo.png"
 
   ai_context:
-    tone: "Intenso, misterioso, altamente retentivo, cinemático estilo High-End Commercial."
-    target_audience: "Usuarios de redes sociales con déficit de atención (Genz Z, Millennials), buscando atraparlos en los primeros 2 segundos."
+    tone: "Intenso, misterioso, altamente retentivo, cinemático estilo High-End Commercial con profunda resonancia emocional."
+    target_audience: 
+      demographics: "Gen Z, Millennials (Usuarios con déficit de atención, consumo ultra-rápido)."
+      psychographics: "Buscan autenticidad. Sienten ansiedad por el futuro, soledad en la era digital y deseo de validación."
+      pain_points: "Miedo al estancamiento, sobrecarga de información, desconexión emocional."
+      emotional_triggers: "Nostalgia, historias de superación crudas, vulnerabilidad genuina, verdades incómodas."
     language: "es"
-    video_editing_style: "Hyper-fast pacing (cortes cada 1-2s), match cuts, whip pans, alto impacto visual y cortes rítmicos."
+    video_editing_style: "Hyper-fast pacing (cortes cada 1-2s), match cuts, whip pans, alto impacto visual y cortes rítmicos, intercalados con pausas dramáticas."
     prompt_engineering:
       image_style: "Ultra-realistic, cinematic High-End Commercial style, dramatic chiaroscuro lighting, heavy contrast, Teal and Orange color grading, subtle film grain, photorealistic."
       camera_motion: "POV action shots, violent shaky handheld for extreme sports, smooth push-in for drama, whip pans, low angles, slow-motion 60fps."

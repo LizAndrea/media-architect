@@ -20,7 +20,11 @@ workspace:
   # 2. CONTEXTO PARA LA IA
   ai_context:
     tone: "Entretenido, tech-savvy, cercano, aventurero, curioso."
-    target_audience: "Comunidad en TikTok y RRSS, enfocada en tecnología, programación, ciclismo de montaña, turismo local y comida."
+    target_audience: 
+      demographics: "Desarrolladores junior/mid, entusiastas de la tecnología, y comunidad local en Cochabamba (18-35 años)."
+      psychographics: "Apasionados por optimizar su vida y código. Sufren de síndrome del impostor, se frustran con bugs largos, pero aman el momento 'Eureka'. Buscan balance entre vida tech y outdoors."
+      pain_points: "Bugs interminables, tutoriales aburridos y lentos, estrés por mantenerse actualizados, vida sedentaria."
+      emotional_triggers: "El alivio de encontrar la solución exacta, la curiosidad geek, el orgullo de dominar una nueva herramienta, la conexión local/comunitaria."
     language: "es"
     prompt_engineering:
       image_style: "Robot humanoide (semi-realista/3D) con hoodie negro estampado 'DECODER' y símbolos de código, auriculares over-ear. Piel metálica con textura sutil. Developer room del futuro cyberpunk sutil."

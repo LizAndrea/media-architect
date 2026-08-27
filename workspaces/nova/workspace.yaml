@@ -14,10 +14,14 @@ workspace:
       logo_path: "assets/brand/logo.png"
 
   ai_context:
-    tone: "Disruptivo, tecnológico, hiper-dinámico, comercial pero cercano (El 'rebuscador' inteligente)."
-    target_audience: "Jóvenes (18-35) adeptos a tecnología y productos digitales, y adultos (25-50) buscando gadgets para el hogar en Bolivia."
+    tone: "Disruptivo, tecnológico, hiper-dinámico, comercial pero con profunda resonancia psicológica y emocional (El 'rebuscador' inteligente)."
+    target_audience: 
+      demographics: "Jóvenes (18-35) y adultos (25-50) en Bolivia."
+      psychographics: "Valoran la eficiencia, buscan el mejor trato (precio/calidad) y el estatus de tener lo último. Sienten estrés por la lentitud tecnológica o la rutina del hogar."
+      pain_points: "Frustración con tecnología lenta, precios inflados por intermediarios, falta de tiempo, tareas domésticas pesadas."
+      emotional_triggers: "Alivio inmediato, el sentimiento de 'ser más listo que el sistema' (comprador inteligente), curiosidad tecnológica y paz mental."
     language: "es"
-    video_editing_style: "Hyper-fast pacing (cortes cada 1-2s), match cuts, whip pans, alto impacto visual publicitario."
+    video_editing_style: "Hyper-fast pacing (cortes cada 1-2s), match cuts, whip pans, alto impacto visual publicitario, intercalados con pausas dramáticas de alivio."
     prompt_engineering:
       image_style: "Para Tuki: 3D Pixar style, volumetric lighting. Para productos: Ultra-realistic, cinematic High-End Commercial, Teal and Orange grading."
       camera_motion: "POV action shots, whip pans, smooth push-in for product reveals, slow-motion 60fps."
