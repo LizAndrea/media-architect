@@ -17,6 +17,10 @@ negative_prompt: "No text, no letters, no logos, no typography, 3d, animated, ca
 > 
 > FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
 > 
-> CRITICAL: The character must NOT speak. Mouth is closed.
+> SPEAKER CONTROL: LIA speaks clearly to the camera starting at second 0:00 and ending at second 0:04.
 > 
-> VOZ EN OFF (LIA habla): "Si estás cansada de ser una paciente pasiva..."
+> REGLA DE ENFOQUE DEL HABLANTE: LIA makes eye contact while speaking.
+> 
+> LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Voice Style: Voz de una mujer joven, cálida, profundamente empática y muy animosa. Habla de forma continua, ágil, rápida y fluida. Tono juvenil, educativo, entusiasta y de mucha confianza.
+> 
+> LIPSYNC A — ESCENA 10 — (LIA habla): "Si estás cansada de ser una paciente pasiva..."

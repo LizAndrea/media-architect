@@ -17,6 +17,10 @@ negative_prompt: "No text, no letters, no logos, no typography, 3d, animated, ca
 > 
 > FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
 > 
-> CRITICAL: The character must NOT speak. Mouth is closed.
+> SPEAKER CONTROL: LIA speaks clearly to the camera starting at second 0:01 and ending at second 0:05.
 > 
-> VOZ EN OFF (LIA habla): "Aprender a regular tu sistema nervioso es el pilar invisible de la remisión."
+> REGLA DE ENFOQUE DEL HABLANTE: LIA makes eye contact while speaking.
+> 
+> LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Voice Style: Confident and natural female tone, warm, deeply empathetic and encouraging. 
+> 
+> LIPSYNC A — ESCENA 9 — (LIA habla): "Aprender a regular tu sistema nervioso es el pilar invisible de la remisión."

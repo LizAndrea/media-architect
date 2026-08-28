@@ -17,6 +17,10 @@ negative_prompt: "No text, no letters, no logos, no typography, 3d, animated, ca
 > 
 > FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
 > 
-> CRITICAL: The character must NOT speak. Mouth is closed.
+> SPEAKER CONTROL: LIA speaks clearly to the camera starting at second 0:01 and ending at second 0:05.
 > 
-> VOZ EN OFF (LIA habla): "...únete a mi comunidad. Lee mi bitácora en el link del perfil."
+> REGLA DE ENFOQUE DEL HABLANTE: LIA makes eye contact while speaking.
+> 
+> LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Voice Style: Voz de una mujer joven, cálida, profundamente empática y muy animosa. Habla de forma continua, ágil, rápida y fluida. Tono juvenil, educativo, entusiasta y de mucha confianza.
+> 
+> LIPSYNC A — ESCENA 11 — (LIA habla): "...únete a la comunidad. Lee mas información en el link del perfil."
