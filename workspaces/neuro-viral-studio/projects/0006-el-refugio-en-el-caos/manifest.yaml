@@ -1,0 +1,20 @@
+project_id: "0006-el-refugio-en-el-caos"
+name: "El refugio en el caos"
+type: "tiktok_shorts"
+status: "planning"
+created_at: "2026-08-27"
+updated_at: "2026-08-27"
+assets:
+  images: []
+  audio: []
+  video: []
+  references: []
+visuals:
+  style_override: ""
+  location: ""
+casting:
+  characters: []
+  voiceover_only: false
+metrics:
+  engagement_score: 0
+  viral_potential: 0
