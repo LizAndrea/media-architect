@@ -1,6 +1,6 @@
 ---
 platform: tiktok_shorts
-model: midjourney/imagen3
+model: google_flow_nano_banana_pro
 seed: ""
 ---
 **SCENE 003 - IMAGE PROMPT**

@@ -14,7 +14,7 @@ Usa este comando cuando el storyboard final esté aprobado para preparar todo pa
 3. Extrae cada escena o toma individualmente. **La duración de cada micro-video debe ser exactamente la que marca el Storyboard (Ej: 3s, 5s, 7s).** ¡Nunca unas escenas! Cada toma del storyboard debe ser un archivo de video independiente.
 4. Genera prompts ESTRUCTURADOS **bajo el estándar "Image-to-Video"**. Para CADA escena del storyboard generarás DOS archivos: `scene_XXX_image.md` y `scene_XXX_video.md`.
    - **PASO A: PROMPT DE IMAGEN BASE (`scene_XXX_image.md`)**
-     - Prompt estático en INGLÉS para generar el "Keyframe" inicial (Midjourney / Imagen3).
+     - Prompt estático en INGLÉS para generar el "Keyframe" inicial. Por defecto el modelo es `google_flow_nano_banana_pro`.
      - Describir al personaje usando su ropa y colores estandarizados de su hoja de casting (no inventar colores si el casting dice "neutral" o genérico).
      - **Estilo Visual:** Inyecta el `visuals.style_override` del `manifest.yaml` y asegúrate de describir el fondo sin usar nombres específicos de ciudades o marcas que causen alucinaciones textuales (Ej: usa "the Andes" en lugar de "Cochabamba").
    - **PASO B: PROMPT DE VIDEO (`scene_XXX_video.md`)**
@@ -35,7 +35,7 @@ Usa este comando cuando el storyboard final esté aprobado para preparar todo pa
      - **Mouth Closed:** Si hay cara pero NO habla, añade `CRITICAL: The character must NOT speak. Mouth is closed.`
 5. **MÚSICA Y SFX:** Lee los campos `Audio / SFX` del storyboard. Si el proyecto tiene un mood musical claro, genera un archivo `render/music.md` con un prompt en inglés optimizado para plataformas como Suno AI o Udio.
 6. Guarda TODOS los resultados dentro de la carpeta `render/` (Ej: `render/scene_001_video.md`, `render/scene_001_image.md`, `render/music.md`).
-7. Asegura que cada archivo de prompt tenga metadata YAML (platform, model, seed, negative_prompt, etc.) siguiendo las directrices de `AGENTS.md`.
+7. Asegura que cada archivo de prompt tenga metadata YAML al inicio (`platform`, `model`, `seed`). Por defecto, a menos que el workspace diga otra cosa, el modelo para imágenes es `google_flow_nano_banana_pro` y para videos es `google_flow_veo`.
 
 ## Examples
 *Usuario:* "/media-render"
