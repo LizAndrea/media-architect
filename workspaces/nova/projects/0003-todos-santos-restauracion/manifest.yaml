@@ -1,0 +1,29 @@
+project_id: "0003"
+name: "Todos los Santos - La Última Vez Que Lo Viste Sonreír"
+slug: "todos-santos-restauracion"
+type: "anuncio"
+status: "script_approved"
+created_at: "2026-10-20"
+updated_at: "2026-10-20"
+workspace: "nova"
+
+video_settings:
+  aspect_ratio: "9:16"
+  target_duration_seconds: 45
+  platform: ["tiktok", "instagram_reels", "facebook_ads"]
+
+visuals:
+  style_override: "Ultra-realistic, cinematic High-End Commercial, dramatic chiaroscuro lighting, warm candlelight, deep nostalgic atmosphere, shot on ARRI Alexa 65, 8k resolution"
+  location: "Hogar tradicional boliviano, sala cálida con mesa de Todos los Santos (tantawawas, velas, flores, caña de azúcar)"
+
+casting:
+  characters: ["Arturo", "Familia boliviana (Abuela, Hija, Nieto)"]
+  voiceover_only: false
+
+metadata:
+  protagonist: "Familia boliviana y Arturo (guía tecnológico NOVA)"
+  core_message: "Servicio de restauración con IA, animación de retratos e impresión fotográfica de alta calidad para la mesa de Todos los Santos en Bolivia."
+
+metrics:
+  engagement_score: 49
+  viral_potential: 50
