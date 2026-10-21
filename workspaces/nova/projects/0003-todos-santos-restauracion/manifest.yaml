@@ -2,10 +2,18 @@ project_id: "0003"
 name: "Todos los Santos - La Última Vez Que Lo Viste Sonreír"
 slug: "todos-santos-restauracion"
 type: "anuncio"
-status: "script_approved"
+status: "ready_to_render"
 created_at: "2026-10-20"
 updated_at: "2026-10-20"
 workspace: "nova"
+
+assets:
+  images:
+    - "assets/arturo_front.jpg"
+    - "assets/dona_rosa_front.jpg"
+    - "assets/maria_front.jpg"
+    - "assets/mateo_front.jpg"
+    - "assets/abuelo_front.jpg"
 
 video_settings:
   aspect_ratio: "9:16"
@@ -17,7 +25,7 @@ visuals:
   location: "Hogar tradicional boliviano, sala cálida con mesa de Todos los Santos (tantawawas, velas, flores, caña de azúcar)"
 
 casting:
-  characters: ["Arturo", "Familia boliviana (Abuela, Hija, Nieto)"]
+  characters: ["arturo", "dona_rosa_abuela", "maria_hija", "mateo_nieto", "abuelo_retrato"]
   voiceover_only: false
 
 metadata:
