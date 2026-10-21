@@ -2,9 +2,9 @@ project_id: "0003"
 name: "Todos los Santos - La Última Vez Que Lo Viste Sonreír"
 slug: "todos-santos-restauracion"
 type: "anuncio"
-status: "ready_to_render"
+status: "published_ready"
 created_at: "2026-10-20"
-updated_at: "2026-10-20"
+updated_at: "2026-10-21"
 workspace: "nova"
 
 assets:
