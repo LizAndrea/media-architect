@@ -1,0 +1,38 @@
+project_id: "0001"
+name: "Gabinete ShiZen - La Hora Invisible"
+slug: "la-hora-invisible"
+type: "anuncio"
+status: "render_completed"
+created_at: "2026-10-21"
+updated_at: "2026-10-21"
+workspace: "shizen"
+
+assets:
+  images:
+    - "assets/alejandra_real.jpg"
+    - "assets/alejandra_front.jpg"
+    - "assets/camila_front.jpg"
+    - "storyboard/assets/board_01_06.jpg"
+    - "storyboard/assets/board_07.jpg"
+    - "assets/logo_3d_keyframe.jpg"
+
+video_settings:
+  aspect_ratio: "9:16"
+  target_duration_seconds: 45
+  platform: ["tiktok", "instagram_reels", "facebook_ads"]
+
+visuals:
+  style_override: "Ultra-realistic, cinematic High-End Commercial style, zen luxury wellness aesthetic, warm natural daylight with subtle chiaroscuro shadows, authentic bamboo and green foliage, clean teak wood textures, photorealistic skin and hands, ARRI Alexa 65, 8k resolution"
+  location: "Gabinete ShiZen, Cochabamba, Bolivia (jardín interior zen con bambú, luz tenue cálida, piedras de río y camilla de madera noble)"
+
+casting:
+  characters: ["alejandra_terapeuta", "camila_paciente"]
+  voiceover_only: true
+
+metadata:
+  protagonist: "Camila (paciente) y Alejandra (terapeuta fundadora)"
+  core_message: "Reconectar con uno mismo a través de la masoterapia de autor Te no Waza, regalándose una hora de pausa y desconexión en el jardín de bienestar de ShiZen en Cochabamba."
+
+metrics:
+  engagement_score: 50
+  viral_potential: 50

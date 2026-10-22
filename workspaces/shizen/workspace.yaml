@@ -1,0 +1,60 @@
+workspace:
+  name: "Gabinete ShiZen"
+  slug: "shizen"
+  motto: "Te no Waza (La técnica y sensibilidad de las manos)"
+  description: "Espacio de bienestar integral, masoterapia y estética natural en Cochabamba con más de 10 años de experiencia, inspirado en la filosofía del jardín zen y las técnicas manuales personalizadas."
+
+  brand:
+    colors:
+      primary: "#234D3E" # Verde Bosque / Bambú Zen
+      secondary: "#1A1A1A" # Negro Carbón Minimalista
+      accent: "#48B69A" # Verde Jade / Menta Suave
+      neutral: "#F7F5F0" # Crema Cálido / Papel de Arroz
+      wood: "#C89D6C" # Bambú y Madera Cálida
+    fonts:
+      primary: "Montserrat"
+      serif: "Playfair Display"
+    assets:
+      logo_path: "assets/brand/logo.jpg"
+    social_links:
+      facebook: "https://www.facebook.com/GabineteShiZen"
+      instagram: "https://www.instagram.com/gabineteShiZen"
+      tiktok: "https://www.tiktok.com/@gabinete_shizen"
+      location: "Cochabamba, Bolivia"
+      phone: "+591 75935959"
+
+  ai_context:
+    tone: "Sereno, elegante, íntimo, sensorial y de nivel premium. Calidez humana, autoridad en masoterapia y estética natural sin frialdad clínica."
+    target_audience:
+      demographics: "Mujeres y hombres (25-55 años) en Cochabamba, profesionales, ejecutivos, madres y personas que valoran la salud preventiva y el cuidado personal."
+      psychographics: "Personas con sobrecarga laboral o estrés familiar, que sienten dolor muscular, fatiga mental y buscan desconectarse del ruido exterior para dedicarse tiempo a sí mismas."
+      pain_points: "Estrés crónico, dolores cervicales y lumbares, retención de líquidos, envejecimiento prematuro, falta de tiempo personal y saturación con tratamientos mecanizados o impersonales."
+      emotional_triggers: "Alivio inmediato, paz mental, sentirse atendido en exclusiva por manos expertas, reconexión con la naturaleza y el propio cuerpo."
+    language: "es"
+    video_editing_style: "Sensorial ASMR, planos macro detallados, ritmo armónico y fluido, cortes suaves sincronizados con la respiración y el tacto, iluminación cinematográfica cálida y toques de verde natural."
+    prompt_engineering:
+      image_style: "Ultra-realistic, cinematic High-End Commercial style, zen luxury wellness aesthetic, warm natural daylight with subtle chiaroscuro shadows, authentic bamboo and green foliage, clean wood textures, photorealistic skin and hands, ARRI Alexa 65, 8k resolution."
+      camera_motion: "Smooth gliding push-in, macro lens 100mm f/2.8 focus rack, slow-motion 60fps capturing oil drops and tactile skin pressure, gentle panning across bamboo leaves and water."
+      character_consistency: "Exact same facial structure, neat aesthetic therapist uniform, relaxed natural posture, clean manicured hands without artificial nails."
+
+  platforms:
+    tiktok_shorts:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Sensorial, íntimo, invitación a regalarse una pausa personal y reservar por WhatsApp."
+    instagram_reels:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Estético, conexión con el autocuidado ('Comenta PAUSA o envía un DM')."
+    facebook_ads:
+      target_aspect_ratio: "4:5"
+      max_duration_seconds: 45
+      cta_style: "Local, confianza y trayectoria ('Más de 10 años de experiencia en Cochabamba')."
+
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 500
+    voice_cloning:
+      provider: "elevenlabs"
+      primary_voice_id: "shizen_calm_voice"
