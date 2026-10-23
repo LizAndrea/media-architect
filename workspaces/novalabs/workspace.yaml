@@ -1,0 +1,97 @@
+workspace:
+  name: "Nova Labs Bolivia"
+  slug: "novalabs"
+  descriptor: "Inteligencia Artificial, video y web para empresas"
+  taglines:
+    primary: "ENGINEERING INNOVATION"
+    secondary: "La tecnología detrás del éxito."
+  description: "Agencia tecnológica boliviana de alta gama especializada en IA generativa, producción audiovisual cinematográfica, desarrollo web a medida y restauración visual. Integra ingeniería de sistemas, neuromarketing y arte cinematográfico."
+  founding_date: "2025-07-14"
+  location: "Tiquipaya, Cochabamba, Bolivia (Operación 100% digital a nivel nacional)"
+  web: "novabo.app"
+  email: "novabo.app@gmail.com"
+
+  founders:
+    liz:
+      name: "Liz Andrea Ramos Huarichi"
+      title: "Directora Comercial y Operativa"
+      background: "Ingeniera de Sistemas (UMSA)"
+      role: "Estrategia comercial, propuestas, relación con clientes, dirección de contenido y restauración visual"
+    henry:
+      name: "Henry Alejandro Taby Zenteno"
+      title: "Director Técnico y de Producto"
+      background: "Ingeniero de Sistemas (UCATEC)"
+      role: "Arquitectura de software, producción audiovisual con IA, ingeniería de prompts e integraciones"
+
+  ecosystem:
+    synergy: "Nova Labs (servicios tecnológicos y producción de IA) + Nova Box (caso de éxito vivo con +100 productos)"
+    live_case: "Nova Box (@novabox14 en TikTok)"
+
+  # 1. IDENTIDAD DE MARCA (Brand Book Oficial v1.0)
+  brand:
+    colors:
+      primary: "#0A0A0A"        # Negro profundo (fondo base premium)
+      secondary: "#FFFFFF"      # Blanco puro (tipografía y contraste)
+      accent: "#00BCD4"         # Teal / Cian brillante (icono, "LABS", acentos)
+      accent_glow: "#40E0FF"    # Cian claro glow (efectos luminosos / holográficos)
+      neutral_dark: "#2A2A2A"   # Gris carbón oscuro (fondos secundarios)
+      neutral_light: "#C0C0C0"  # Gris claro (tagline y metadatos)
+    fonts:
+      primary: "Montserrat"     # Montserrat Black 900 / Bold 700 para títulos y logo
+      secondary: "Inter"        # Inter Regular 400 / Medium 500 para textos y UI
+    assets:
+      logo_path: "assets/brand/logo.png"
+
+  # 2. CONTEXTO PARA LA IA (Inyección directa para guionistas, directores y prompters)
+  ai_context:
+    tone: "Profesional técnico-accesible, autoridad técnica sin tecnicismos innecesarios, directo, empático, altamente retentivo, cinemático High-End con profunda resonancia emocional y cultural boliviana."
+    target_audience:
+      demographics: "PyMEs bolivianas, emprendedores en TikTok/Instagram, tiendas online con catálogo, agencias que subcontratan, marcas de retail, familias (restauración y homenajes)."
+      psychographics: "Buscan profesionalizar su presencia digital sin pagar costos inflados de agencias tradicionales. Valoran la autenticidad, la estética cinematográfica y la prueba social real."
+      pain_points: "Videos amateurs con baja retención, falta de tiempo/equipo de filmación, altos costos de producción tradicional, desconfianza hacia la IA mal ejecutada."
+      emotional_triggers: "Orgullo por su negocio y familia, alivio de delegar con resultados top, el sentimiento de comprar inteligentemente ('Engineering Innovation') y prueba social boliviana."
+    language: "es"
+    video_editing_style: "Pacing cinematográfico de alto impacto con cortes rítmicos al compás de la música (1-2s en spots enérgicos), match cuts, whip pans, primeros planos con microexpresiones, transiciones invisibles y silencios dramáticos antes del valor."
+    prompt_engineering:
+      image_style: "Ultra-realistic, cinematic High-End Commercial style, ARRI Alexa 35mm look, dramatic chiaroscuro lighting, deep contrast, Teal (#00BCD4) and warm amber/orange color grading, photorealistic 8k, subtle 35mm film grain, anamorphic bokeh."
+      camera_motion: "Smooth push-in for emotional moments, dynamic low-angle tracking, fast whip pans for transitions, cinematic slow-motion 60fps/120fps, subtle handheld camera motion for realism."
+      character_consistency: "Exact same facial structure, exact same clothing, exact same hairstyle, un-deformed eyes and hands, natural skin pores, realistic micro-expressions."
+
+  # 3. PERFILES DE PLATAFORMA (Reglas por formato y canal)
+  platforms:
+    tiktok_shorts:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Gancho subliminal o CTA de bajo compromiso ('Comenta FOTO', 'Escríbenos al enlace del perfil')."
+    instagram_reels:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Estético, anclaje de identidad ('Guarda este video para cuando lo necesites')."
+    youtube_longform:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: null
+      cta_style: "Demostración profunda de valor, casos de estudio ('Enlace en la descripción')."
+    youtube_podcast:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: null
+      cta_style: "Preguntas reflexivas y enlace a consultoría."
+    facebook_ads:
+      target_aspect_ratio: "4:5"
+      max_duration_seconds: 45
+      cta_style: "Urgencia y prueba social boliviana ('Cupos limitados para este mes en Cochabamba, La Paz y Santa Cruz')."
+    whatsapp_status:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 30
+      cta_style: "Respuesta directa a chat ('Escríbenos para una muestra gratuita')."
+
+  # 4. CONFIGURACIONES POR DEFECTO
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 500
+    default_model: "google_flow_veo"
+    audio_policy:
+      no_background_music_in_video_prompts: true
+      clean_dialogue_only: true
+      music_strategy: "separate_continuous_track"
+      prompt_directive: "NO BACKGROUND MUSIC. Mute background music. Clean dialogue and voiceover only. Ambient silence."

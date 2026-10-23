@@ -1,0 +1,27 @@
+project_id: "0001-lanzamiento-engineering-innovation"
+name: "Spot de Lanzamiento: Engineering Innovation"
+type: "tiktok_shorts"
+status: "ready_for_render"
+created_at: "2026-10-23"
+updated_at: "2026-10-23"
+assets:
+  images:
+    - "workspaces/novalabs/assets/brand/logo.png"
+    - "workspaces/novalabs/characters/lead-engineer/lead-engineer_frontal.jpg"
+    - "workspaces/novalabs/characters/lead-engineer/lead-engineer_reference.jpg"
+    - "workspaces/novalabs/projects/0001-lanzamiento-engineering-innovation/sets/set_01_tech_lab.jpg"
+    - "workspaces/novalabs/projects/0001-lanzamiento-engineering-innovation/storyboard/assets/board_01_06.jpg"
+    - "workspaces/novalabs/projects/0001-lanzamiento-engineering-innovation/storyboard/assets/logo_reveal_keyframe.jpg"
+  audio: []
+  video: []
+  references: []
+visuals:
+  style_override: "Ultra-realistic, cinematic High-End Commercial style, ARRI Alexa 35mm look, chiaroscuro dramatic lighting, Teal (#00BCD4) and warm amber grading, subtle film grain, 8k photorealistic"
+  location: "sets/set_01_tech_lab.md"
+casting:
+  characters:
+    - "lead-engineer"
+  voiceover_only: false
+metrics:
+  engagement_score: 45
+  viral_potential: 44
