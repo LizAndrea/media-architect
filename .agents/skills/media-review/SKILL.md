@@ -12,13 +12,13 @@ Usa este comando en cualquier iteración de guion (`script.md`) o storyboard (`s
 1. Lee el guion o storyboard generado en el proyecto activo.
 2. **Carga de Contexto (CRÍTICO):** Lee el `manifest.yaml` del proyecto actual y el `AGENTS.md` del workspace activo. Esto te dará los arquetipos de publicidad y reglas de neuromarketing.
 3. Asume el rol de **Auditor de Neuromarketing y Director de Fotografía Experto**.
-4. **IMPRIME EL REPORTE EN EL CHAT:** Redacta este análisis como un mensaje normal de texto en el chat. Debes evaluar obligatoriamente:
+4. **IMPRIME EL REPORTE COMPLETO EN EL CHAT (CRÍTICO):** Redacta todo el análisis detallado como texto visible en el chat para que el usuario pueda leerlo con calma antes de cualquier decisión. Debes evaluar obligatoriamente:
    - **✅ Puntos Fuertes:** Lo que funciona narrativa o visualmente.
    - **⚠️ Auditoría de Reglas (CRÍTICO):** 
      - *Regla de los 8 Segundos:* Revisa la tabla. ¿Alguna toma dura más de 8 segundos? Si es así, es un error fatal para IA.
      - *Neuromarketing:* ¿El Hook (0-4s) tiene un patrón de interrupción? ¿El ritmo coincide con el arquetipo (Ej. Estilo Nike, Starbucks)?
-   - **🛠️ Sugerencias de Industria:** Cambios precisos que harían el proyecto más "premium".
-5. Una vez impreso el reporte, utiliza la herramienta `ask_question` para preguntarle al usuario: *"¿Qué te parecen estas sugerencias? ¿Quieres que aplique estos cambios en el guion?"*
+   - **🛠️ Sugerencias de Industria:** Cambios precisos explicados al detalle (ej. Hook alternativo, dinamismo, microexpresiones) para que el usuario vea exactamente qué se cambiaría.
+5. Formula al final de tu mensaje las opciones claras para que el usuario responda en el chat o elija cómo proceder. Si usas `ask_question`, asegúrate de que el texto previo ya haya sido enviado y sea visible.
 6. Si el usuario acepta, **sobrescribe** el archivo original (no crees versiones nuevas).
 
 ## Expected output

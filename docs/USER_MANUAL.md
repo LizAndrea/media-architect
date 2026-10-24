@@ -47,6 +47,11 @@ El paso más mágico. La IA traducirá tu guion en español a una serie de archi
 > **`/media-publish`**
 Analizará tu proyecto finalizado y generará un archivo `publish.md` con los títulos SEO, los hashtags y el "copy" persuasivo adaptado a los algoritmos de TikTok, YouTube Shorts, Instagram y Facebook Reels.
 
+### Paso 7: Publicaciones Estáticas e Infografías
+> **`/media-post`**
+Genera piezas gráficas, infografías tecnológicas y artículos de autoridad (*Thought Leadership*) para LinkedIn, Facebook e Instagram, heredando los personajes y sets de tu video o creando publicaciones independientes.
+*(Consulta el manual completo y didáctico en [manual-de-posts-e-infografias.md](manual-de-posts-e-infografias.md))*.
+
 ---
 
 ## 🛑 3. Prevención de Alucinaciones (Best Practices)

@@ -1,0 +1,30 @@
+project_id: "0002-todos-los-santos-recuerdo-vivo"
+name: "Todos Santos: Recuerdo Vivo"
+type: "tiktok_shorts"
+status: "ready_for_production"
+created_at: "2026-10-24"
+updated_at: "2026-10-24"
+assets:
+  images:
+    - "workspaces/novalabs/assets/brand/logo.png"
+    - "workspaces/novalabs/projects/0002-todos-los-santos-recuerdo-vivo/assets/abuela_recuerdo_front.jpg"
+    - "workspaces/novalabs/projects/0002-todos-los-santos-recuerdo-vivo/assets/abuela_recuerdo_ref.jpg"
+    - "workspaces/novalabs/projects/0002-todos-los-santos-recuerdo-vivo/assets/set_01_altar_preview.jpg"
+    - "workspaces/novalabs/projects/0002-todos-los-santos-recuerdo-vivo/storyboard/assets/board_01_04.jpg"
+  audio:
+    - "workspaces/novalabs/projects/0002-todos-los-santos-recuerdo-vivo/render/music.md"
+    - "workspaces/novalabs/projects/0002-todos-los-santos-recuerdo-vivo/render/voiceover.md"
+    - "workspaces/novalabs/projects/0002-todos-los-santos-recuerdo-vivo/render/sfx.md"
+  video: []
+  references: []
+visuals:
+  style_override: "Cinematic emotional realism, ARRI Alexa 35mm aesthetic, warm candlelight chiaroscuro, golden amber (#FFA726) and deep velvety charcoal grading, authentic Bolivian cultural warmth, vintage photography texture transitioning into ultra-detailed 8K photographic fidelity, intimate shallow depth of field (f/1.8), dignified tribute atmosphere."
+  location: "sets/set_01_altar_todos_santos.md"
+casting:
+  characters:
+    - "abuela-recuerdo"
+  voiceover_only: false
+  dialogue_type: "voiceover_narrator_only"
+metrics:
+  engagement_score: 50
+  viral_potential: 49

@@ -64,8 +64,9 @@ flowchart TD
 | Comando | 🍳 ¿Para qué sirve? | ⏱️ Cuándo usarlo |
 | :--- | :--- | :--- |
 | **`/media-new-workspace`** | Registra una nueva marca o workspace. | Cuando llega un workspace nuevo. |
-| **`/media-in`** | Te pones el delantal y decides en qué vas a trabajar. | Antes de tocar cualquier proyecto. |
-| **`/media-new`** | Crea un proyecto (Ej: Reel de 15s). | Para iniciar un video nuevo. |
+| **`/media-in`** | Te pones el delantal y decides en qué vas a trabajar (proyectos de video o posts gráficos). | Antes de tocar cualquier proyecto o publicación. |
+| **`/media-new`** | Crea un proyecto de video (Ej: Reel de 15s). | Para iniciar un video nuevo. |
+| **`/media-post`** | Diseña publicaciones estáticas, infografías y piezas de autoridad con IA. | Para crear contenido gráfico y artículos en Facebook, LinkedIn o Instagram. |
 | **`/media-pipeline`** | **Piloto Automático:** Ejecuta todo el flujo base de una sola vez. | Cuando tienes mucha prisa y quieres un borrador rápido. |
 | **`/media-script`** | Crea tu "obra gruesa" (`script.md`). | Para arrancar la estructura del video. |
 | **`/media-storyboard`**| Tu "obra fina" (`storyboard.md`). Añade lentes y luces. | Cuando el guion esté 100% aprobado. |
@@ -164,5 +165,11 @@ Si tu workspace tiene personajes recurrentes (ej. un robot llamado Cody) o props
 * Cuando ejecutes `/media-storyboard` y `/media-render`, el sistema automáticamente inyectará un **LORE GLOSSARY** al principio de tus prompts en inglés (Ej: `[mesa-casa-codi] = A wooden table...`).
 * Esto permite que puedas copiar y pegar el prompt en herramientas ciegas como Midjourney, DALL-E o Google Flow, y la IA externa sabrá exactamente cómo reemplazar la variable `[mesa-casa-codi]` por tu diseño oficial hiper-detallado.
 
+**5. Navegar a Posts e Infografías Anteriores**
+Si estás trabajando con piezas gráficas para redes sociales creadas con **`/media-post`**, puedes entrar directamente a una publicación anterior escribiendo:
+> **`/media-in novalabs/post/1`**
+El sistema resolverá automáticamente el ID (`0001`), cargará la ficha técnica (`post.yaml`), el prompt en inglés (`prompt_image.md`) y los copys de redes (`copy.md`) listos para iterar o ajustar. *(Consulta la guía completa en [manual-de-posts-e-infografias.md](manual-de-posts-e-infografias.md))*.
+
 ---
 *✨ ¡Estás listo para producir! Entra al chat y escribe `/media-new-workspace` para registrar a tu primer workspace.*
+
