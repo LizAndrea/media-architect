@@ -8,7 +8,7 @@ duration: "7s"
 
 # PROMPT VIDEO - Escena 005 (Ecosistema PyME / Resultados Móvil)
 
-Hyper-realistic cinematic video, vertical 9:16, exact duration 7 seconds.
+Hyper-realistic cinematic video, vertical 9:16, exact duration 7 seconds. Generated from keyframe image scene_005_image.
 First-person POV perspective. A pair of male hands holding a premium dark titanium smartphone in an architectural modern space. The smartphone screen displays vivid commercial product videos with fluid motion, dynamic 3D elements, and smooth scrolling. Rhythmic match-cut transitions showing the smartphone screen glowing in the hands of business owners in different sleek environments.
 
 CAMERA / TIMING: 35mm f/1.4 lens. Subtle, organic handheld camera motion with crisp focus on the glowing phone display and metallic reflections.

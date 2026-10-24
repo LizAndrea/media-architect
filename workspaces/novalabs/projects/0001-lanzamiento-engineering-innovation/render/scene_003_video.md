@@ -13,7 +13,7 @@ duration: "7s"
 Hyper-realistic cinematic video, vertical 9:16, exact duration 7 seconds.
 Over-The-Shoulder Medium Shot inside an architectural AI tech lab. A 30-year-old Bolivian male systems engineer (@lead-engineer) wearing a matte black hoodie typing fluidly on a teal backlit mechanical keyboard, glancing between dual vertical monitors showing executing agent code. In the background, the glowing neon hexagonal vortex logo emits an elegant teal (#00BCD4) light on dark acoustic slat walls.
 
-Preserve lead-engineer's established face, body, and clothing: 30-year-old adult male wearing a minimalist matte black cotton hoodie, slim black tactical cargo pants, and dark smartwatch on left wrist. (Use `lead-engineer_reference.jpg` for character consistency).
+Preserve lead-engineer's established face, body, and clothing: 30-year-old adult male wearing a minimalist matte black cotton hoodie with the hood down (head uncovered, short styled dark hair), slim black tactical cargo pants, and dark smartwatch on left wrist. (Use `lead-engineer_reference.jpg` for character consistency).
 Use `set_01_tech_lab.jpg` for strict set background consistency.
 
 CRITICAL: The character does NOT speak to camera. Mouth is closed. Focused body language of a senior software architect executing code.
@@ -28,4 +28,4 @@ FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural 
 
 VOZ EN OFF (LEAD_ENGINEER habla): "En Nova Labs no dejamos nada al azar. Fusionamos arquitectura de software, neuromarketing y dirección de arte real en cada segundo."
 
-NEGATIVE PROMPT: No background music, no background songs, no soundtrack, no instrumental melody, no music, no open mouth, no speaking mouth, no extra limbs, no deformed hands, no floating letters.
+NEGATIVE PROMPT: Hood on head, covered hair, no background music, no background songs, no soundtrack, no instrumental melody, no music, no open mouth, no speaking mouth, no extra limbs, no deformed hands, no floating letters.

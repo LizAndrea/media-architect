@@ -5,13 +5,13 @@ platform: "tiktok"
 aspect_ratio: "9:16"
 model: "google_flow_nano_banana_pro"
 ---
-# PROMPT IMAGEN - Escena 002 (El Contraste / Anti-Beauty Bias)
+# PROMPT IMAGEN - Escena 002 (El Contraste: Ingeniería vs Simple Prompt)
 
-Split-screen vertical comparison layout.
-Left side: A poorly rendered, waxy, blurry amateur AI-generated face, washed-out bleached colors, overexposed flat lighting, distorted facial proportions, terrible visual quality representing cheap amateur AI video.
-Right side: A breathtaking, hyper-realistic cinematic male portrait shot on ARRI Alexa 35mm, deep chiaroscuro dramatic lighting, photorealistic skin pores and natural textures, subtle teal (#00BCD4) and amber edge lights, 8k resolution, crisp focus.
+Close-Up macro shot of the focused hands of a 30-year-old Bolivian male systems engineer (@lead-engineer) typing with speed and precision on a premium matte black mechanical keyboard backlit with subtle electric cyan-teal (#00BCD4) LED glow. On his left wrist, a sleek minimalist dark titanium smartwatch catches the ambient teal edge light. In the shallow depth of field directly behind the keyboard, the bottom frame of dual vertical rimless monitors displays streams of clean, high-level Python AI agent code and glowing neural graph nodes. Dark architectural desk surface with subtle reflections.
 
-Style: High-contrast visual juxtaposition. The left is amateur and flawed; the right is prestige commercial cinema.
-Location: INT. MINIMALIST TECH SET - NIGHT.
+Style: Ultra-realistic, high-end commercial cinema aesthetic, shot on ARRI Alexa 35 with 35mm Cine Lens at f/1.8, shallow depth of field, chiaroscuro dramatic workstation lighting, deep clean shadows (#0A0A0A), anamorphic teal flare accents, photorealistic skin and metallic textures, 8k resolution.
+Location: INT. NOVA LABS TECH LAB - NIGHT.
 
-NEGATIVE PROMPT: No text, no letters, no watermark, no typography, no speech bubbles.
+CRITICAL: The generation MUST use `workspaces/novalabs/projects/0001-lanzamiento-engineering-innovation/sets/set_01_tech_lab.jpg` as the set/workstation reference for lighting and aesthetic consistency.
+
+NEGATIVE PROMPT: Deformed fingers, extra digits, missing fingers, distorted hands, blurry keys, messy cables, cartoon, 3d render, watermark, text bubbles.

@@ -8,7 +8,7 @@ duration: "6s"
 
 # PROMPT VIDEO - Escena 006 (Logo Reveal & CTA)
 
-Hyper-realistic cinematic video, vertical 9:16, exact duration 6 seconds.
+Hyper-realistic cinematic video, vertical 9:16, exact duration 6 seconds. Generated from keyframe image scene_006_image.
 Motion Logo Reveal on a deep pure black background (#0A0A0A). At second 0, a subtle electric cyan pulse of energy traces the circuit vortex lines of the hexagonal logo from inside out. The hexagonal emblem blazes into a luminous neon teal glow (#00BCD4 and #40E0FF) with soft volumetric light beams. Centered below the emblem, the bold typography 'NOVA LABS' ('NOVA' in pure crisp white, 'LABS' in vibrant teal) and the tagline 'ENGINEERING INNOVATION' smoothly materialize with elegant motion graphics.
 
 Preserve exact logo geometry and typography from reference image `logo_reveal_keyframe.jpg` and `logo.png`.

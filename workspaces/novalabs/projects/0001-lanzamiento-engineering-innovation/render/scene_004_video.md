@@ -6,12 +6,12 @@ aspect_ratio: "9:16"
 duration: "7s"
 ---
 
-# PROMPT VIDEO - Escena 004 (Cinematografía & Retención)
+# PROMPT VIDEO - Escena 004 (Cinematografía & Retención - B-Roll Producto Premium)
 
-Hyper-realistic cinematic video, vertical 9:16, exact duration 7 seconds.
-High-speed B-roll commercial shot. A professional cinema anamorphic lens rotates smoothly in slow motion (120fps), generating sharp horizontal cyan flares. The camera quickly racks focus to an ultra-sleek matte titanium technological product floating slightly above a dark reflective surface, bathed in cinematic volumetric teal (#00BCD4) and warm amber backlight with floating atmospheric dust motes.
+Hyper-realistic cinematic commercial video, vertical 9:16, exact duration 7 seconds. Generated from keyframe image scene_004_image.
+Slow-motion luxury product commercial B-roll (120fps). Smooth camera orbit around a luxury matte dark titanium tech smartwatch resting solidly on an obsidian reflective surface. A sweeping horizontal anamorphic cyan-teal (#00BCD4) light streak glides across the metallic bezel and sapphire crystal screen. Subtle suspended golden dust motes drift in the atmospheric background. Stable, grounded composition with crisp cinematic reflections.
 
-CAMERA / TIMING: 100mm Macro Cine Lens T2.8. Smooth 180-degree orbit in crisp slow-motion (120fps), highlighting premium textures, metallic reflections, and lens flares.
+CAMERA / TIMING: 100mm Macro Cine Lens T2.8. Smooth 90-degree slow orbital arc around the product in slow-motion (120fps), racking focus from the bevelled titanium edge to the glowing cyan display.
 
 LANGUAGE: All spoken dialogue must be ONLY in neutral Latin American Spanish. Voice Name: Charon. Voice Style: A deep baritone male voice, mature, warm, and highly authoritative. Natural human chest resonance, low-pitched, calm, and unhurried pacing. Avoid any high-pitched, nasal, rushed, or robotic inflections. Do not translate, paraphrase or rewrite the provided dialogue.
 
@@ -21,4 +21,4 @@ FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural 
 
 VOZ EN OFF (LEAD_ENGINEER habla): "Creamos contenido que no solo detiene el scroll... sino que posiciona a tu negocio como una marca de primer nivel."
 
-NEGATIVE PROMPT: No background music, no background songs, no soundtrack, no instrumental melody, no music, no text, no letters, no logos, no watermarks, no cartoon, no 3d render.
+NEGATIVE PROMPT: Loose camera lens on table, floating objects, levitating box, distorted shapes, no background music, no background songs, no soundtrack, no instrumental melody, no music, no text, no letters, no logos, no watermarks, no cartoon, no 3d render.

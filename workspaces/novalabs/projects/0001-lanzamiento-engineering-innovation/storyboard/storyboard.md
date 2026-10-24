@@ -26,18 +26,18 @@
 
 ---
 
-### Toma 2A (El Contraste: Anti-Beauty Bias)
+### Toma 2A (El Contraste: Ingeniería vs Simple Prompt)
 - **Toma:** 2A
-- **Thumbnail (Visual):** Split-screen con barrido vertical. Lado izquierdo: toma amateur con colores lavados y rostros derretidos. Lado derecho: toma fotorrealista ARRI Alexa 35mm a 60fps con texturas hiper-nítidas.
-- **Acción/Narrativa:** Contraste agresivo entre la IA aficionada (piel cerosa, manos deformes, iluminación plana) y la ingeniería cinematográfica de Nova Labs (poros de piel reales, iluminación chiaroscuro, bokeh anamórfico).
+- **Thumbnail (Visual):** Close-Up macro en ángulo de las manos de `lead-engineer` tecleando ágilmente en su teclado mecánico con retroiluminación cian (`#00BCD4`), mientras el borde inferior de los monitores verticales muestra código Python y grafos de redes neuronales compilándose.
+- **Acción/Narrativa:** En lugar de un prompt de texto amateur de chatbot, vemos la ejecución rigurosa de código de ingeniería real: dedos precisos sobre teclas mecánicas, reflejos metálicos del smartwatch de titanio y la arquitectura visual del software.
 - **Cámara y Fotografía:**
-  - **Plano:** MS (Medium Shot) dividido / Lente: 35mm f/1.4
-  - **Movimiento de cámara:** Barrido vertical whip-pan con settling dinámico
-  - **Iluminación:** Luz plana sobreexpuesta (lado izquierdo) vs. Chiaroscuro direccional suave con edge light cian (lado derecho)
-  - **Color Grading:** Izquierda desaturada y blanquecina vs. Derecha con amplio rango dinámico y contraste profundo
+  - **Plano:** CU (Close-Up) Macro / Lente: 35mm Cine Lens f/1.8
+  - **Movimiento de cámara:** Movimiento de slider lateral suave de izquierda a derecha con rack focus hacia los reflejos de las pantallas
+  - **Iluminación:** Chiaroscuro de estación de trabajo con luz emitida cian-teal (`#00BCD4`) y sombras limpias (`#0A0A0A`)
+  - **Color Grading:** Negros profundos, alto contraste y destellos anamórficos cian en las teclas
 - **Duración:** 0:04 - 0:10 (6s)
-- **Audio/Voz en Off:** *(SFX: Glitch digital molesto en canal izquierdo que resuelve en un acorde orquestal limpio en estéreo)*. **VOZ EN OFF:** *"...porque cualquiera puede escribir un prompt. Pero casi nadie entiende de cinematografía e ingeniería."*
-- **Transición:** Hard Cut rítmico al compás del beat
+- **Audio/Voz en Off:** *(SFX: Tecleo fluido y mecánico con eco de estudio, zumbido electrónico limpio)*. **VOZ EN OFF:** *"...porque cualquiera puede escribir un prompt. Pero casi nadie entiende de cinematografía e ingeniería."*
+- **Transición:** Match Cut dinámico hacia el plano medio del laboratorio (Toma 2B)
 
 ---
 
