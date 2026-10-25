@@ -1,0 +1,54 @@
+project_id: "0001-chefs-table-institucional"
+name: "Chef's Table Institucional: La Joyería del Bocado B2B"
+type: "commercial_spec_ad"
+status: "ready_for_render"
+created_at: "2026-10-25"
+updated_at: "2026-10-25"
+
+assets:
+  images:
+    - "assets/references/cono_real_chocolate_rosa_fruta.jpg"
+    - "assets/references/catering_caja_canapes_reales.jpg"
+    - "assets/references/estacion_torre_conos_y_tartaletas_real.jpg"
+    - "assets/references/mesa_conos_buffet.jpg"
+    - "assets/references/detalle_conos_flores_pasteleria.jpg"
+    - "assets/references/montaje_monumental_edificio_cristal.jpg"
+    - "assets/references/desayuno_ejecutivo_vista_illimani.jpg"
+    - "assets/salonero_front.jpg"
+    - "assets/salonero_reference.jpg"
+    - "assets/ejecutivo_front.jpg"
+    - "assets/ejecutivo_reference.jpg"
+    - "assets/logo.png"
+    - "storyboard/assets/board_01_05.jpg"
+  audio:
+    - "render/music.md"
+    - "render/voiceover.md"
+    - "render/sfx.md"
+  video:
+    - "render/scene_001_video.md"
+    - "render/scene_002_video.md"
+    - "render/scene_003_video.md"
+    - "render/scene_004_video.md"
+    - "render/scene_005_video.md"
+  references:
+    - "https://www.facebook.com/share/1XfxwginNk/"
+
+visuals:
+  style_override: "Haute Cuisine Netflix Chef's Table documentary style, 120fps slow-motion, warm golden chiaroscuro lighting over dark obsidian marble, luxury corporate banquet scale, Hasselblad/ARRI Alexa 65 cinematic aesthetic, 8k resolution"
+  location: "Salones de gala históricos y torres corporativas en La Paz, Bolivia con vistas al Illimani"
+  target_aspect_ratio: "16:9" # Master cinematográfico de alto impacto (con encuadre adaptable a 9:16)
+
+casting:
+  characters:
+    - id: "salonero-gala"
+      role: "Brigada de servicio protocolar (manos enguantadas y desplazamiento de bandejas, no dialogante)"
+    - id: "ejecutivo-corporativo"
+      role: "Invitados VIP y directivos (presencia 100% visual en soft-focus brindando con espumante, no dialogante)"
+  props:
+    - id: "torre-conos-dorados"
+      role: "Signature Food Display icónico de Tartalia"
+  voiceover_only: true # REGLA DEL PROYECTO: Cero labios sincronizados en pantalla, narración ejecutiva en off + diseño Foley ASMR
+
+metrics:
+  engagement_score: 49 # Sobre 50 según rúbrica
+  viral_potential: 48  # Sobre 50 según rúbrica

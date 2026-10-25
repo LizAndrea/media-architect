@@ -1,0 +1,53 @@
+# GUION CINEMATOGRÁFICO: CHEF'S TABLE INSTITUCIONAL
+**Proyecto:** `0001-chefs-table-institucional`  
+**Workspace:** `tartalia` (La BaRRa de TARTALIA - Alta Cocina & Catering de Autor)  
+**Formato:** Spec Ad / Documental de Lujo (16:9 Master, adaptable a 9:16)  
+**Duración Total:** 34 Segundos  
+**Ritmo:** Hipnótico, refinado, envolvente, cadencia *Chef's Table* (Netflix)  
+**Reparto (Lore):** [[torre-conos-dorados]] (Signature Prop) | **Extras Visuales:** [[salonero-gala]], [[ejecutivo-corporativo]] (100% No Dialogantes)  
+**Casting Config:** `voiceover_only: true` (Cero personajes hablando en cámara / Cero lip-sync)  
+**Locación Principal:** Salón de Gala Neoclásico y Sala Ejecutiva con ventanales hacia La Paz, Bolivia  
+
+---
+
+## 1. SINOPSIS EJECUTIVA
+Un recorrido visual de alta costura gastronómica a través de los bocados icónicos de Tartalia: desde el crujido macro de su cono insignia de chocolate negro, crocante de almendras y rosa de fruta dorada, hasta la delicadeza de barquetas de higos nobles y la revelación monumental de banquetes para 300 diplomáticos y directivos bancarios en La Paz. Una oda al estatus, la tranquilidad logística y el arte de deslumbrar a los invitados sin margen de error.
+
+---
+
+## 2. ESTRUCTURA NARRATIVA Y GUION TÉCNICO
+
+> **Nota para el Storyboard y Render:** Ninguna toma supera los 8 segundos (estándar Google Flow VEO 3.1). Las descripciones visuales se anclan en las fotografías reales de servicio registradas en `assets/references/`. Cero actores moviendo los labios; la narrativa es conducida exclusivamente por la voz en off y el diseño sonoro.
+
+| Toma | Duración | Escena Visual (Cámara e Iluminación) | Audio / SFX Foley / Voz en Off | Texto en Pantalla (Cinzel Dorado) |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Hook Sensorial (Macro Cono Insignia)** | **6s (0:00 - 0:06)** | **INT. ESTUDIO CULINARIO OSCURO - DÍA/NOCHE**<br>Plano macro extremo (100mm f/2.8 a 120fps slow-motion). Iluminación lateral chiaroscuro dorada sobre fondo negro obsidiana. Una mano enguantada en negro sostiene con delicadeza el cono insignia de Tartalia: base estilizada envuelta en papel metalizado dorado brillante, cuerpo bañado en chocolate negro espeso con el borde superior generosamente rebozado en crocante de frutos secos y almendras tostadas finamente picadas; en su interior reposa una fina lámina de fruta dorada (mango/durazno) enrollada en espiral formando una rosa de alta pastelería, coronada con un delicado pétalo morado silvestre y una micro-hoja verde. La cámara se aproxima en push-in milimétrico revelando la textura táctil del praliné y el brillo del chocolate mientras una luz cenital cálida recorre los relieves. *(Referencia real directa: `cono_real_chocolate_rosa_fruta.jpg` / `WhatsApp Image 2026-10-24 at 9.24.30 AM (3).jpeg`)* | *(SFX Foley nítido)*: Silencio absoluto... luego el crujido sutil y seco del chocolate negro templado y el praliné de frutos secos tostados (*CRACK & CRUNCH táctil y refinado*), seguido del sonido envolvente de la masa de barquillo crocante.<br><br>*(Música)*: Entra una nota profunda y resonante de violonchelo neoclásico.<br><br>*(VOZ EN OFF - Cálida, ejecutiva y envolvente)*:<br> *"En las mesas donde se toman las decisiones más importantes..."* | *[Sin texto invasivo para máxima inmersión sensorial]* |
+| **2. La Joyería del Bocado** | **7s (0:06 - 0:13)** | **INT. TALLER DE ALTA GASTRONOMÍA - DÍA**<br>Plano macro y detalle con movimiento suave de slider (*lateral rack focus*, lente 85mm f/1.8). Sobre una elegante superficie de mármol negro veteado reposa el auténtico dúo de autor de Tartalia: en primer término, una barqueta rectangular alargada de masa sableé dorada y crujiente rellena de crema pastelera sedosa y coronada con un mosaico multicolor de láminas de frutillas rojas frescas, kiwi esmeralda, arándanos azules brillantes y dados de mango; a su lado, las icónicas cucharitas comestibles de masa fina crujiente con rosetón de mousse de queso a las finas hierbas y teja translúcida de parmesano coral. Una mano con pinza de chef de precisión quirúrgica deposita con delicadeza un micro-brote fresco sobre el bocado. *(Referencia real directa: `catering_caja_canapes_reales.jpg` / `473993032_1425309472022701_3236245884576698123_n.jpg`)* | *(SFX Foley)*: Toque milimétrico de la pinza metálica (*clic táctil suave*), crujido sutil de la masa sableé y la jugosidad fresca de la fruta.<br><br>*(Música)*: El chelo se entrelaza con acordes pausados y cristalinos de piano contemporáneo.<br><br>*(VOZ EN OFF)*:<br> *"...el verdadero poder no se impone. Se saborea en cada detalle."* | *Bocados de Alta Cocina* |
+| **3. La Metamorfosis y Escala** | **8s (0:13 - 0:21)** | **INT. SALÓN MONUMENTAL / TEATRO MUNICIPAL, LA PAZ - TARDE**<br>Cámara en grúa o jib con movimiento vertical ascendente y paneo rotacional fluido. Del detalle microscópico pasamos a la escala monumental y auténtica: la icónica torre acrílica escalonada de conos dorados y conos de chocolate preside una estación de banquete abundante y real, flanqueada por platones de porcelana blanca con barquetas de higos frescos laminados, tartaletas doradas con crema y semillas de granada roja brillante, y brochetas de autor sobre mantelería pulcra. Al fondo, a través de imponentes ventanales, se aprecia la arquitectura paceña en hora dorada. Saloneros uniformados con delantal negro de lino se desplazan en coreografía protocolar. *(Referencia real directa: `estacion_torre_conos_y_tartaletas_real.jpg` y `montaje_monumental_edificio_cristal.jpg`)* | *(SFX Foley)*: Murmullo elegante de salón diplomático atenuado en reverb cálido; paso suave de lino y copas en servicio.<br><br>*(Música)*: La melodía orquestal se expande, sumando capas de cuerdas épicas y elegantes que elevan la sensación de magnitud.<br><br>*(VOZ EN OFF)*:<br> *"Transformamos salones institucionales en experiencias de gala inolvidables..."* | *Banquetería Institucional de Gala* |
+| **4. Estatus B2B y Tranquilidad** | **7s (0:21 - 0:28)** | **INT. SALÓN CORPORATIVO / BANCO BISA / BANCOSOL - TARDE**<br>Plano medio cinematográfico en profundidad de campo reducida (50mm f/1.8). En primer término, dos altos líderes corporativos de gala: nuestro distinguido ejecutivo con traje azul medianoche y una elegante directora ejecutiva bancaria en blazer sastre oscuro y blusa de seda, chocan delicadamente dos copas de cristal cortado con vino espumante (*CLINK*). En segundo plano y en elegante desenfoque (*soft focus*), el salonero uniformado sostiene con ambas manos una bandeja con bocaditos de Tartalia. **Cero diálogo en cámara ni movimiento labial:** el foco está en las expresiones de éxito, complicidad institucional y satisfacción. *(Referencia: `desayuno_ejecutivo_vista_illimani.jpg`)* | *(SFX Foley)*: Tintineo nítido de dos copas de cristal al brindar (*CLINK* cristalinamente puro).<br><br>*(Música)*: Pulso rítmico sutil de percusión moderna que anticipa el desenlace triunfal.<br><br>*(VOZ EN OFF)*:<br> *"...con la precisión, puntualidad y excelencia que el prestigio de tu marca exige."* | *La Paz • Sector Corporativo & Diplomático* |
+| **5. Cierre y Factor Prestigio** | **6s (0:28 - 0:34)** | **INT. SALÓN DE HONOR - DÍA**<br>Plano cenital lento alejándose sobre una mesa imperial perfectamente servida. La iluminación ambiental se atenúa sutilmente dejando una luz cenital cálida que baña el centro de la mesa. Transición limpia a placa final sobre negro obsidiana: el emblema barroco en filigrana dorada de TARTALIA resplandece con un destello suave, acompañado del slogan corporativo y tipografía editorial de alto nivel. | *(SFX Foley)*: Exhalación sutil, suave eco de arpa o teclado cálido que resuelve el acorde mayor.<br><br>*(VOZ EN OFF - Tono de firma de autor)*:<br> *"Tartalia. Lo bello puede ser exquisito... Haz que tu próximo evento sea legendario."* | **TARTALIA**<br>*Lo bello puede ser exquisito...*<br>Bocados de Alta Cocina & Banquetería Institucional<br>La Paz • Bolivia |
+
+---
+
+## 3. ANÁLISIS DE RENDIMIENTO PREVISTO
+
+### 📊 Engagement Score: **49 / 50**
+1. **Hook Inicial (10/10):** El primer segundo atrapa de inmediato mediante el contraste entre fondo negro obsidiana, el dorado reflectante del cono y el sonido crujiente *ASMR* en 120fps. Imposible de ignorar en el feed.
+2. **Ritmo Narrativo (10/10):** Transición perfecta de lo micro a lo macro: parte de un solo bocado individual y se abre hacia un banquete de Estado para 300 personas, manteniendo la dopamina visual activa.
+3. **Claridad del Mensaje (10/10):** Comunica en menos de 35 segundos que Tartalia es sinónimo de alta gastronomía, servicio protocolar de élite y cero estrés para el anfitrión.
+4. **Elementos Visuales Memorables (10/10):** La torre piramidal de conos dorados, el higo laminado con flores comestibles y la vista monumental de La Paz generan una huella estética inolvidable.
+5. **Cierre / CTA (9/10):** Cierre de autor con prestigio sobrio que invita a la reserva institucional sin sonar a venta callejera o desesperada.
+
+### 🚀 Viral Potential Score: **48 / 50**
+1. **Elementos Emocionales (10/10):** Despierta apetito sensorial instantáneo (*food porn*) combinado con el deseo de estatus y reconocimiento corporativo.
+2. **Originalidad del Concepto (10/10):** Rompe radicalmente con los típicos videos de catering de celular tembloroso o fotos estáticas. Aplica la estética cinematográfica de *Chef's Table* (Netflix) a la banquetería boliviana.
+3. **Shareability (10/10):** Los directores de RRHH y ejecutivos querrán compartirlo con sus comités organizadores con el comentario: *"¡Miren este catering para nuestro aniversario corporativo!"*. A su vez, profesionales del marketing lo compartirán como ejemplo de calidad publicitaria.
+4. **Relevancia Cultural (9/10):** Revaloriza el patrimonio arquitectónico y la vanguardia culinaria de La Paz, conectando con el orgullo local institucional.
+5. **Factor Sorpresa (9/10):** El giro visual en la Toma 3, donde pasamos del detalle íntimo del bocado al salón monumental de 300 diplomáticos, redefine por completo las expectativas del espectador.
+
+---
+
+## 4. IMPACTO ESTRATÉGICO PARA NOVA LABS
+Este guion cumple milimétricamente el objetivo solicitado:
+- **Para Tartalia:** Valida su estatus como la firma más refinada de catering de Bolivia, dándoles una herramienta de ventas de lujo.
+- **Para los Clientes de Tartalia (Bancos, Empresas, ONUs):** Al ver la factura visual (macro 120fps, iluminación chiaroscuro, sonido foley y escala cinematográfica), querrán saber de inmediato **quién produjo el video**, abriendo la puerta a contratos de producción audiovisual corporativa de alto valor para **Nova Labs**.
