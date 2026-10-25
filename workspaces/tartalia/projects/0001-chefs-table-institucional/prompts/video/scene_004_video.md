@@ -28,7 +28,7 @@ LANGUAGE: All spoken voiceover must be ONLY in neutral Latin American Spanish. V
 FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
 
 VOZ EN OFF (NARRADOR EJECUTIVO):
-"...con la precisión, puntualidad y excelencia que el prestigio de tu marca exige."
+"...a la altura de tu prestigio."
 
 NEGATIVE PROMPT:
 No logos, no readable text, no speech bubbles, no speaking mouth, no talking characters, no twins, no cloned executives, no waiter drinking, no messy hands, no blurred faces, no jerky camera.

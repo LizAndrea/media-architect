@@ -27,7 +27,7 @@ LANGUAGE: All spoken voiceover must be ONLY in neutral Latin American Spanish. V
 FLOW SAFETY: fictional adults only, safe nonviolent context, respectful natural behavior, no recognizable people, minors, brands, logos, protected characters or readable text.
 
 VOZ EN OFF (NARRADOR EJECUTIVO):
-"Tartalia. Lo bello puede ser exquisito... Haz que tu próximo evento sea legendario."
+"Tartalia. Lo bello... es exquisito."
 
 NEGATIVE PROMPT:
 No flickering, no jerky zoom, no cartoon graphics, no cheap yellow shades, no informal fonts, no email addresses, no phone numbers, no pixelation, no low resolution.

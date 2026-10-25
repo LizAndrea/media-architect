@@ -29,4 +29,4 @@ Dos altos líderes corporativos celebran con serenidad: a la izquierda, nuestro 
 - **Foley:** Tintineo nítido y puro de copas de cristal al brindar (*CLINK* cristalinamente puro a 0:22) y efervescencia suave de burbujas.
 - **Música:** Pulso sutil de percusión moderna y sub-bass cálido que eleva la confianza corporativa.
 - **Voz en Off (Narrador Ejecutivo):**
-  > *"...con la precisión, puntualidad y excelencia que el prestigio de tu marca exige."*
+  > *"...a la altura de tu prestigio."*

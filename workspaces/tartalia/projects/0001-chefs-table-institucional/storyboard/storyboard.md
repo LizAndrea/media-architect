@@ -39,11 +39,11 @@
 - **Acción/Narrativa:** Gancho sensorial de alta pastelería que establece de golpe la autenticidad, exquisitez y factura artesanal de Tartalia.
 - **Cámara y Fotografía:**
   - **Plano:** ECU (Extreme Close-Up) / Lente 100mm f/2.8 Macro a 120fps slow-motion
-  - **Movimiento de cámara:** Push-in milimétrico hiper-estable hacia el detalle de la rosa de fruta y el borde de praliné
-  - **Iluminación:** Chiaroscuro lateral cálido dorado (Rim light dorada recortando el cono contra fondo negro obsidiana)
+  - **Movimiento de cámara:** Crash Zoom dinámico de apertura acelerada con Speed Ramp frenando a 120fps ultra slow-motion
+  - **Iluminación:** Chiaroscuro lateral cálido con barrido de luz dorada anamórfica sobre fondo negro obsidiana
   - **Color Grading:** Negros profundos absolutos, oro metálico brillante, chocolate oscuro brillante y dorado ámbar de la fruta
 - **Duración:** 6s (0:00 - 0:06)
-- **Audio/Voz en Off:** *(Foley: Crujido sutil y nítido de chocolate templado y praliné crujiente)* "En las mesas donde se toman las decisiones más importantes..."
+- **Audio/Voz en Off:** *(Foley: Crujido sutil y nítido de chocolate templado y praliné crujiente)* "Donde se toman las grandes decisiones..."
 - **Transición:** Match Cut en textura y brillo dorado hacia la Toma 2
 
 ---
@@ -58,7 +58,7 @@
   - **Iluminación:** Luz suave cenital difusa con reflejos especulares en el glaseado brillante de las frutas y la superficie del mármol
   - **Color Grading:** Rojo brillante de frutillas, verde esmeralda de kiwi, azul profundo de arándanos, dorado de masa sableé y negro mármol profundo
 - **Duración:** 7s (0:06 - 0:13)
-- **Audio/Voz en Off:** *(Foley: Toque metálico fino de pinza + crujido sutil de masa horneada)* "...el verdadero poder no se impone. Se saborea en cada detalle."
+- **Audio/Voz en Off:** *(Foley: Toque metálico fino de pinza + crujido sutil de masa horneada)* "...el poder se saborea en el detalle."
 - **Transición:** Speed Ramp suave acelerando hacia la apertura del salón en Toma 3
 
 ---
@@ -69,11 +69,11 @@
 - **Acción/Narrativa:** De la escala íntima del bocado pasamos a la abundancia auténtica y tangible de un banquete de gala institucional real.
 - **Cámara y Fotografía:**
   - **Plano:** Wide to Medium-Wide / Lente 35mm f/2.8 Anamórfico
-  - **Movimiento de cámara:** Grúa o jib en movimiento vertical ascendente y paneo rotacional envolvente
+  - **Movimiento de cámara:** Movimiento vertical ascendente flotante y paneo rotacional envolvente
   - **Iluminación:** Combinación de luz cálida de candelabros neoclásicos con la luz crepuscular dorada-azulada de La Paz
   - **Color Grading:** Contraste majestuoso entre la calidez dorada del interior y el atardecer andino
 - **Duración:** 8s (0:13 - 0:21)
-- **Audio/Voz en Off:** *(Foley: Murmullo refinado de salón diplomático + crescendo de cuerdas orquestales)* "Transformamos salones institucionales en experiencias de gala inolvidables..."
+- **Audio/Voz en Off:** *(Foley: Murmullo refinado de salón diplomático + crescendo de cuerdas orquestales)* "Banquetería de gala..."
 - **Transición:** Corte por movimiento siguiendo el desplazamiento de una bandeja de servicio hacia los invitados
 
 ---
@@ -88,7 +88,7 @@
   - **Iluminación:** Iluminación suave de cóctel de gala con destellos en las facetas del cristal
   - **Color Grading:** Tonos azules marinos medianoche en trajes, champán dorado brillante y tonos de piel naturales
 - **Duración:** 7s (0:21 - 0:28)
-- **Audio/Voz en Off:** *(Foley: Tintineo de copas de cristal cortado CLINK puro)* "...con la precisión, puntualidad y excelencia que el prestigio de tu marca exige."
+- **Audio/Voz en Off:** *(Foley: Tintineo de copas de cristal cortado CLINK puro)* "...a la altura de tu prestigio."
 - **Transición:** Disolvencia pausada hacia cenital de mesa imperial
 
 ---
@@ -103,5 +103,5 @@
   - **Iluminación:** Spotlight cenital enfocado en el centro del montaje que se desvanece suavemente
   - **Color Grading:** Negro obsidiana puro y oro imperial bruñido con destello sutil
 - **Duración:** 6s (0:28 - 0:34)
-- **Audio/Voz en Off:** *(Foley: Resonancia cálida de piano neoclásico)* "Tartalia. Lo bello puede ser exquisito... Haz que tu próximo evento sea legendario."
+- **Audio/Voz en Off:** *(Foley: Resonancia cálida de piano neoclásico)* "Tartalia. Lo bello... es exquisito."
 - **Transición:** Fade to black final

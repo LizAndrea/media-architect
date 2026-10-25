@@ -28,4 +28,4 @@ Sobre una superficie de mármol negro veteado reposa el auténtico dúo de autor
 - **Foley:** Toque milimétrico de la pinza metálica (*clic táctil fino*) y crujido sutil de masa sableé horneada.
 - **Música:** Entrada de acordes cristalinos de piano contemporáneo que se entrelazan con el chelo.
 - **Voz en Off (Narrador Ejecutivo):**
-  > *"...el verdadero poder no se impone. Se saborea en cada detalle."*
+  > *"...el poder se saborea en el detalle."*

@@ -1,7 +1,7 @@
 # Proyecto: Chef's Table Institucional (0001)
 
 ## Estado Actual
-- **Fase:** Render y Prompts Completados (`render/` y `prompts/` listos para IA de Video/Voz)
+- **Fase:** Kit de Publicación y Distribución Listo (`publish/publish.md`)
 - **Última actualización:** 2026-10-25
 - **Workspace:** Tartalia (Alta Cocina & Catering de Autor)
 
@@ -15,6 +15,7 @@
 - [Sets y Fondos (sets/)](sets/)
 - [Storyboard (storyboard/)](storyboard/)
 - [Prompts de Producción (prompts/)](prompts/)
+- [Kit de Publicación Multiplataforma (publish/)](publish/)
 - [Assets de Referencia Real (assets/references/)](assets/references/)
 
 ---

@@ -31,4 +31,4 @@ Debajo del logo, en tipografía editorial limpia:
 - **Foley:** Exhalación cálida y armónica, destello acústico suave que acompaña el destello sobre el logo y caída en silencio solemne.
 - **Música:** Resolución triunfal en acorde de Re mayor, arpegio de piano agudo y campanada suave de arpa.
 - **Voz en Off (Narrador Ejecutivo):**
-  > *"Tartalia. Lo bello puede ser exquisito... Haz que tu próximo evento sea legendario."*
+  > *"Tartalia. Lo bello... es exquisito."*
