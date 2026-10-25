@@ -48,3 +48,12 @@ Cada workspace y proyecto tiene su propio AGENTS.md para mantener contexto acota
 - **Diagramas Mermaid:** Para evitar errores léxicos en renderizadores de Markdown (como GitHub), NUNCA uses paréntesis `()` dentro de las etiquetas o títulos de los subgrafos `subgraph`. Reemplázalos por guiones `-` o usa sintaxis segura sin caracteres especiales que interfieran con el parser.
   - ✅ Correcto: `subgraph ObraGruesa [🏗️ Obra Gruesa - Guion]`
   - ❌ Incorrecto: `subgraph ObraGruesa [🏗️ Obra Gruesa (Guion)]`
+
+## 9. ESTÁNDAR VISUAL Y DIRECCIÓN DE ARTE (FINE-ART & INNOVACIÓN CONTINUA)
+En toda generación de imagen, diseño estático (**`/media-post`**), storyboard (**`/media-storyboard`**) o set (**`/media-set`**):
+- **Cero Estética de Volante Genérico:** Prohibido el uso de stickers chillones, medallas circulares de clip-art o barras de descuento invasivas. La fotografía debe lucir como arte editorial de alta gama.
+- **Calidad de Fotografía Cinematográfica:** Simular cámaras de medio formato o cine (Hasselblad, ARRI Alexa, Leica, lentes 50-80mm f/1.8 a f/2.4, iluminación chiaroscuro/natural, texturas orgánicas y profundidad de campo táctil).
+- **Inmersión Cultural y Escenográfica:** Los productos o retratos deben convivir orgánicamente dentro del set (objetos tangibles, mesas nobles, elementos tradicionales o arquitectónicos del proyecto).
+- **Diseño Tipográfico de Lujo:** Tipografía geométrica limpia o editorial con amplio espacio negativo; los precios y ganchos se integran como pastillas minimalistas elegantes (*pill badges*) o detalles sutiles.
+- **Innovación Continua:** En cada entrega, investigar el contexto emocional y cultural para proponer encuadres frescos y disruptivos que superen las expectativas.
+

@@ -49,13 +49,30 @@ Dentro de la carpeta del post, se generan obligatoriamente estos archivos:
      - **Negative Prompt:** Prohibición estricta de párrafos largos ilegibles, marcas de agua, texto borroso o deformaciones anatómicas.
 
 3. **`copy.md`**: Copywriting persuasivo estructurado por plataforma:
-## 4. REGLAS VISUALES Y DE COMPOSICIÓN (DISEÑO GRÁFICO CON IA)
-Para evitar errores comunes de renderizado en infografías y piezas estáticas:
-1. **Tipografía Unificada:** Toda la tipografía en la imagen DEBE ser de una sola familia moderna geométrica **Sans-Serif** (tipo Montserrat, Helvetica, Inter). NUNCA mezclar fuentes Serif (romanas) con Sans-Serif en la misma pieza.
-2. **Ambiente Ejecutivo Luminoso (Por Defecto):** A menos que la temática sea explícitamente nocturna o cyberpunk, el escenario debe ser una **oficina corporativa diurna y luminosa** (salas de juntas con ventanales de piso a techo, luz natural, madera cálida y plantas). Evitar estéticas de "cueva o sótano de hacker" que restan credibilidad B2B.
-3. **Despeje Espacial (Spatial Clearance):** Los paneles u hologramas de infografía flotantes NUNCA deben atravesar el cuerpo, cuello o rostro de las personas. El expositor (@lead-engineer) debe estar posicionado **a un lado de la mesa gesticulando hacia la infografía**, con suficiente aire y separación espacial.
-4. **Branding Ambiental:** El logotipo de la empresa se integra como un **elemento arquitectónico del entorno** (grabado sutil en relieve en el vidrio esmerilado de fondo, madera o pared de la sala). NUNCA como un sticker o marca de agua flotante pegada encima de la gente.
-5. **Dimensiones Oficiales para Feed Móvil:** Usar proporción **3:4 o 4:5 vertical** (equivalente a 1080x1440 o 1080x1350). Son las dimensiones estándar directas para publicar en los muros de Facebook, Instagram y LinkedIn en dispositivos móviles.
+## 4. REGLAS VISUALES Y DIRECCIÓN DE ARTE FOTOGRÁFICO (FINE-ART, EDITORIAL & INNOVACIÓN CONTINUA)
+Para garantizar piezas de nivel museo, editorial y alta gama comercial que destaquen por encima de la publicidad estándar:
+
+1. **Estándar Fotográfico de Bellas Artes (Fine-Art & Commercial Photography):**
+   - **Prohibido el estilo "volante barato de supermercado":** NUNCA usar stickers llamativos, medallas circulares de clip-art, flechas fluorescentes ni barras invasivas que tapen la imagen. La fotografía debe ser la protagonista absoluta.
+   - **Cámara y Óptica Cinematográfica:** Simular cámaras de medio formato o cine digital (Hasselblad H6D-100c, ARRI Alexa 35, Leica SL2, lentes 50mm/80mm f/1.8 a f/2.4 con profundidad de campo sutil y enfoque nítido).
+   - **Texturas Táctiles e Iluminación Orgánica:** Capturar detalles reales (grano de madera, telares tradicionales, goteo de cera virgen, poros reales en piel, vapor o polvo atmosférico). Iluminación natural o *chiaroscuro* cálido (#FFA726) con sombras aterciopeladas profundas.
+
+2. **Inmersión y Continuidad con el Set del Proyecto:**
+   - Si la publicación deriva de un proyecto de video o producto, reinsertar el **entorno real y cultural del set** (ej. mesas nobles de madera, t'antawawas, cempasúchil, retablos o salas de diseño arquitectónico). El producto o fotografía no flota en el vacío: convive armónicamente con los objetos tangibles del escenario.
+
+3. **Tipografía Editorial y Badges Minimalistas (Luxury Graphic Layout):**
+   - **Tipografía Unificada:** Usar tipografía moderna geométrica Sans-Serif (Montserrat, Helvetica, Inter) o Serifs editoriales de alta costura si la temática lo amerita.
+   - **Badges y Ganchos de Precio Discretos:** Los precios o llamadas de atención se integran mediante pastillas minimalistas elegantes (*pill badges* doradas o neutras) o líneas finas con interletreado generoso (*letter-spacing*).
+   - **Respeto al Espacio Negativo:** La tipografía debe respirar en las zonas oscuras o neutras de la imagen sin invadir rostros ni elementos simbólicos clave.
+
+4. **Branding Ambiental:**
+   - El logotipo de la empresa se integra como un elemento arquitectónico o decorativo del entorno (grabado sutil en madera, placa de vidrio, relieve o pie editorial discreto). NUNCA como una marca de agua agresiva.
+
+5. **Dimensiones Oficiales para Feed Móvil:**
+   - Usar proporción **3:4 o 4:5 vertical** (1080x1440 o 1080x1350). Son las dimensiones estándar directas para publicar en los muros y estados de Facebook, Instagram, LinkedIn y WhatsApp en dispositivos móviles sin cortes indeseados.
+
+6. **Innovación Visual Continua:**
+   - En cada nuevo post, el agente debe investigar el trasfondo cultural y emotivo del tema para proponer una composición fresca, disruptiva y única, huyendo de plantillas predecibles o repeticiones mecánicas.
 
 ---
 

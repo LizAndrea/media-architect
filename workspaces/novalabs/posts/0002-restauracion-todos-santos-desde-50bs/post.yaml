@@ -1,0 +1,40 @@
+id: "0002"
+slug: "restauracion-todos-santos-desde-50bs"
+title: "Restauración de Fotografías para Todos Santos: Calidad HD Desde Bs 50"
+category: "fine_art_editorial_and_direct_response"
+linked_project: "0002-todos-los-santos-recuerdo-vivo"
+aspect_ratio: "3:4"
+created_at: "2026-10-24"
+status: "ready"
+platforms:
+  - "facebook"
+  - "instagram"
+  - "whatsapp_status"
+  - "tiktok"
+assets:
+  preview: "assets/post_preview.jpg"
+  alternative_flyer: "assets/post_preview_v1_flyer.jpg"
+pricing_architecture:
+  lead_anchor_price: "Bs 50"
+  packages:
+    - name: "Digital HD"
+      price: "Bs 50"
+      description: "Restauración en máxima resolución enviada por WhatsApp"
+    - name: "Recuerdo Impreso"
+      price: "Bs 65"
+      description: "Restauración digital + impresión mate 15x21 cm"
+    - name: "Recuerdo Vivo"
+      price: "Bs 90"
+      badge: "⭐ El más pedido"
+      description: "Foto HD + video animado con sonrisa + foto física 15x21 cm"
+    - name: "Altar Listo"
+      price: "Bs 130"
+      badge: "Completo"
+      description: "Foto digital + video animado + impresión + marco tradicional de madera con vidrio"
+conversion_funnel:
+  hook: "Gancho de precio accesible (Desde Bs 50) + Diagnóstico gratuito"
+  deadline: "Lunes 28 de octubre (cupos limitados)"
+  whatsapp_cta: "https://wa.me/59161198607"
+metrics:
+  expected_engagement: 50
+  target_audience: "Familias bolivianas, hijos y nietos que honran a sus seres queridos en Todos Santos"
