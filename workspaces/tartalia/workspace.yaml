@@ -1,0 +1,70 @@
+workspace:
+  name: "TARTALIA - Alta Cocina & Catering de Autor"
+  slug: "tartalia"
+  motto: "Lo bello puede ser exquisito..."
+  tagline: "Bocados de Alta Cocina & Banquetería Institucional de Alto Impacto"
+  description: "Firma paceña de alta gastronomía, catering corporativo y banquetería institucional de prestigio. Especialistas en finger food de autor, montajes monumentales, menús de innovación con identidad local y servicio protocolar para organismos internacionales, banca y eventos de gala en Bolivia."
+
+  # 1. IDENTIDAD DE MARCA (Constantes visuales y auditivas)
+  brand:
+    colors:
+      primary: "#D4AF37"      # Oro Imperial / Filigrana Real Barroca
+      secondary: "#0D0D0D"    # Negro Obsidiana / Fondo de Lujo
+      accent: "#5A1827"       # Borgoña / Vino Tinto Protocolar
+      neutral: "#F8F9FA"      # Blanco Porcelana / Marfil Puro
+      metallic_warm: "#C89D6C" # Dorado Champagne / Caramelo Tostado
+    fonts:
+      serif_heading: "Cinzel, Cormorant Garamond, Playfair Display"
+      sans_body: "Montserrat, Inter"
+    assets:
+      logo_path: "assets/brand/logo.png"
+      reference_images_path: "assets/references/"
+    social_links:
+      facebook: "https://www.facebook.com/share/1XfxwginNk/"
+      location: "Calle Landaeta 1773, Alto San Pedro, La Paz – Bolivia"
+      phone: "+591 63030242"
+      email: "tartaliacatering@gmail.com"
+      directora: "Carla Ramos"
+
+  # 2. CONTEXTO PARA LA IA (Inyección directa para guionistas, prompters y creativos)
+  ai_context:
+    tone: "Ejecutivo, sofisticado, ameno, seductor, impecable y de altísima distinción. Comunica autoridad en banquetería diplomática y calidez en el trato humano."
+    target_audience:
+      b2b_corporate:
+        segments: "Gerencias Generales, Directores de RRHH, Comités de Protocolo, Organizadores de Eventos en Bancos (BISA, BancoSol), Farmacéuticas (Droguería INTI), Organismos Internacionales (OPS/OMS, ONU Bolivia, UICN) y Embajadas."
+        pain_points: "Miedo a que el servicio falle o se retrase, comida fría o insípida, meseros desprolijos, falta de opciones dietéticas (vegano/celíaco), proveedores informales que ponen en riesgo la reputación de la institución."
+        desires: "Banquete impecable que cause admiración inmediata, puntualidad suiza, servicio silencioso y refinado, presentación visual que prestigie a la marca anfitriona."
+      b2c_private:
+        segments: "Familias de alto perfil, celebraciones íntimas exclusivas, aniversarios, bodas boutique y cócteles privados que buscan el factor WOW."
+    language: "es"
+    video_editing_style: "Cinematográfico y sensorial: Macro food porn a 60-120fps con sonido foley ASMR crujiente y líquido, transiciones dinámicas elegantes (speed ramps), iluminación cálida de gala chiaroscuro, música orquestal moderna combinada con downtempo sofisticado / lo-fi jazz refinado."
+    prompt_engineering:
+      image_style: "Masterpiece high-end editorial food photography, fine-dining catering showcase, Hasselblad H6D-100c or ARRI Alexa 65 cinematic frame, shallow depth of field, 85mm f/1.8 lens, natural chiaroscuro sidelight highlighting moist glazes, golden crispy textures, edible flowers and delicate garnishes, pristine damask tablecloths and crystal stemware, 8k resolution, photorealistic."
+      camera_motion: "Slow-motion push-in toward food towers, gentle orbital rotation around golden cone displays, vertical tilt revealing towering multi-tiered hors d'oeuvres, crisp rack focus from executive background to glistening canapés."
+      signature_props: "Golden conical pastry cups with tempura shrimp and micro-sprouts on transparent spiral tiers; artisanal panini sandwiches with branded seal; fig & cheese mousse boat tarts; customized corporate cupcakes with company branding."
+
+  # 3. PERFILES DE PLATAFORMA (Reglas por formato)
+  platforms:
+    tiktok_and_reels:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 30
+      hook_window: "Primeros 1.5 a 3 segundos (plano macro + foley ASMR + titular de intriga ejecutiva)"
+      cta_style: "Exclusividad y reserva anticipada: 'Haz que tu próximo evento institucional sea inolvidable. Escríbenos al enlace del perfil para agendar tu propuesta personalizada.'"
+    linkedin_and_corporate:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: 60
+      tone: "Liderazgo, protocolo, logística a gran escala y testimonio de confianza institucional."
+      cta_style: "Formal: 'Cotizaciones y dossiers corporativos disponibles por mensaje directo o correo institucional.'"
+    facebook_and_meta_ads:
+      target_aspect_ratio: "4:5"
+      max_duration_seconds: 45
+      focus: "Reconocimientos de la ciudad (Premios GAMLP), trayectoria paceña, salones de gala (Teatro Municipal) y portafolio de clientes emblemáticos."
+
+  # 4. CONFIGURACIONES POR DEFECTO
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 500
+    voice_cloning:
+      provider: "elevenlabs"
+      primary_voice_id: "tartalia_executive_warm_female"

@@ -8,3 +8,4 @@ assets/images/*
 render/final_cuts/*
 !render/final_cuts/.gitkeep
 venv/
+temp/
