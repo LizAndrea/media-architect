@@ -54,4 +54,6 @@ Para trabajar con este workspace, utiliza los siguientes comandos del framework:
 ---
 
 ## 🎬 Proyectos Audiovisuales
-*Actualmente no hay proyectos iniciados. Usa el comando **`/media-new`** para crear la primera producción audiovisual de Arithmos.*
+| ID | Título | Tipo | Formato | Estado |
+|---|---|---|---|---|
+| `0001` | [Arithmos Brand Film: La Nueva Era de tu Contabilidad](projects/0001-relanzamiento-marca-nueva-era/) | `commercial_spec_ad` | 9:16 (Master) / 16:9 | 🟢 Guion Finalizado (Listo para **`/media-casting`**) |

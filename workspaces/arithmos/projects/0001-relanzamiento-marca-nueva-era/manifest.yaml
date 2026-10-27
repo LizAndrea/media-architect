@@ -1,0 +1,51 @@
+project_id: "0001-relanzamiento-marca-nueva-era"
+name: "Arithmos Brand Film: La Nueva Era de tu Contabilidad"
+type: "commercial_spec_ad"
+status: "planning"
+created_at: "2026-10-27"
+updated_at: "2026-10-27"
+
+assets:
+  images:
+    - "assets/logo.png"
+  audio:
+    - "prompts/audio/voiceover.md"
+    - "prompts/audio/music.md"
+    - "prompts/audio/sfx.md"
+  video:
+    - "render/scene_001_video.md"
+    - "render/scene_002_video.md"
+    - "render/scene_003_video.md"
+    - "render/scene_004_video.md"
+  references:
+    - "https://www.arithmos.com.mx/"
+    - "https://www.facebook.com/arithmosmxSTC"
+
+visuals:
+  style_override: "High-End Fintech Spec Ad, Silicon Valley / Paseo de la Reforma modern executive aesthetic, chiaroscuro tech lighting, warm sunset window light contrasted with neon cyan (#00E5FF) and royal blue (#007BBF) LED accents, Hasselblad H6D-100c / ARRI Alexa Mini LF cinematic frame, 85mm f/1.8 lens, shallow depth of field, 8k resolution photorealistic"
+  location: "Paseo de la Reforma, Ciudad de México (Oficinas corporativas de cristal de piso a techo, rascacielos con vista urbana)"
+  target_aspect_ratio: "9:16" # Master vertical para Reels/TikTok (con encuadre seguro adaptable a 16:9 para Web Header)
+
+casting:
+  characters:
+    - id: "emprendedor-tech"
+      role: "Emprendedor / dueño de negocio mexicano contemporáneo (30-38 años, smart casual impecable, sereno, enfocado y aliviado ante sus números)"
+    - id: "consultor-arithmos"
+      role: "Asesor contable y financiero de Arithmos (ejecutivo joven, empático y seguro, trabajando en entorno de cristal y madera)"
+  props:
+    - id: "laptop-fintech"
+      role: "Laptop de aluminio oscuro con dashboard contable limpio y gráficos fluidos en cyan neón sobre fondo antracita"
+    - id: "emblema-arithmos"
+      role: "Emblema 3D del círculo en remolino de Arithmos esculpido en titanio cepillado con halo de luz azul zafiro y cyan"
+    - id: "taza-cafe-roble"
+      role: "Taza de cerámica artesanal sobre escritorio de roble ahumado con tenue vapor"
+  voiceover_only: true # REGLA DEL PROYECTO: Cero labios sincronizados en pantalla, locución en off ejecutiva mexicana ('mexican_male_professional_calm')
+
+metrics:
+  engagement_score: 50 # Sobre 50 según rúbrica auditada
+  viral_potential: 49  # Sobre 50 según rúbrica auditada
+  expected_retention_5s: ">90%"
+
+cta:
+  primary: "Cotiza tu plan en arithmos.com.mx/cotizaciones"
+  secondary: "WhatsApp directo: +52 55 3792 2820"
