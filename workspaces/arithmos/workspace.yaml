@@ -1,0 +1,84 @@
+workspace:
+  name: "Arithmos - Sinergia & Tecnología Contable"
+  slug: "arithmos"
+  motto: "Tus números en orden. Tu tranquilidad en marcha."
+  tagline: "Contabilidad Inteligente, Estrategia Fiscal y Tecnología para Negocios en México"
+  description: "Firma de consultoría contable, cumplimiento fiscal y finanzas estratégicas basada en Ciudad de México (CDMX) con cobertura nacional (Monterrey, Guadalajara, Querétaro, Puebla, Veracruz, Oaxaca, etc.). Su propuesta rompe con el modelo del despacho contable tradicional: integra disciplina tributaria con herramientas tecnológicas y reportes de toma de decisión para emprendedores, PyMEs y personas físicas ante el SAT."
+
+  # 1. IDENTIDAD DE MARCA (Constantes visuales y auditivas)
+  brand:
+    colors:
+      primary: "#007BBF"          # Azul Tecnológico / Confianza Contable
+      secondary: "#0B192C"        # Azul Marino Nocturno / Estatus Ejecutivo de CDMX
+      accent: "#00E5FF"           # Cyan Neón / Flujo de Datos, Conexión Digital e IA
+      neutral_light: "#FFFFFF"    # Blanco Puro
+      snow_corporate: "#F4F6F9"   # Gris Nieve Corporativo
+      dark_slate: "#1E222A"       # Gris Antracita / Hardware y Pantallas
+    fonts:
+      heading: "Google Sans, Comfortaa, Arvo, Outfit"
+      body: "Lato, Inter, Roboto"
+    assets:
+      logo_path: "assets/brand/logo.png"
+      reference_images_path: "assets/references/"
+    social_links:
+      website: "https://www.arithmos.com.mx/"
+      facebook: "https://www.facebook.com/arithmosmxSTC"
+      whatsapp: "+52 55 3792 2820"
+      email: "hola@arithmos.com.mx"
+      founder: "Leonardo Vázquez (Contador Público Independiente)"
+      location: "Ciudad de México (CDMX) - Cobertura Nacional (Monterrey, Guadalajara, Querétaro, Puebla, Cuernavaca, Oaxaca, Tabasco, Veracruz)"
+    logo_details:
+      isotipo: "Gran anillo circular dinámico en remolino (estilo ensō/brushstroke tech) con textura de trazo enérgico y gradiente continuo de azul zafiro (#007BBF) a cyan vibrante (#00E5FF), simbolizando ciclo continuo, sinergia matemática y flujo digital."
+      logotipo: "Tipografía sans-serif geométrica de trazo fino y amplio kerning 'ARITHMOS', acompañada de una línea horizontal divisoria en gradiente cyan-azul y el descriptor 'SINERGIA & TECNOLOGÍA CONTABLE'."
+      format: "PNG transparente RGBA de alta resolución (1789x1646 px)"
+    sound_identity:
+      genre: "Ambient corporate synthwave contemporáneo, downtempo elegante o neo-classical piano con textura digital"
+      textures: "Pulsos sutiles de datos, pads envolventes de confianza, atmósfera ejecutiva moderna"
+      foley: "Click suave de teclado mecánico táctil, taza de café sobre roble oscuro, lluvia sutil contra el cristal de rascacielos en Paseo de la Reforma"
+
+  # 2. CONTEXTO PARA LA IA (Inyección directa para guionistas, prompters y creativos)
+  ai_context:
+    tone: "Ejecutivo, empático, inteligente, certero, moderno y profundamente liberador. Comunica que la contabilidad ya no debe ser un tormento burocrático, sino la mayor ventaja competitiva y de tranquilidad para el dueño del negocio."
+    target_audience:
+      b2b_pymes_and_startups:
+        segment: "Emprendedores, Startups y PyMEs en México (B2B)"
+        pain_points: "Miedo constante a auditorías, requerimientos y multas del SAT (Servicio de Administración Tributaria); desorden en facturación electrónica (CFDI 4.0); contadores tradicionales lentos o informales que no contestan llamadas; falta de visibilidad del flujo de caja."
+        desires: "Un aliado estratégico ('socios del mismo proyecto') que hable su idioma, que use tecnología para entregar reportes claros y oportunos que permitan tomar decisiones de crecimiento."
+      b2c_personas_fisicas:
+        segment: "Personas Físicas con Actividad Empresarial, Honorarios, Sueldos e Inversiones (B2C/Profesionales)"
+        pain_points: "Retenciones bancarias excesivas, desconocimiento de qué gastos deducir (salud, hipotecas, educación), enredos con plataformas financieras (CETES, SOFIPOS, dividendos), pavor a la temporada fiscal de abril."
+        desires: "Obtener saldo a favor en la Declaración Anual ante el SAT, recuperar impuestos legalmente y tener sus finanzas en regla sin perder el sueño."
+    language: "es"
+    video_editing_style: "Cinematográfico, sofisticado y liberador: Planos nítidos con iluminación chiaroscuro tech, contrastes elegantes entre el caos del desorden fiscal y la serenidad de los dashboards en tiempo real, micro-animaciones HUD refinadas en cyan neón sobre fondo oscuro, música envolvente con foley de oficina boutique de CDMX."
+    prompt_engineering:
+      image_style: "Masterpiece cinematic 8k high-end editorial photography, modern fintech and venture capital aesthetic set in Mexico City, sleek corporate high-rise office along Paseo de la Reforma, floor-to-ceiling panoramic glass windows with blurred skyline architecture, chiaroscuro tech lighting with gentle twilight warm sun and soft cyan LED accents, crisp reflections, shot on Hasselblad H6D-100c or ARRI Alexa Mini LF, 85mm f/1.8 lens, shallow depth of field, photorealistic."
+      camera_motion: "Slow-motion push-in toward executive desk, gentle orbital camera motion around modern laptops and tablets displaying clean financial dashboards, crisp rack focus from Mexico City skyline architecture to a serene entrepreneur or the Arithmos 3D emblem."
+      signature_props: "Sleek aluminum laptop with glowing cyan and deep navy financial charts; handcrafted ceramic coffee mug on dark smoked oak desk; 3D sculpted emblem of the Arithmos swirl circle in brushed titanium with sapphire blue and cyan edge neon glow."
+
+  # 3. PERFILES DE PLATAFORMA (Reglas por formato)
+  platforms:
+    tiktok_and_reels:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 30
+      hook_window: "0 a 3 segundos (gancho directo a dolores del SAT, saldo a favor o retenciones de inversiones)"
+      cta_style: "Ágil y resolutivo: '¿Quieres recuperar tu saldo a favor o blindar tu PyME ante el SAT? Haz clic en el enlace de nuestro perfil y solicita tu diagnóstico fiscal gratuito hoy.'"
+    linkedin_and_corporate:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: 60
+      tone: "Liderazgo fiscal, estrategia de crecimiento, compliance tecnológico y gobierno corporativo."
+      cta_style: "Formal y estratégico: 'Agenda una sesión de consultoría para tu empresa en www.arithmos.com.mx y transforma tus números en tu mayor ventaja competitiva.'"
+    facebook_and_meta_ads:
+      target_aspect_ratio: "4:5"
+      max_duration_seconds: 45
+      focus: "Contenido educativo ágil, guía de deducciones personales SAT, historias de alivio tributario para profesionistas y PyMEs en toda la República Mexicana."
+      cta_style: "Cercano y empático: 'Escríbenos por WhatsApp al +52 55 3792 2820 y déjanos resolver tus impuestos mientras tú te enfocas en crecer.'"
+
+  # 4. CONFIGURACIONES POR DEFECTO (Para automatizaciones y scripts)
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 500
+    voice_cloning:
+      provider: "elevenlabs"
+      primary_voice_id: "mexican_male_professional_calm"
+      voice_characteristics: "Voz masculina con acento mexicano neutro, profesional, cálida, empática y de alta credibilidad ejecutiva."
