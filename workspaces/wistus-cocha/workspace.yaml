@@ -1,0 +1,82 @@
+workspace:
+  name: "Tinkus Wistus - Filial Cochabamba"
+  slug: "wistus-cocha"
+  descriptor: "Fraternidad Folklórica y Cultural de Tinku"
+  taglines:
+    primary: "FUERZA, RITMO Y HERMANDAD ANDINA"
+    secondary: "El corazón del Tinku en la Llajta."
+  description: "Workspace oficial de la Fraternidad Folklórica Cultural Tinkus Wistus - Filial Cochabamba (sede central en La Paz). Especializado en producción cinematográfica de danza folclórica andina, campañas virales de captación de nuevos fraternos, cobertura de alto impacto para el Carnaval de Oruro y el Corso de Corsos en Cochabamba, integrando neuromarketing, fine-art y estándares de cine con IA."
+  founding_date: "1992-09-20 (Matriz La Paz) / Filial Cochabamba"
+  location: "Cochabamba, Bolivia"
+  headquarters: "La Paz, Bolivia (Fundada el 20 de septiembre de 1992)"
+  dance: "Tinku (Ritual ceremonial andino del Norte de Potosí y danza folclórica de vigor, choque y hermandad)"
+
+  # 1. IDENTIDAD DE MARCA Y PALETA OFICIAL
+  brand:
+    colors:
+      primary: "#760386"        # Morado / Púrpura oficial Wistus (Logo institucional y base)
+      secondary: "#FFFFFF"      # Blanco puro (Contraste y tipografía)
+      accent_gold: "#FFB800"    # Dorado / Amarillo oro Inti (Estampados, guardas y bordados)
+      accent_fuchsia: "#BC1669" # Magenta / Fucsia andino (Plumas de montera y vivos tradicionales)
+      accent_night_blue: "#19106B" # Azul noche / Añil andino (Trajes de noche y contraste)
+      neutral_dark: "#1A1A1A"   # Negro carbón (Fondos cinematográficos de alto contraste)
+      neutral_earth: "#B9865F"  # Tono tierra / Cuero de montera y polvo de zapateo
+    fonts:
+      primary: "Montserrat"     # Títulos con peso Black 900 / Bold 700 para presencia épica
+      secondary: "Inter"        # Tipografía limpia para copys, subtítulos y llamados a la acción
+    assets:
+      logo_path: "assets/brand/logo.png"
+      logo_white: "assets/brand/logos/wistus-logo-filial-cocha-blanco.png"
+      logo_purple: "assets/brand/logos/wistus-logo-filial-cocha-morado.png"
+      patterns_path: "assets/brand/isotipos/"
+      gallery_path: "assets/brand/fotos/"
+
+  # 2. CONTEXTO PARA LA IA (Inyección directa para directores, guionistas y prompters)
+  ai_context:
+    tone: "Épico, enérgico, festivo, apasionado, de hermandad profunda, místico andino y de alto impacto cinematográfico. Transmite la adrenalina del zapateo, el orgullo de la identidad boliviana y un llamado irresistible a formar parte de la fraternidad."
+    target_audience:
+      demographics: "Jóvenes y adultos de 16 a 35 años en Cochabamba, La Paz, Oruro y toda Bolivia; universitarios, profesionales, deportistas, amantes del folclore y audiencia internacional fascinada por el Carnaval de Oruro y el Corso de Corsos."
+      psychographics: "Buscan descargar energía, sentirse parte de una familia fraterna, vivir la devoción folclórica en las fiestas mayores del país, superar la rutina diaria y vestir con orgullo la gala andina."
+      pain_points: "Miedo a no saber bailar el paso de tinku, temor a no encajar en un grupo grande, desinformación sobre costos de trajes o ensayos, postergar el sueño de bailar en Oruro o el Corso de Corsos."
+      emotional_triggers: "El retumbar del zapateo que hace temblar el suelo, el viento ondeando las plumas de la montera, el grito unísono '¡Wistus, carajo!', la euforia compartida tras una coreografía perfecta y la hermandad en los ensayos."
+    language: "es"
+    video_editing_style: "Edición cinematográfica rítmica con cortes al beat del bombo y charango de tinku (cortes cada 0.8s a 2s en secuencias rápidas), match cuts de giros y caídas de paso, alternancia entre cámara lenta ultra suave (60/120fps) para apreciar plumas y polvo flotando y aceleraciones rítmicas al paso marcial, rematando con micro-silencios dramáticos antes del clímax."
+    prompt_engineering:
+      image_style: "Cinematic High-End editorial and documentary style, ARRI Alexa 35mm look, dramatic chiaroscuro and golden hour sunlight, hyper-detailed traditional Bolivian Tinku costume textures, hand-embroidered floral and geometric Andean tocapus in golden yellow (#FFB800) and deep purple (#760386), authentic leather montera helmet adorned with multicolored dyed rhea feathers, dynamic flying dust particles during stomping, 8k resolution, photorealistic, medium format Leica / Hasselblad feel, f/1.8 shallow depth of field with organic bokeh."
+      camera_motion: "Dynamic low-angle tracking shot capturing stomping feet and trembling ground, violent whip pan to follow spinning dancers, smooth push-in into intense smiling or determined facial expressions, high-angle drone sweeping over massive colorful choreography blocks, cinematic 60fps/120fps slow-motion capturing floating feather plumes."
+      character_consistency: "Authentic Bolivian dancers, exact facial features, natural skin tones with authentic sun-kissed highland or valley complexion, traditional braided hair for women, authentic full tinku gala attire with matching purple and gold patterns."
+
+  # 3. PERFILES DE PLATAFORMA (Reglas por formato y red social)
+  platforms:
+    tiktok_shorts:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Gancho de identidad y reto viral ('¿Listo para hacer retumbar el asfalto? Convocatoria de nuevos fraternos abierta en Cochabamba. Escríbenos al enlace del perfil')."
+    instagram_reels:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 60
+      cta_style: "Editorial y estético de alta pertenencia ('Guarda este video si vas a romperla con Wistus este año. Ensayo este sábado en la Llajta')."
+    youtube_longform:
+      target_aspect_ratio: "16:9"
+      max_duration_seconds: null
+      cta_style: "Documental inmersivo y cobertura oficial ('Suscríbete para la serie completa del Carnaval de Oruro y el Corso de Corsos')."
+    facebook_ads:
+      target_aspect_ratio: "4:5"
+      max_duration_seconds: 45
+      cta_style: "Convocatoria masiva a ensayos con botón directo a WhatsApp ('Cupos limitados para bloques de varones y mujeres en Cochabamba. ¡Inscríbete hoy!')."
+    whatsapp_status:
+      target_aspect_ratio: "9:16"
+      max_duration_seconds: 30
+      cta_style: "Invitación cálida y directa a ensayos con ubicación de GPS."
+
+  # 4. CONFIGURACIONES POR DEFECTO
+  defaults:
+    image_optimization:
+      enabled: true
+      threshold_kb: 500
+    default_model: "google_flow_veo"
+    audio_policy:
+      no_background_music_in_video_prompts: true
+      clean_dialogue_only: true
+      music_strategy: "separate_continuous_track"
+      prompt_directive: "CRITICAL AUDIO POLICY: NO BACKGROUND MUSIC. Mute background music. Clean footsteps, traditional tinku foot-stomping foley, breathing, and cheering cheers only."
