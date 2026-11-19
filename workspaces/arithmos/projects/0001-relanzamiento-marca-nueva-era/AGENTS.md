@@ -48,7 +48,7 @@ graph LR
 - **Visual:** Plano macro extremo descendente a un sello rojo descolorido sobre pilas de facturas caóticas y calculadora beige sucia. A los 2 segundos, un pulso lumínico en cyan neón (`#00E5FF`) detona y desintegra el papel; la cámara ejecuta un *pull-back* hiper-rápido continuo atravesando el cristal y abriéndose a la majestuosa vista aérea de Paseo de la Reforma al atardecer crepuscular.
 - **Audio & Foley:** Zumbido eléctrico cortado en seco por estallido sonoro digital (*shockwave & crystal swoosh*) que se abre al rumor lejano de la urbe.
 - **Locución en Off:**
-  > *"En México los negocios crecen rápido... pero la contabilidad se quedó en el pasado."*
+  > *"Haces crecer tu negocio todos los días... pero tu contabilidad te sigue frenando."*
 
 ### Escena 2: La Metamorfosis Tecnológica — Nace Arithmos (0:06 - 0:13)
 - **Visual:** Movimiento orbital bajo con efecto paralaje alrededor de un escritorio de roble oscuro ahumado. La laptop ultradelgada de aluminio oscuro despierta mostrando barras analíticas fluidas en cyan neón y azul sobre fondo antracita (`#1E222A`). La cámara revela en primer plano el [[emblema-arithmos]] (anillo ensō en titanio cepillado) con destello anamórfico sutil.
@@ -72,7 +72,7 @@ graph LR
 
 ## 5. 👥 CASTING Y ELEMENTOS CLAVE
 - **`emprendedor-tech`:** Empresario mexicano contemporáneo (30-38 años), vestimenta *smart casual* impecable (camisa abierta de lino o jersey oscuro), mirada enfocada, actitud serena y liberada.
-- **`consultor-arithmos`:** Asesor fiscal moderno (32-40 años), traje sastre contemporáneo sin corbata o blazer azul marino, expresión empática y de alta solvencia técnica.
+- **`consultor-arithmos`:** Consultor Senior del equipo de Arithmos (actor institucional de reparto, 30-35 años, blazer azul marino sin corbata, empatía y solvencia técnica. No personifica al fundador Leonardo para mantener la congruencia real de la firma).
 - **`laptop-fintech`:** Ultrabook en aluminio oscuro exhibiendo interfaz financiera limpia en cyan neón sobre fondo antracita.
 - **`emblema-arithmos`:** Escultura 3D en titanio del círculo en remolino de Arithmos con halo de luz azul.
 - **`taza-cafe-roble`:** Taza cerámica artesanal de autor en escritorio de madera noble.

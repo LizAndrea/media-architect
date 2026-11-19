@@ -1,14 +1,27 @@
 project_id: "0001-relanzamiento-marca-nueva-era"
 name: "Arithmos Brand Film: La Nueva Era de tu Contabilidad"
 type: "commercial_spec_ad"
-status: "planning"
+status: "ready_to_render"
 created_at: "2026-10-27"
 updated_at: "2026-10-27"
 
 assets:
   images:
     - "assets/logo.png"
+    - "assets/consultor_front.jpg"
+    - "assets/consultor_reference.jpg"
+    - "assets/emprendedor_front.jpg"
+    - "assets/emprendedor_reference.jpg"
+    - "storyboard/assets/board_01_04.jpg"
+  keyframes:
+    - "render/scene_001_image.md"
+    - "render/scene_002_image.md"
+    - "render/scene_003_image.md"
+    - "render/scene_004_image.md"
   audio:
+    - "render/voiceover.md"
+    - "render/music.md"
+    - "render/sfx.md"
     - "prompts/audio/voiceover.md"
     - "prompts/audio/music.md"
     - "prompts/audio/sfx.md"
@@ -29,9 +42,11 @@ visuals:
 casting:
   characters:
     - id: "emprendedor-tech"
-      role: "Emprendedor / dueño de negocio mexicano contemporáneo (30-38 años, smart casual impecable, sereno, enfocado y aliviado ante sus números)"
+      role: "Emprendedor / dueño de negocio mexicano contemporáneo"
+      ref_file: "casting/emprendedor_tech.md"
     - id: "consultor-arithmos"
-      role: "Asesor contable y financiero de Arithmos (ejecutivo joven, empático y seguro, trabajando en entorno de cristal y madera)"
+      role: "Consultor Senior de Arithmos (Asesor contable de la firma, actor institucional de reparto)"
+      ref_file: "casting/consultor_arithmos.md"
   props:
     - id: "laptop-fintech"
       role: "Laptop de aluminio oscuro con dashboard contable limpio y gráficos fluidos en cyan neón sobre fondo antracita"

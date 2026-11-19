@@ -56,4 +56,4 @@ Para trabajar con este workspace, utiliza los siguientes comandos del framework:
 ## 🎬 Proyectos Audiovisuales
 | ID | Título | Tipo | Formato | Estado |
 |---|---|---|---|---|
-| `0001` | [Arithmos Brand Film: La Nueva Era de tu Contabilidad](projects/0001-relanzamiento-marca-nueva-era/) | `commercial_spec_ad` | 9:16 (Master) / 16:9 | 🟢 Guion Finalizado (Listo para **`/media-casting`**) |
+| `0001` | [Arithmos Brand Film: La Nueva Era de tu Contabilidad](projects/0001-relanzamiento-marca-nueva-era/) | `commercial_spec_ad` | 9:16 (Master) / 16:9 | 🟢 Prompts de Render Listos (**`/media-render`**) |
