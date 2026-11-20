@@ -1,0 +1,36 @@
+project_id: "0001-el-primer-paso"
+name: "Tráiler de Expectativa: El Primer Paso"
+type: "tiktok_shorts"
+status: "render_ready"
+created_at: "2026-11-18"
+updated_at: "2026-11-19"
+assets:
+  images:
+    - "workspaces/wistus-cocha/assets/brand/logo.png"
+    - "workspaces/wistus-cocha/assets/brand/logos/wistus-logo-filial-cocha-morado.png"
+    - "workspaces/wistus-cocha/assets/brand/logos/wistus-logo-filial-cocha-blanco.png"
+    - "workspaces/wistus-cocha/assets/brand/isotipos/estampados-01.png"
+    - "workspaces/wistus-cocha/assets/brand/isotipos/estampados-05.png"
+    - "workspaces/wistus-cocha/characters/mateo/mateo_frontal.jpg"
+    - "workspaces/wistus-cocha/characters/mateo/mateo_reference.jpg"
+    - "workspaces/wistus-cocha/projects/0001-el-primer-paso/casting/mateo_tinku_front.jpg"
+    - "workspaces/wistus-cocha/projects/0001-el-primer-paso/casting/mateo_tinku_reference.jpg"
+    - "workspaces/wistus-cocha/projects/0001-el-primer-paso/sets/set_01_asfalto_cochabamba_wide.jpg"
+    - "workspaces/wistus-cocha/projects/0001-el-primer-paso/sets/set_01_asfalto_cochabamba_macro.jpg"
+    - "workspaces/wistus-cocha/projects/0001-el-primer-paso/storyboard/assets/board_01_05.jpg"
+    - "workspaces/wistus-cocha/projects/0001-el-primer-paso/render/scene_005_keyframe.jpg"
+    - "workspaces/wistus-cocha/assets/abarcas01/abarca-tinku-llanta.jpg"
+    - "workspaces/wistus-cocha/projects/0001-el-primer-paso/casting/references/ref_abarca_llanta_amarre.jpg"
+  audio: []
+  video: []
+  references: []
+visuals:
+  style_override: "Cinematic High-End Commercial and documentary style, ARRI Alexa 35mm look, ground-level macro, dramatic chiaroscuro, cold dawn transitioning to golden amber lighting, authentic Bolivian Tinku gala costume, black chaquetilla densely adorned with multicolor geometric embroidery, fuchsia cuffs, cascading rainbow-striped aguayo fringe strips, lavender trousers, hand-knitted diamond-patterned polainas, thick white wool socks, authentic rustic hand-cut recycled tire-tread abarcas with tied rubber straps and knotted cord ties (no metal buckles), slow-motion 120fps stomping dust particles, photorealistic 8k, subtle 35mm film grain"
+  location: "sets/set_01_asfalto_cochabamba.md"
+casting:
+  characters:
+    - "mateo"
+  voiceover_only: false
+metrics:
+  engagement_score: 49
+  viral_potential: 49

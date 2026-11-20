@@ -74,6 +74,11 @@ flowchart TD
 
 ---
 
+## 📽️ Catálogo de Proyectos de Video
+- [0001-el-primer-paso](projects/0001-el-primer-paso/README.md): *Tráiler de Expectativa: El Primer Paso* (TikTok / Reels / Shorts 9:16). En fase de planificación.
+
+---
+
 ## 📁 Estructura del Directorio
 - `DOSSIER.md`: Documento maestro con toda la investigación antropológica, historia de Wistus, análisis técnico de activos gráficos y estrategias de contenido.
 - `workspace.yaml`: Configuración de marca, colores analizados, políticas de audio y parámetros de IA.
